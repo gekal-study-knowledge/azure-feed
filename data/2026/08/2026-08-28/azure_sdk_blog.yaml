@@ -1,0 +1,9 @@
+"entries":
+  "04b48cf89d19c54fba16ee74edf749fb":
+    "id": "04b48cf89d19c54fba16ee74edf749fb"
+    "title": "Azure Developer CLI (azd) – August 2026"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2026/"
+    "published": "2026-08-28 02:39:02"
+    "fetched": "2026-08-28 07:40:04"
+    "summary": "<p>Welcome to the August 2026 edition of the Azure Developer CLI (azd) release blog. This post covers releases 1.30.0, 1.31.0, 1.31.1, 1.31.2, and 1.32.0. To share your feedback and questions, join the August release discussion on GitHub. Highlights: The azd extension framework is generally available. Azure Functions services can deploy from a Dockerfile, a prebuilt [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2026/\">Azure Developer CLI (azd) &#8211; August 2026</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-28 07:40:04 JST"
