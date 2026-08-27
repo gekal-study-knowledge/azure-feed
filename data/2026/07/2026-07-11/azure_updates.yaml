@@ -1,0 +1,9 @@
+"entries":
+  "6af6d1a1df1bd05540b117aa314475e1":
+    "id": "6af6d1a1df1bd05540b117aa314475e1"
+    "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026"
+    "link": "https://azure.microsoft.com/updates?id=567556"
+    "published": "2026-07-11 06:33:34"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\nno longer be supported by Automation.  Runbooks\nusing these versions may continue to run but will not receive security updates,\nbug fixes, or o"
+"last_updated": "2026-08-27 21:13:48 JST"

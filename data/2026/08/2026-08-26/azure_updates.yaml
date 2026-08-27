@@ -1,0 +1,16 @@
+"entries":
+  "1cbe29963d03ca68c899719367769837":
+    "id": "1cbe29963d03ca68c899719367769837"
+    "title": "Announcing: Aspire 13.5 has shipped"
+    "link": "https://azure.microsoft.com/updates?id=569910"
+    "published": "2026-08-26 04:55:34"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volumes, and brings live terminals into the apphost.Learn more."
+  "fb8a115ef758ba52ce30aec4c671f956":
+    "id": "fb8a115ef758ba52ce30aec4c671f956"
+    "title": "[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs"
+    "link": "https://azure.microsoft.com/updates?id=569546"
+    "published": "2026-08-26 03:05:54"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memory-optimized VMs deliver up to 20% better compute performance than prior-generation Intel-based v6 VMs, wi"
+"last_updated": "2026-08-27 21:13:48 JST"

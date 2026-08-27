@@ -1,0 +1,37 @@
+"entries":
+  "d13c9b7e1b9c223c97ebc4376e4c8f7d":
+    "id": "d13c9b7e1b9c223c97ebc4376e4c8f7d"
+    "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer"
+    "link": "https://azure.microsoft.com/updates?id=566209"
+    "published": "2026-07-02 02:19:25"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq"
+  "0d2222079cbd9e2e0a832c50bebbcef5":
+    "id": "0d2222079cbd9e2e0a832c50bebbcef5"
+    "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen"
+    "link": "https://azure.microsoft.com/updates?id=563331"
+    "published": "2026-07-02 02:04:40"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Document-based PII detection in Azure AI Language now ships an initial playground experience in the Microsoft Foundry NextGen portal. The playground loads a prepared sample document, runs it through the document-based PII feature, and shows the redacted o"
+  "38ba8064ec49879947da6d9ddfa17097":
+    "id": "38ba8064ec49879947da6d9ddfa17097"
+    "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language"
+    "link": "https://azure.microsoft.com/updates?id=564382"
+    "published": "2026-07-02 02:01:07"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure AI Language now offers a refreshed Document PII playground in general availability, giving customers a faster way to evaluate personally identifiable information detection on documents. The playground ships with curated sample inputs and outputs, so"
+  "c44846c043d65dd295a01290b46285b0":
+    "id": "c44846c043d65dd295a01290b46285b0"
+    "title": "[In preview] Public Preview: Instant Access via application consistent restore points"
+    "link": "https://azure.microsoft.com/updates?id=565758"
+    "published": "2026-07-02 01:59:39"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure introduces Instant Access for VM Restore Points, enabling you to restore disks immediately after a restore point is created—without waiting for background data replication.Key benefits:Faster recovery (lower RTO): Restore disks instantly—no wait for"
+  "9ff6d37e6783997a14a401bee30f64a7":
+    "id": "9ff6d37e6783997a14a401bee30f64a7"
+    "title": "[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS)"
+    "link": "https://azure.microsoft.com/updates?id=566948"
+    "published": "2026-07-02 01:56:50"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from"
+"last_updated": "2026-08-27 21:13:48 JST"

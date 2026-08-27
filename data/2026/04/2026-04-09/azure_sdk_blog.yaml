@@ -1,0 +1,9 @@
+"entries":
+  "619e02729503d300c92c51b52c5eb91b":
+    "id": "619e02729503d300c92c51b52c5eb91b"
+    "title": "Give your Foundry Agent Custom Tools with MCP Servers on Azure Functions"
+    "link": "https://devblogs.microsoft.com/azure-sdk/give-your-foundry-agent-custom-tools-with-mcp-servers-on-azure-functions/"
+    "published": "2026-04-09 00:00:50"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Learn how to connect your MCP server hosted on Azure Functions to Microsoft Foundry agents. This post covers authentication options and setup steps to give your AI agent access to custom MCP tools.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/give-your-foundry-agent-custom-tools-with-mcp-servers-on-azure-functions/\">Give your Foundry Agent Custom Tools with MCP Servers on Azure Functions</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

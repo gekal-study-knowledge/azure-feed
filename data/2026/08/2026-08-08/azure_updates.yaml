@@ -1,0 +1,9 @@
+"entries":
+  "be54667fd9512e773fff2a07f80b583b":
+    "id": "be54667fd9512e773fff2a07f80b583b"
+    "title": "[In preview] Public Preview: Azure ExpressRoute resiliency guard"
+    "link": "https://azure.microsoft.com/updates?id=568666"
+    "published": "2026-08-08 00:52:31"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual\nnetwork gateways. The new resiliency model property lets you specify whether a\ngateway is intended for a single-homed or multi-homed configuration, helping\nali"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,37 @@
+"entries":
+  "def736e243006a6af882991ab13cf779":
+    "id": "def736e243006a6af882991ab13cf779"
+    "title": "Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools"
+    "link": "https://azure.microsoft.com/updates?id=564774"
+    "published": "2026-06-12 04:00:41"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Compute will retire the following Virtual Machine series on November 15, 2028, impacting Azure Batch pools that rely on them:Av2-seriesF-series, Fs-series, Fsv2-seriesG-series, Gs-seriesLsv2-seriesAfter this date:New Batch pools using these VM serie"
+  "dfebebecbb662249e58161cd30dbd3a8":
+    "id": "dfebebecbb662249e58161cd30dbd3a8"
+    "title": "Retirement: D-series, Ds-series, Dv2-series, Dsv2-series, and Ls-series Virtual Machines for Azure Batch pools"
+    "link": "https://azure.microsoft.com/updates?id=564772"
+    "published": "2026-06-12 04:00:41"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Compute will retire the following Virtual Machine series on May 1, 2028, impacting Azure Batch pools that rely on them:D-series, Ds-seriesDv2-series, Dsv2-seriesLs-seriesAfter this date:New Batch pools using these VM series cannot be createdExisting"
+  "f488c7551829998fe419c83a5d375638":
+    "id": "f488c7551829998fe419c83a5d375638"
+    "title": "Retirement: GPv1 and Legacy Blob storage account creation"
+    "link": "https://azure.microsoft.com/updates?id=564441"
+    "published": "2026-06-12 04:00:41"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "As part of our ongoing efforts to streamline the Azure\nStorage portfolio and deliver enhanced performance, scalability, and cost\nefficiency, we are announcing the retirement of all General purpose v1 (GPv1)\nstorage accounts. This includes legacy blob stor"
+  "3e870b424b1700faf520b207933431cb":
+    "id": "3e870b424b1700faf520b207933431cb"
+    "title": "[Launched] Generally Available: SQL MCP Server"
+    "link": "https://azure.microsoft.com/updates?id=564734"
+    "published": "2026-06-12 03:45:02"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "SQL MCP Server is now generally available, giving customers\na secure, high-performance way to build agentic solutions with controlled\naccess to production data. Built for SQL and compatible with PostgreSQL and\nAzure Cosmos DB, SQL MCP Server is a dynamic,"
+  "d5c431ed6685cfbaf34a380f350d866e":
+    "id": "d5c431ed6685cfbaf34a380f350d866e"
+    "title": "Retirement: Azure Load Balancer Inbound NAT rule version 1 for Azure VMSS (aka Inbound NAT Pools)"
+    "link": "https://azure.microsoft.com/updates?id=565482"
+    "published": "2026-06-12 01:15:07"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Update to our previous communication: We previously\nannounced the retirement of all Inbound NAT rules version 1 resources, which\nincluded both single-VM NAT rules and NAT pools for Virtual Machine Scale\nSets. We have narrowed the scope of this retirement"
+"last_updated": "2026-08-27 21:13:48 JST"

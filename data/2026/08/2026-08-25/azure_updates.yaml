@@ -1,0 +1,30 @@
+"entries":
+  "ec8fd1107f83a8610a232a6545ac9f1a":
+    "id": "ec8fd1107f83a8610a232a6545ac9f1a"
+    "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server"
+    "link": "https://azure.microsoft.com/updates?id=569526"
+    "published": "2026-08-25 04:15:05"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli"
+  "ff9f3dd5437607c932cc2e9c8af20a56":
+    "id": "ff9f3dd5437607c932cc2e9c8af20a56"
+    "title": "[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS"
+    "link": "https://azure.microsoft.com/updates?id=569873"
+    "published": "2026-08-25 03:36:01"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "eBPF Host Routing in Advanced\nContainer Networking Services for Azure Kubernetes Service (AKS) is now\ngenerally available. eBPF Host Routing improves\nKubernetes networking performance by moving packet forwarding and routing\ndecisions directly into the Lin"
+  "d9d2ba63ae5df78f7216468995bdfd6e":
+    "id": "d9d2ba63ae5df78f7216468995bdfd6e"
+    "title": "Retirement: Support for Node 22 LTS ends on April 30, 2027"
+    "link": "https://azure.microsoft.com/updates?id=567334"
+    "published": "2026-08-25 02:30:43"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "On April 30 2027, support for Node 22 LTS will end. Your apps that are hosted on App\nService will continue to run, but security updates will no longer be available,\nand we’ll no longer provide customer service for Node 22 LTS. Required action: To\navoid po"
+  "c9b14bfb3d7e148033d92efaac9e5473":
+    "id": "c9b14bfb3d7e148033d92efaac9e5473"
+    "title": "[Launched] Generally Available: Custom block response code and body for Application Gateway WAF"
+    "link": "https://azure.microsoft.com/updates?id=569504"
+    "published": "2026-08-25 02:25:03"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Application Gateway now supports customizable response status codes and bodies for blocked requests, enabling"
+"last_updated": "2026-08-27 21:13:48 JST"

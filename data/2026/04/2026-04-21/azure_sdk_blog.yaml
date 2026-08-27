@@ -1,0 +1,9 @@
+"entries":
+  "c4e01cac829947b63110bb6abf776d1f":
+    "id": "c4e01cac829947b63110bb6abf776d1f"
+    "title": "GitHub Copilot meets Azure Developer CLI: AI-assisted project setup and error troubleshooting"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azd-copilot-integration/"
+    "published": "2026-04-21 09:38:49"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>The Azure Developer CLI (azd) now integrates with GitHub Copilot for AI-assisted project scaffolding and intelligent deployment error troubleshooting, helping you resolve common Azure errors like MissingSubscriptionRegistration, SkuNotAvailable, and StorageAccountAlreadyTaken without leaving the terminal.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azd-copilot-integration/\">GitHub Copilot meets Azure Developer CLI: AI-assisted project setup and error troubleshooting</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

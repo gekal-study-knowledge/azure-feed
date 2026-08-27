@@ -1,0 +1,9 @@
+"entries":
+  "6311867747c64c8fdc54672c7bc18102":
+    "id": "6311867747c64c8fdc54672c7bc18102"
+    "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway"
+    "link": "https://azure.microsoft.com/updates?id=566516"
+    "published": "2026-06-25 04:00:43"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "0d90efcee6bc9df469d2ef992ad35297":
+    "id": "0d90efcee6bc9df469d2ef992ad35297"
+    "title": "Stop juggling package managers—just run `azd update`"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azd-update/"
+    "published": "2026-04-15 04:24:08"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Update the Azure Developer CLI with a single command on any platform and switch release channels.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azd-update/\">Stop juggling package managers—just run `azd update`</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "59ca14245ade2a3278fb2787352408e3":
+    "id": "59ca14245ade2a3278fb2787352408e3"
+    "title": "Azure Developer CLI extension framework is GA: build dev workflows for apps using Azure"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azd-extension-framework-ga/"
+    "published": "2026-08-12 06:57:59"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>What parts of building and shipping on Azure still take too many steps? Maybe you want a command that starts a project with your organization’s approved architecture and infrastructure. Maybe you need to connect deployments to an internal service catalog, run security checks before provisioning, or guide developers through a process that currently lives across [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azd-extension-framework-ga/\">Azure Developer CLI extension framework is GA: build dev workflows for apps using Azure</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

@@ -1,0 +1,23 @@
+"entries":
+  "a8494bd144e57bfb6e916e2afbebb0c7":
+    "id": "a8494bd144e57bfb6e916e2afbebb0c7"
+    "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027"
+    "link": "https://azure.microsoft.com/updates?id=569535"
+    "published": "2026-08-19 04:52:06"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "In November last year, Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portable license for VMware Cloud Foundation (VCF).What’s changing?On August 30, 2027, as a result of the lates"
+  "7c1ac4c95fa4ab6479e203020b678e32":
+    "id": "7c1ac4c95fa4ab6479e203020b678e32"
+    "title": "[Launched] Generally Available: Managed Instance on Azure App Service"
+    "link": "https://azure.microsoft.com/updates?id=568952"
+    "published": "2026-08-19 02:26:25"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Managed Instance on Azure App Service is now generally available. Managed Instance helps organizations migrate web applications to Azure App Service with minimal configuration and no code changes. Applications running on-premises or in virtual machines ca"
+  "fc7d2cac6b475b1135767a5ffe6146fd":
+    "id": "fc7d2cac6b475b1135767a5ffe6146fd"
+    "title": "[In preview] Public Preview: Ipv6 support in Azure Firewall"
+    "link": "https://azure.microsoft.com/updates?id=569520"
+    "published": "2026-08-19 02:25:30"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Firewall now supports IPv6 in public\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\ndual-stack mode for both IPv4 and IPv6 traffic. This preview allows native IPv6\nnetwork-rule filtering and DNS Proxy support, helping"
+"last_updated": "2026-08-27 21:13:48 JST"

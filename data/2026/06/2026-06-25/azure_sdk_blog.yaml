@@ -1,0 +1,9 @@
+"entries":
+  "9bf50d08539bf452fcb24f86f2d0163b":
+    "id": "9bf50d08539bf452fcb24f86f2d0163b"
+    "title": "Azure Functions MCP Extension: What’s New at Build 2026"
+    "link": "https://devblogs.microsoft.com/azure-sdk/functions-mcp-updates-build-2026/"
+    "published": "2026-06-25 05:20:35"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>A roundup of what shipped in the Azure Functions MCP extension since preview: resource and prompt triggers, MCP Apps, built-in MCP authentication, structured and rich content, fluent .NET configuration APIs, and what is coming next.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/functions-mcp-updates-build-2026/\">Azure Functions MCP Extension: What&#8217;s New at Build 2026</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

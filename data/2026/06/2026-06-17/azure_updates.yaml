@@ -1,0 +1,16 @@
+"entries":
+  "6dda6ed189a7b82a69ede6b686077103":
+    "id": "6dda6ed189a7b82a69ede6b686077103"
+    "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code"
+    "link": "https://azure.microsoft.com/updates?id=562497"
+    "published": "2026-06-17 04:00:15"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "The Azure Functions extension for VS Code now provides a redesigned Create New Project experience in public preview, featuring a rich, visual template gallery that replaces the multi-step Quick Pick wizard with a searchable, filterable view of project tem"
+  "0efbc55f9fd35f4d152fde40f72aa270":
+    "id": "0efbc55f9fd35f4d152fde40f72aa270"
+    "title": "[Launched] Generally Available: Log Analytics Summary Rules experience"
+    "link": "https://azure.microsoft.com/updates?id=562027"
+    "published": "2026-06-17 02:15:28"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "A new Azure portal experience for Summary Rules in Log Analytics is now available. Summary Rules enable aggregation of high-volume log data at a defined cadence and store it in summarized tables for improved query performance, reporting, or enhanced data"
+"last_updated": "2026-08-27 21:13:48 JST"

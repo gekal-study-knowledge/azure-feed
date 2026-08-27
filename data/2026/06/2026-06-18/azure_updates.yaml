@@ -1,0 +1,30 @@
+"entries":
+  "66c89fbd15fb2b5ccc4e9326204ce102":
+    "id": "66c89fbd15fb2b5ccc4e9326204ce102"
+    "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments"
+    "link": "https://azure.microsoft.com/updates?id=566145"
+    "published": "2026-06-18 03:00:18"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Migrate now integrates with GitHub Copilot\nModernization (public preview) to deliver at scale code insights. This capability brings\ntogether Azure Migrate’s portfolio-level discovery and assessment with GitHub\nCopilot’s context-aware code analysis."
+  "c4c4d7fef523d570d7eb919fa789b57f":
+    "id": "c4c4d7fef523d570d7eb919fa789b57f"
+    "title": "[Launched] Generally Available: Azure Databricks native read access to Microsoft OneLake"
+    "link": "https://azure.microsoft.com/updates?id=565733"
+    "published": "2026-06-18 03:00:18"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster ac"
+  "0106f343260be9b2a272cb2b139d0ecd":
+    "id": "0106f343260be9b2a272cb2b139d0ecd"
+    "title": "[In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake"
+    "link": "https://azure.microsoft.com/updates?id=565706"
+    "published": "2026-06-18 03:00:18"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data direc"
+  "b4b9015cf40235462b43ff3052eaa2d3":
+    "id": "b4b9015cf40235462b43ff3052eaa2d3"
+    "title": "[Launched] Generally Available: ICMP Support for Azure Standard V2 NAT Gateway"
+    "link": "https://azure.microsoft.com/updates?id=565487"
+    "published": "2026-06-18 01:30:04"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure\nStandardV2 NAT Gateway now supports outbound ICMP Echo Request and Echo Reply\ntraffic, enabling customers to use tools such as ping to quickly validate\noutbound connectivity and troubleshoot network issues from workloads behind\nStandardV2 NAT Gatewa"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "8d08bc7c34465feaf7f150a0d39781aa":
+    "id": "8d08bc7c34465feaf7f150a0d39781aa"
+    "title": "Hunting MacSync Stealer infrastructure through behavioral pivots"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/"
+    "published": "2026-08-19 02:08:28"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "<p>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/\">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:48 JST"

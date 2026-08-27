@@ -1,0 +1,9 @@
+"entries":
+  "1138919428c9bf4f95e0b7a24acb347d":
+    "id": "1138919428c9bf4f95e0b7a24acb347d"
+    "title": "[Launched] Update: Minimum billable object size for cooler storage tiers"
+    "link": "https://azure.microsoft.com/updates?id=559756"
+    "published": "2026-04-15 06:15:15"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "We are pausing the introduction of a minimum billable object size for the cool, cold, and archive access tiers. As a result, billing behavior will not change on July 1, 2026, for either new or existing storage accounts.  We will provide an update on our r"
+"last_updated": "2026-08-27 21:13:48 JST"

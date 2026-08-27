@@ -1,0 +1,37 @@
+"entries":
+  "19ce3a61765ac968000a0561a7c53ecb":
+    "id": "19ce3a61765ac968000a0561a7c53ecb"
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central"
+    "link": "https://azure.microsoft.com/updates?id=568334"
+    "published": "2026-07-31 04:14:44"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Now you can deploy Azure Database for PostgreSQL flexible server in the India South Central Azure region.   Learn more."
+  "cb7f10b628d4fb288e26b8c53898aa0b":
+    "id": "cb7f10b628d4fb288e26b8c53898aa0b"
+    "title": "[Launched] Generally Available: Azure Automation supports PowerShell 7.6 runbooks and Runtime environment"
+    "link": "https://azure.microsoft.com/updates?id=568102"
+    "published": "2026-07-31 04:10:35"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Automation is pleased to announce: General Availability of in-support PowerShell 7.6  runbooksRuntime Environment GA, enabling customers to seamlessly upgrade their outdated scripts to supported runtime versions.  Support for Azure CLI commands in P"
+  "b0a8826c42c28a854218b0c416edef0b":
+    "id": "b0a8826c42c28a854218b0c416edef0b"
+    "title": "Announcing: Reservation exchanges for Azure services supported by savings plans will no longer be available starting February 1, 2027"
+    "link": "https://azure.microsoft.com/updates?id=568514"
+    "published": "2026-07-31 04:03:21"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Starting February 1, 2027, Azure reservations exchanges will no longer be available for services covered by savings plans.  At the time of this announcement, this includes reservations for the following services:    Compute services: Azure Virtual Machine"
+  "557ae33b197850e51b621f263707cda9":
+    "id": "557ae33b197850e51b621f263707cda9"
+    "title": "[In preview] Public Preview: Symmetric keys on Azure Key Vault Premium"
+    "link": "https://azure.microsoft.com/updates?id=566746"
+    "published": "2026-07-31 03:57:18"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "We’re announcing symmetric\nkeys on Azure Key Vault Premium are now available in public preview. This preview enables\ncustomers and partners to evaluate symmetric encryption capabilities using the oct-HSM\nkey type and the Advanced Encryption Standard (AES)"
+  "22acc61959b121821563141694bc0dfa":
+    "id": "22acc61959b121821563141694bc0dfa"
+    "title": "[In preview] Public Preview: Support for SMB Opportunistic Locking (Oplocks) configuration"
+    "link": "https://azure.microsoft.com/updates?id=568396"
+    "published": "2026-07-31 01:38:15"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure NetApp Files now supports configuration of SMB opportunistic locking (oplocks) for SMB and dual-protocol volumes. Opportunistic locks (Oplocks) improve SMB client caching and are enabled by default. You can configure oplocks on new volumes or update"
+"last_updated": "2026-08-27 21:13:48 JST"

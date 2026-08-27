@@ -1,0 +1,9 @@
+"entries":
+  "894127406154a803522948ad2602f2b1":
+    "id": "894127406154a803522948ad2602f2b1"
+    "title": "[In preview] Public Preview: Azure DDoS Protection custom policy"
+    "link": "https://azure.microsoft.com/updates?id=568063"
+    "published": "2026-07-24 01:47:24"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure DDoS Protection custom policy\nis now in public preview. This capability provides per-resource control over\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\nconfigurations. Customers can configure fixed\ninbound detection th"
+"last_updated": "2026-08-27 21:13:48 JST"

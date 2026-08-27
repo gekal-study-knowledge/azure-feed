@@ -1,0 +1,16 @@
+"entries":
+  "cc21fc06ae15694d9b7651ad2cc0c202":
+    "id": "cc21fc06ae15694d9b7651ad2cc0c202"
+    "title": "[Launched] Generally Available: Azure Functions support for Python 3.14"
+    "link": "https://azure.microsoft.com/updates?id=567646"
+    "published": "2026-07-18 02:47:00"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "You can now develop functions using Python 3.14 locally and\ndeploy them to Azure Functions plans on Linux. Upgrade your apps to Python 3.14 to take advantage\nof enhanced security, a longer support window, and continued compatibility with\nthe Azure Functio"
+  "1c51d0bda71a1495321a727aeccebd87":
+    "id": "1c51d0bda71a1495321a727aeccebd87"
+    "title": "[Launched] Public Preview: Azure Functions Support for PowerShell 7.6"
+    "link": "https://azure.microsoft.com/updates?id=567651"
+    "published": "2026-07-18 02:44:00"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Functions support for PowerShell 7.6 is now available in preview. You can now develop apps using PowerShell 7.6 locally and deploy them to Azure Functions plans. Learn more:  What's\nnew in PowerShell 7.6 Azure Functions PowerShell versions and their"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "74ee42f0f73c3703ffc6a0e17e604fb5":
+    "id": "74ee42f0f73c3703ffc6a0e17e604fb5"
+    "title": "Write azd hooks in Python, JavaScript, TypeScript, or .NET"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azd-multi-language-hooks/"
+    "published": "2026-04-23 07:04:08"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Hooks are one of the most popular features in azd, and now you can write them in Python, JavaScript, TypeScript, or .NET, not just Bash and PowerShell. What&#8217;s new? The Azure Developer CLI (azd) hook system now supports four more languages beyond Bash and PowerShell. You can write hook scripts in Python, JavaScript, TypeScript, or [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azd-multi-language-hooks/\">Write azd hooks in Python, JavaScript, TypeScript, or .NET</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

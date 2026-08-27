@@ -1,0 +1,16 @@
+"entries":
+  "cb5d0887c7340a03d625e129e3a19572":
+    "id": "cb5d0887c7340a03d625e129e3a19572"
+    "title": "[In preview] Public Preview: Agent mode for GitHub Copilot in SQL Server Management Studio (SSMS)"
+    "link": "https://azure.microsoft.com/updates?id=562637"
+    "published": "2026-06-10 08:45:10"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "You can now use Agent mode for GitHub Copilot in SSMS to work with your database: investigating performance problems, tuning queries, reviewing maintenance and configuration, identifying security concerns, troubleshooting errors, and assisting with operat"
+  "55dde3b8fc3bb0931b1f2476f4742a60":
+    "id": "55dde3b8fc3bb0931b1f2476f4742a60"
+    "title": "[Launched] Generally Available: PostgreSQL Hub for Azure Developers"
+    "link": "https://azure.microsoft.com/updates?id=562084"
+    "published": "2026-06-10 03:45:07"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "PostgreSQL Hub for Azure Developers brings together key AI and application development resources for PostgreSQL on Azure. It includes curated sample apps and solution accelerators, tutorials, and structured learning pathways to help you build everything f"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "0cc3689e2212054c2bb247662d68c977":
+    "id": "0cc3689e2212054c2bb247662d68c977"
+    "title": "The problem: All-or-nothing batch processing in Azure Service Bus"
+    "link": "https://devblogs.microsoft.com/azure-sdk/per-message-settlement-azure-service-bus/"
+    "published": "2026-04-29 03:47:37"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Azure Functions lets you settle each Service Bus message on its own within a batch. Complete, abandon, dead-letter, or defer messages one by one to avoid duplicate processing and handle errors with precision.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/per-message-settlement-azure-service-bus/\">The problem: All-or-nothing batch processing in Azure Service Bus</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

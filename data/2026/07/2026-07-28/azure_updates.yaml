@@ -1,0 +1,23 @@
+"entries":
+  "8b693f9e375ac5514a2176b7868a01b2":
+    "id": "8b693f9e375ac5514a2176b7868a01b2"
+    "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks"
+    "link": "https://azure.microsoft.com/updates?id=568316"
+    "published": "2026-07-28 04:41:46"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic's latest model for advanced reasoning, coding, agentic workflows, and professional knowledge work. Claude Opus 5 is designed for complex tasks requi"
+  "c51e669b968f0c5bbb11835866c60b1f":
+    "id": "c51e669b968f0c5bbb11835866c60b1f"
+    "title": "[Launched] Generally Available: HTTP header insertion in Azure Firewall"
+    "link": "https://azure.microsoft.com/updates?id=568115"
+    "published": "2026-07-28 01:54:36"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Firewall now supports HTTP header insertion, enabling\norganizations to add or overwrite HTTP/HTTPS request\nheaders directly from Azure Firewall application rules. This capability helps\ncustomers enforce security controls, support tenant restriction"
+  "93bff62e5fc80d77e24fde39e6e5936b":
+    "id": "93bff62e5fc80d77e24fde39e6e5936b"
+    "title": "[In preview] Public Preview: AI Gateway in Azure API Management"
+    "link": "https://azure.microsoft.com/updates?id=568184"
+    "published": "2026-07-28 01:44:29"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "The AI Gateway tier for Azure API Management is now available in public preview. Building on the AI gateway capabilities already available across API Management tiers, the new AI Gateway tier provides a dedicated experience optimized for AI workloads.As o"
+"last_updated": "2026-08-27 21:13:48 JST"

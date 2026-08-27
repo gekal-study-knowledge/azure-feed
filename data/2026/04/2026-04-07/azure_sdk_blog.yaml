@@ -1,0 +1,16 @@
+"entries":
+  "e75abadc3d399f99c1b16e33591f9ba3":
+    "id": "e75abadc3d399f99c1b16e33591f9ba3"
+    "title": "Announcing the end of support for Node.js 20.x in the Azure SDK for JavaScript"
+    "link": "https://devblogs.microsoft.com/azure-sdk/announcing-the-end-of-support-for-node-js-20-x-in-the-azure-sdk-for-javascript/"
+    "published": "2026-04-07 05:52:46"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>After July 9, 2026, the Azure SDK for JavaScript will no longer support Node.js 20.x. Upgrade to an Active Node.js Long Term Support (LTS) version to stay secure and up-to-date.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/announcing-the-end-of-support-for-node-js-20-x-in-the-azure-sdk-for-javascript/\">Announcing the end of support for Node.js 20.x in the Azure SDK for JavaScript</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+  "ee5b82e3208e28e84ad38e8796cc2ce2":
+    "id": "ee5b82e3208e28e84ad38e8796cc2ce2"
+    "title": "MCP Apps on Azure Functions: Quickstart with TypeScript"
+    "link": "https://devblogs.microsoft.com/azure-sdk/mcp-apps-on-azure-functions-quickstart-with-typescript/"
+    "published": "2026-04-07 00:01:58"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Learn how to build and deploy MCP (Model Context Protocol) apps on Azure Functions using TypeScript. This guide covers MCP tools, resources, local development, and serverless deployment with a practical weather app example.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/mcp-apps-on-azure-functions-quickstart-with-typescript/\">MCP Apps on Azure Functions: Quickstart with TypeScript</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

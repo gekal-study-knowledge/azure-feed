@@ -1,0 +1,9 @@
+"entries":
+  "0332e584f97d2110722321caee30066d":
+    "id": "0332e584f97d2110722321caee30066d"
+    "title": "Azure Developer CLI (azd) – April 2026"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2026/"
+    "published": "2026-05-01 09:53:08"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>The Azure Developer CLI (azd) shipped five releases in April 2026. The biggest theme this month is multi-language hook support: write azd hooks in Python, JavaScript, TypeScript, or .NET alongside the existing Bash and PowerShell options. Here&#8217;s what&#8217;s in versions 1.23.14, 1.23.15, 1.24.0, 1.24.1, and 1.24.2. To share your feedback and questions, join the April [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-april-2026/\">Azure Developer CLI (azd) &#8211; April 2026</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "cdbe9bc360ba94a306a4dfdd5dd68483":
+    "id": "cdbe9bc360ba94a306a4dfdd5dd68483"
+    "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry"
+    "link": "https://azure.microsoft.com/updates?id=567594"
+    "published": "2026-07-21 00:09:43"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Monitor Application Insights now stores generative AI\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\nAnalytics), making it possible to apply newly\navailable access controls to sensitive AI telemetry. Because Application\nInsights p"
+"last_updated": "2026-08-27 21:13:48 JST"

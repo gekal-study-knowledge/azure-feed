@@ -1,0 +1,16 @@
+"entries":
+  "6808761aafb370a1abf74a3e6dda4386":
+    "id": "6808761aafb370a1abf74a3e6dda4386"
+    "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server"
+    "link": "https://azure.microsoft.com/updates?id=567527"
+    "published": "2026-07-17 23:55:28"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible"
+  "93b523f16e3680cd73ee93bfd77cbc31":
+    "id": "93b523f16e3680cd73ee93bfd77cbc31"
+    "title": "[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS)"
+    "link": "https://azure.microsoft.com/updates?id=567787"
+    "published": "2026-07-17 23:54:09"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. With EiT enabled, data transferred between AKS workloads and Azure Files NFS shares is encrypted using TL"
+"last_updated": "2026-08-27 21:13:48 JST"

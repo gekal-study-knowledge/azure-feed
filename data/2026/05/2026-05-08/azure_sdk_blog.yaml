@@ -1,0 +1,9 @@
+"entries":
+  "01feedbd5c26aeecb87eeaf4fefdd4c5":
+    "id": "01feedbd5c26aeecb87eeaf4fefdd4c5"
+    "title": "Least privilege AI agents: A new azd template from Curity and Microsoft"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azd-curity-least-privilege-ai-agents/"
+    "published": "2026-05-08 06:26:27"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>If you ever built an AI agent demo, you probably had this moment. Everything works: the agent interprets natural language, calls the right tools, and returns the right data. Then you start designing for the real users of the app. You think about data boundaries: what if someone tries to get data they&#8217;re not supposed [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azd-curity-least-privilege-ai-agents/\">Least privilege AI agents: A new azd template from Curity and Microsoft</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

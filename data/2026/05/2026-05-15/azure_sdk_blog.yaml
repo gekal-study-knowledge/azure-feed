@@ -1,0 +1,16 @@
+"entries":
+  "9d299de781827757f720465a2abe301c":
+    "id": "9d299de781827757f720465a2abe301c"
+    "title": "Exponential backoff and circuit breaker for Service Bus-triggered Azure Functions"
+    "link": "https://devblogs.microsoft.com/azure-sdk/exponential-backoff-circuit-breaker-azure-functions/"
+    "published": "2026-05-15 08:04:41"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Use exponential backoff and circuit breaker patterns in Azure Functions with Service Bus SDK bindings. Control retry storms, protect dependencies, and degrade gracefully under transient failures.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/exponential-backoff-circuit-breaker-azure-functions/\">Exponential backoff and circuit breaker for Service Bus-triggered Azure Functions</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+  "f8cc75dfa1e42f191bb27e2346a65acc":
+    "id": "f8cc75dfa1e42f191bb27e2346a65acc"
+    "title": "From beta to stable: Announcing the Azure SDK for Rust \U0001F389\U0001F980"
+    "link": "https://devblogs.microsoft.com/azure-sdk/from-beta-to-stable-announcing-the-azure-sdk-for-rust-ga/"
+    "published": "2026-05-15 00:46:19"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>Announcing the stable release of the Azure SDK for Rust. This release includes stable libraries for Core, Identity, Key Vault (Secrets, Keys, Certificates), and Storage (Blobs, Queues).</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/from-beta-to-stable-announcing-the-azure-sdk-for-rust-ga/\">From beta to stable: Announcing the Azure SDK for Rust \U0001F389\U0001F980</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

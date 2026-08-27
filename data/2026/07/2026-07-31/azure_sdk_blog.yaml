@@ -1,0 +1,9 @@
+"entries":
+  "b75b2c38b27e0e182ee8a21b2f2795fa":
+    "id": "b75b2c38b27e0e182ee8a21b2f2795fa"
+    "title": "Azure Developer CLI (azd) July 2026"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-july-2026/"
+    "published": "2026-07-31 05:20:10"
+    "fetched": "2026-08-27 21:13:50"
+    "summary": "<p>This is the July round-up for the Azure Developer CLI (azd). Five releases shipped since the last post: 1.27.0, 1.27.1, 1.28.0, 1.28.1, and 1.29.0. Below is what&#8217;s new, what changed, and what we fixed, with links to the pull requests if you want to dig in. Have feedback or questions? Join the release discussion on [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-july-2026/\">Azure Developer CLI (azd) July 2026</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-08-27 21:13:50 JST"

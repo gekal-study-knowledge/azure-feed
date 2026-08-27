@@ -1,0 +1,9 @@
+"entries":
+  "cc74df3b82e7875f5ce77b9ab5e0a819":
+    "id": "cc74df3b82e7875f5ce77b9ab5e0a819"
+    "title": "[In preview] Public Preview: Azure Front Door edge actions"
+    "link": "https://azure.microsoft.com/updates?id=567402"
+    "published": "2026-07-15 05:03:32"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user"
+"last_updated": "2026-08-27 21:13:48 JST"

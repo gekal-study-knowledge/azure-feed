@@ -1,0 +1,23 @@
+"entries":
+  "0580a11e86209280c703c922bb2d0523":
+    "id": "0580a11e86209280c703c922bb2d0523"
+    "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus"
+    "link": "https://azure.microsoft.com/updates?id=568830"
+    "published": "2026-08-14 01:19:56"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally available.This capability gives AKS customers native observability into key managed control plane components, in"
+  "c187f6d570ab91c9b28453f082e1f28d":
+    "id": "c187f6d570ab91c9b28453f082e1f28d"
+    "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks"
+    "link": "https://azure.microsoft.com/updates?id=569281"
+    "published": "2026-08-14 01:17:41"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "We’re excited to announce the GA\nof Live Resize for shared Premium\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\nexpand the storage capacity of your disks without any disruption to your\napplications. To optimize costs, you can"
+  "8bbe8d19814653356a006f22e0882935":
+    "id": "8bbe8d19814653356a006f22e0882935"
+    "title": "[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server"
+    "link": "https://azure.microsoft.com/updates?id=568419"
+    "published": "2026-08-14 01:13:22"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major version upgrade (MVU) readiness before initiating the actual upgrade process. With the general availability"
+"last_updated": "2026-08-27 21:13:48 JST"

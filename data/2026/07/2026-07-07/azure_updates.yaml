@@ -1,0 +1,16 @@
+"entries":
+  "8b683078942ff8652eb7076d2bda5e71":
+    "id": "8b683078942ff8652eb7076d2bda5e71"
+    "title": "[Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP"
+    "link": "https://azure.microsoft.com/updates?id=567085"
+    "published": "2026-07-07 00:54:08"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Microsoft Entra ID-based access for Azure Blob Storage SFTP is now generally available in all regions. You can now use Entra ID identities including guest users via Entra External Identities to securely connect to Azure Blob Storage over SFTP, without pro"
+  "f381e085e43cdecea133c990042d2c03":
+    "id": "f381e085e43cdecea133c990042d2c03"
+    "title": "[Launched] Generally Available: Support 5x churn in Azure Site Recovery"
+    "link": "https://azure.microsoft.com/updates?id=566966"
+    "published": "2026-07-07 00:00:33"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d"
+"last_updated": "2026-08-27 21:13:48 JST"

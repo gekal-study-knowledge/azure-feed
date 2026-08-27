@@ -1,0 +1,30 @@
+"entries":
+  "16ea0a117e2d971a8f66bc6ada7bb924":
+    "id": "16ea0a117e2d971a8f66bc6ada7bb924"
+    "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications"
+    "link": "https://azure.microsoft.com/updates?id=568457"
+    "published": "2026-08-13 04:41:20"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date the agent will be permanently disabled and will stop sending SAP logs to Microsoft Sentinel.The SAP agent"
+  "d97d3fcbd1ada9130cfa75bde34f09f2":
+    "id": "d97d3fcbd1ada9130cfa75bde34f09f2"
+    "title": "[Launched] Generally Available: Batch rule updates for Azure Front Door"
+    "link": "https://azure.microsoft.com/updates?id=569246"
+    "published": "2026-08-13 02:03:08"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Batch rule updates are now generally\navailable for Azure Front Door Standard and Premium. This capability enables\ncustomers to add, update, delete, or reorder multiple rules in a rule set as a\ncoordinated operation, ensuring that all changes are applied t"
+  "aaae78f6969d8f6404f6e9b69aedc62d":
+    "id": "aaae78f6969d8f6404f6e9b69aedc62d"
+    "title": "[In preview] Public Preview: Azure Front Door mutual TLS"
+    "link": "https://azure.microsoft.com/updates?id=569251"
+    "published": "2026-08-13 02:01:19"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Mutual TLS, also known as client\ncertificate authentication, enables Azure Front Door to authenticate clients\nusing X.509 certificates before requests reach an application. It helps protect\nsensitive applications and APIs across business-to-business, Inte"
+  "3ece8240fd425d18129522deb0e98432":
+    "id": "3ece8240fd425d18129522deb0e98432"
+    "title": "[In preview] Public Preview: Markdown for Agents in Azure App Service"
+    "link": "https://azure.microsoft.com/updates?id=568979"
+    "published": "2026-08-13 01:38:31"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Today, we are announcing the public preview of Markdown for Agents in Azure App Service. This feature gives AI agents and other tools a cleaner way to consume content from an App Service app. When a client requests Markdown, App Service can automatically"
+"last_updated": "2026-08-27 21:13:48 JST"

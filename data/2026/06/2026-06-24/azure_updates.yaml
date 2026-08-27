@@ -1,0 +1,9 @@
+"entries":
+  "dffc46230d8c7134bf2be32b8ab2ae9f":
+    "id": "dffc46230d8c7134bf2be32b8ab2ae9f"
+    "title": "[In preview] Generally Available: Azure NetApp Files migration assistant"
+    "link": "https://azure.microsoft.com/updates?id=565480"
+    "published": "2026-06-24 05:15:55"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF)."
+"last_updated": "2026-08-27 21:13:48 JST"

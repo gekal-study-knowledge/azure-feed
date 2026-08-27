@@ -1,0 +1,9 @@
+"entries":
+  "83b47d5704605d7490ba6f6928d98101":
+    "id": "83b47d5704605d7490ba6f6928d98101"
+    "title": "[In preview] Public Preview: Standard service endpoint"
+    "link": "https://azure.microsoft.com/updates?id=561475"
+    "published": "2026-07-23 01:57:10"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services under the Private Link family. This enhanced capability overcomes the scale and management limitations of"
+"last_updated": "2026-08-27 21:13:48 JST"

@@ -1,0 +1,16 @@
+"entries":
+  "ce60f75f187aba566fb125c23e7d395a":
+    "id": "ce60f75f187aba566fb125c23e7d395a"
+    "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI"
+    "link": "https://azure.microsoft.com/updates?id=567225"
+    "published": "2026-07-10 07:57:33"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "You can now create and run Azure Chaos Studio resilience Scenarios directly from the Azure CLI with the new az chaos extension — no more hand-assembling REST calls and JSON files. Get started in one step: az chaos setup stands up a workspace, wires up per"
+  "5141afdc38db687d22c9802ac427b36d":
+    "id": "5141afdc38db687d22c9802ac427b36d"
+    "title": "[Launched] Generally Available: Open AI GPT-5.6 on Azure Databricks"
+    "link": "https://azure.microsoft.com/updates?id=567431"
+    "published": "2026-07-10 05:21:12"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Open AI GPT-5.6 is now available on Azure Databricks. You can use GPT 5.6 (purchased on Microsoft Foundry) via Model Serving Endpoint in Azure Databricks. Through integrations across Foundry and Azure Databricks, you can securely build, deploy, and manage"
+"last_updated": "2026-08-27 21:13:48 JST"

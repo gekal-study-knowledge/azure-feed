@@ -1,0 +1,23 @@
+"entries":
+  "9d5b54b08f2dc8a423ca8afddea5391d":
+    "id": "9d5b54b08f2dc8a423ca8afddea5391d"
+    "title": "[Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database"
+    "link": "https://azure.microsoft.com/updates?id=565154"
+    "published": "2026-06-11 05:45:26"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Microsoft Entra server principals (logins) for Azure SQL Database is now generally available. You can now use CREATE LOGIN ... FROM EXTERNAL PROVIDER in the virtual master database, bringing parity with SQL logins for your Microsoft Entra identities.With"
+  "083f6bd9bde9da67a99e521de9a80e7c":
+    "id": "083f6bd9bde9da67a99e521de9a80e7c"
+    "title": "Retirement: Azure Synapse Link for Azure Cosmos DB NoSQL"
+    "link": "https://azure.microsoft.com/updates?id=558560"
+    "published": "2026-06-11 02:00:06"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "As of March 31, 2026, new Azure Cosmos DB NoSQL accounts can no longer enable Azure Synapse Link. Existing customers will remain fully supported until March 31, 2029, when Azure Synapse Link will reach end of life.We encourage all customers to begin migra"
+  "75cf51fde9d07d8f2e0cec8284798bb3":
+    "id": "75cf51fde9d07d8f2e0cec8284798bb3"
+    "title": "Retirement: Azure VPN Client for Linux (Preview) will be retired on August 31, 2026"
+    "link": "https://azure.microsoft.com/updates?id=565393"
+    "published": "2026-06-11 01:15:16"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "The Azure VPN Client for Linux (Preview) has remained in public preview and does not have a path to general availability (GA). As part of our ongoing efforts to align Azure networking services with current security and reliability standards, this preview"
+"last_updated": "2026-08-27 21:13:48 JST"

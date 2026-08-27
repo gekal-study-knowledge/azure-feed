@@ -1,0 +1,9 @@
+"entries":
+  "a13a03039d026baffb73734cc6405b44":
+    "id": "a13a03039d026baffb73734cc6405b44"
+    "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting"
+    "link": "https://azure.microsoft.com/updates?id=569140"
+    "published": "2026-08-11 02:50:54"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the"
+"last_updated": "2026-08-27 21:13:48 JST"

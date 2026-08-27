@@ -1,0 +1,23 @@
+"entries":
+  "64ec416741a2191d888a6382fa0b350f":
+    "id": "64ec416741a2191d888a6382fa0b350f"
+    "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose"
+    "link": "https://azure.microsoft.com/updates?id=568344"
+    "published": "2026-08-18 04:54:52"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This update helps you improve business continuity by automatically distributing your compute and data across a"
+  "c50742dd22d81e9029c64cb4534a1748":
+    "id": "c50742dd22d81e9029c64cb4534a1748"
+    "title": "[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace"
+    "link": "https://azure.microsoft.com/updates?id=557775"
+    "published": "2026-08-18 04:37:49"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in the United States can now discover, evaluate and purchase Dragon Copilot Physician Apps and Agents throug"
+  "5414aa697ed681018b1474de49cc7ad9":
+    "id": "5414aa697ed681018b1474de49cc7ad9"
+    "title": "[In preview] Public Preview: Azure Linux on WSL"
+    "link": "https://azure.microsoft.com/updates?id=569376"
+    "published": "2026-08-18 02:08:40"
+    "fetched": "2026-08-27 21:13:48"
+    "summary": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate behavior using production-aligned configurationsReproduce issues more reliablyReduce time spent debugging c"
+"last_updated": "2026-08-27 21:13:48 JST"
