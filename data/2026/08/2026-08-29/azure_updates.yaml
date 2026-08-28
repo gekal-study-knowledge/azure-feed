@@ -1,0 +1,9 @@
+"entries":
+  "7789a11c49f454ae622e16278a9ff740":
+    "id": "7789a11c49f454ae622e16278a9ff740"
+    "title": "[Launched] Generally Available: Azure VM Image Builder in sovereign and air-gapped clouds"
+    "link": "https://azure.microsoft.com/updates?id=570105"
+    "published": "2026-08-29 00:45:32"
+    "fetched": "2026-08-29 04:06:46"
+    "summary": "Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secret.You can now use the same managed image-building service across your sovereign and air-gapped environmen"
+"last_updated": "2026-08-29 04:06:46 JST"
