@@ -1,17 +1,20 @@
 "date": "2026-08-27"
-"generated_at": "2026-08-28 09:42:32 JST"
+"generated_at": "2026-08-28 09:54:44 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 9
+"article_count": 11
 "sources":
   - "apps_on_azure_blog"
+  - "azure_blog"
   - "azure_networking_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は Azure SRE Agent と Azure Bastion の更新が並びました。SRE Agent は 30 日間のトライアルが一般提供となり、新規顧客が運用ツールやデータソースと接続して自分のペースで機能を試せるようになりました。VNet 統合の GA と Live Reports のプレビューもあわせて案内されています。Azure Bastion では AKS クラスターへの接続が一般提供となり、ローカルマシンから Bastion を経由した安全なトンネルで AKS の API サーバーへ到達できます。加えて IPv4/IPv6 デュアルスタック構成のプレビューと、共有リンクの有効期限設定の GA も加わりました。Apps on Azure Blog では「エージェントを制限するのではなく、その実行環境を制限せよ」という AI 安全性の考え方が示され、Microsoft Threat Intelligence は LiteLLM ゲートウェイの悪用を含む、露出した AI ワークロードへの攻撃を分析しています。
+  この日は Azure SRE Agent と Azure Bastion の更新が並びました。SRE Agent は 30 日間のトライアルが一般提供となり、新規顧客が運用ツールやデータソースと接続して自分のペースで機能を試せるようになりました。VNet 統合の GA と Live Reports のプレビューもあわせて案内されています。Azure Bastion では AKS クラスターへの接続が一般提供となり、ローカルマシンから Bastion を経由した安全なトンネルで AKS の API サーバーへ到達できます。加えて IPv4/IPv6 デュアルスタック構成のプレビューと、共有リンクの有効期限設定の GA も加わりました。Apps on Azure Blog では「エージェントを制限するのではなく、その実行環境を制限せよ」という AI 安全性の考え方と、Browser Automation Tool の認証情報を Azure Key Vault で安全に扱う方法が示されています。Azure Blog ではエージェントのコストを下げる 4 つのレバーが、Microsoft Threat Intelligence は LiteLLM ゲートウェイの悪用を含む露出した AI ワークロードへの攻撃を分析しました。
 "topics":
-  - "運用エージェント: Azure SRE Agent の 30 日間トライアルが GA、VNet 統合も一般提供"
+  - "運用エージェント: Azure SRE Agent の 30 日間トライアルが GA、VNet 統合も一般提供、Live Reports はプレビュー"
   - "踏み台: Azure Bastion から AKS クラスターへの接続が GA、共有リンクの有効期限設定も GA"
   - "IPv6: Azure Bastion の IPv4/IPv6 デュアルスタック構成がパブリックプレビュー"
   - "AI 安全性: エージェント自体ではなくその実行環境を制限するという設計アプローチ"
+  - "認証情報管理: Browser Automation Tool の認証情報を Azure Key Vault で安全に管理する方法"
+  - "コスト: Microsoft Foundry が提供する、エージェントロジックを変えずにコストを下げる 4 つのレバー"
   - "脅威分析: LiteLLM ゲートウェイの悪用を含む、露出した AI ワークロードへの攻撃と認証情報窃取・暗号採掘"

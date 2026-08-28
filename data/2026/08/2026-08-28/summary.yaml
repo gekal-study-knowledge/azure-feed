@@ -1,0 +1,14 @@
+"date": "2026-08-28"
+"generated_at": "2026-08-28 09:54:44 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_blog"
+  - "azure_sdk_blog"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 3 件でした。Azure Blog では、マネージドな PostgreSQL と自己ホストの PostgreSQL を、コスト・制御・セキュリティ・レジリエンシー・スケーラビリティ・運用工数という観点で比較する記事が公開されています。Azure SDK Blog では Azure Developer CLI (azd) の 2026 年 8 月版まとめとして、1.30.0 から 1.32.0 までの 5 リリースが紹介され、azd の拡張機能フレームワークが一般提供になったことがハイライトとして挙げられました。Microsoft Security Blog では 8 月のセキュリティ更新がまとめられ、エージェントの活動に関するインサイト獲得、対応環境でのセキュリティカバレッジの拡大、環境横断のセキュリティ管理強化といった新機能が案内されています。
+"topics":
+  - "データベース選定: マネージド PostgreSQL と自己ホスト PostgreSQL をコスト・制御・セキュリティ・運用工数で比較"
+  - "開発ツール: azd の 2026 年 8 月まとめ (1.30.0〜1.32.0)、拡張機能フレームワークが一般提供に"
+  - "セキュリティ: 2026 年 8 月の Microsoft Security 更新、エージェント活動のインサイトとカバレッジ拡大"
