@@ -1,0 +1,14 @@
+"date": "2026-07-23"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日は MCP のエンタープライズ統制が中心でした。MCP が「AI にとっての USB-C」になりつつあるなら、その反対側にはコントロールプレーンが必要だという観点から、Azure API Management を使った認証・アクセス・ロギング・ガバナンスの構成が示されています。ネットワークでは Standard サービスエンドポイントがパブリックプレビューとなり、Private Link ファミリーの一部として IaaS ワークロードから Azure PaaS サービスへスケーラブルかつ安全に接続できるようになりました。あわせて Path to Production for Agents ウェビナーシリーズ (全 6 回の無償技術トレーニング) の開始が改めて案内されています。
+"topics":
+  - "MCP 統制: Azure API Management を MCP のコントロールプレーンとして使う認証・アクセス・ロギング・ガバナンス"
+  - "ネットワーク: Standard サービスエンドポイントがパブリックプレビュー、Private Link ファミリーとして IaaS から PaaS へ安全に接続"
+  - "トレーニング: Path to Production for Agents ウェビナーシリーズ (全 6 回) が開始"

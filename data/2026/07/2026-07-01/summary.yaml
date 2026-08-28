@@ -1,0 +1,11 @@
+"date": "2026-07-01"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Microsoft Foundry の Toolboxes 一般提供と、Blob Storage のデータ整合性強化でした。Toolboxes はプロンプトエージェントでよく使うツールを統一エンドポイントから呼び出せるようにするもので、プロンプトエージェント外からも呼び出せます。エージェントチームがツールを都度手組みしていた状況を整理する位置づけです。ストレージ側では Azure Blob Storage のクライアント側データ整合性保護として、2019 年に追加された CRC64-NVME が統合され、MD5 から続く整合性検証の仕組みが強化されました。
+"topics":
+  - "エージェント: Microsoft Foundry の Toolboxes が GA、よく使うツールを統一エンドポイントから呼び出し可能に"
+  - "データ整合性: Azure Blob Storage のクライアント側データ整合性保護に CRC64-NVME を統合"

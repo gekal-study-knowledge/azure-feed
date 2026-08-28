@@ -1,0 +1,10 @@
+"date": "2026-04-29"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Service Bus のバッチ処理における課題と、その解決策が扱われました。従来はバッチ全体が成功か失敗かという「オール・オア・ナッシング」の挙動になりがちでしたが、Azure Functions ではバッチ内の Service Bus メッセージを 1 件ずつ個別に完了・破棄・デッドレター・延期できます。これにより重複処理を避け、エラーごとに適切な扱いができるようになります。
+"topics":
+  - "メッセージング: Azure Functions で Service Bus のバッチ内メッセージを 1 件ずつ完了・破棄・デッドレター・延期し、オール・オア・ナッシングを回避"

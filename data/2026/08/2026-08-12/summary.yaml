@@ -1,0 +1,14 @@
+"date": "2026-08-12"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は AI エージェントの安全な実行環境が話題でした。Azure Container Apps Sandboxes がプレビューで登場し、マルチテナントの AI エージェントプラットフォームを構築するチームに対して、エージェントが安全に作業できる隔離された場所を提供します。開発ツールでは Azure Developer CLI の拡張機能フレームワークが一般提供となり、組織で承認済みのアーキテクチャとインフラでプロジェクトを開始するコマンドなど、独自の開発ワークフローを組み込めるようになりました。ネットワークでは Azure Firewall Premium の IDPS 性能が最適化され、TLS 検査と IDPS を Deny モードで有効にした状態で最大 22 Gbps (従来 10 Gbps から 120% 向上) を実現しています。
+"topics":
+  - "エージェント実行環境: Azure Container Apps Sandboxes がプレビュー、AI エージェントに隔離された作業環境を提供"
+  - "開発ツール: Azure Developer CLI の拡張機能フレームワークが GA、独自の開発ワークフローを組み込み可能に"
+  - "ネットワーク性能: Azure Firewall Premium の IDPS 性能が最適化、TLS 検査 + IDPS Deny モードで最大 22 Gbps (120% 向上)"

@@ -1,0 +1,12 @@
+"date": "2026-07-21"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日は前日にプレビュー発表された Azure Front Door のエッジアクションについて、ネットワークブログ側の詳細解説が公開されました。現代の Web アプリケーションはユーザーの接続元やデバイスを問わず即時かつ安全でパーソナライズされた体験を求められており、それには単にコンテンツを近くへ運ぶだけでなく、エッジでの安全でプログラマブルなロジックが必要だという位置づけです。もう 1 件は Application Insights と Microsoft Foundry における生成 AI テレメトリの保護で、生成 AI のコンテンツを専用の GenAIContent テーブル (Log Analytics では AppGenAIContent) に保存し、アクセス制御を適用できるようになりました。
+"topics":
+  - "エッジコンピュート: Azure Front Door エッジアクションによる、安全でプログラマブルなエッジロジックの解説"
+  - "AI テレメトリ保護: 生成 AI コンテンツを専用の GenAIContent テーブルに分離し、アクセス制御を適用 (プレビュー)"

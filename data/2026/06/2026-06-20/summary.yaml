@@ -1,0 +1,10 @@
+"date": "2026-06-20"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_networking_blog"
+"overview": |
+  この日は Azure Firewall の明示的プロキシに関する移行ガイドが公開されました。今後予定されている主要な変更点を整理したうえで、PAC ファイルベースの構成を使っている利用者向けに詳細な移行手順が示されています。
+"topics":
+  - "ネットワーク: Azure Firewall 明示的プロキシの変更点と、PAC ファイルベース構成からの移行ガイド"

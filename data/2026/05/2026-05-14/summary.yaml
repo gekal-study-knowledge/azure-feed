@@ -1,0 +1,10 @@
+"date": "2026-05-14"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は CI/CD パイプラインを自己修復させる DevOps エージェントの構成が紹介されました。論理エンジンとして Azure OpenAI を選ぶ理由が整理されており、ネイティブなツール利用への対応などが判断材料として挙げられています。パイプラインを固定的な手続きとして組むのではなく、失敗を検知して自ら修復を試みるエージェントとして設計するアプローチです。
+"topics":
+  - "DevOps: Azure OpenAI を論理エンジンに据えた自己修復型 CI/CD ワークフローの構成"

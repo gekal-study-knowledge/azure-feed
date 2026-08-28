@@ -1,0 +1,10 @@
+"date": "2026-04-22"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure SDK の月次リリース (2026 年 4 月版) が公開されました。Azure SDK は毎月リリースされており、この号でも各言語向けライブラリのハイライトとリリースノートがまとめられています。個別の機能追加というより、定期的な更新の節目としての位置づけです。
+"topics":
+  - "SDK: Azure SDK の 2026 年 4 月リリース、各言語ライブラリのハイライトとリリースノートを公開"

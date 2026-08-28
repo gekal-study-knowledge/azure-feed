@@ -1,0 +1,10 @@
+"date": "2026-08-15"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Databricks Runtime 10.4 LTS のライフサイクル告知の 1 件のみでした。同ランタイムは 2025 年 3 月 18 日にサポート終了を迎えており、2026 年 11 月 1 日に完全な提供終了 (end of life) となります。該当ランタイムを使い続けているワークロードは、それまでに新しいバージョンへの移行が必要です。
+"topics":
+  - "廃止: Azure Databricks Runtime 10.4 LTS が 2026-11-01 に提供終了 (サポート終了は 2025-03-18)"

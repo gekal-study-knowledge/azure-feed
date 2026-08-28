@@ -1,0 +1,11 @@
+"date": "2026-04-07"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure SDK Blog の 2 件でした。Azure Functions 上で MCP (Model Context Protocol) アプリを TypeScript で構築・デプロイする方法が紹介され、MCP のツールとリソース、ローカル開発、サーバーレスデプロイまでを一通り扱っています。もう 1 件は Azure SDK for JavaScript における Node.js 20.x のサポート終了予告で、2026 年 7 月 9 日以降はサポート対象外となるため、アクティブな Node.js LTS への移行が必要です。
+"topics":
+  - "MCP: Azure Functions 上で TypeScript による MCP アプリを構築・デプロイするクイックスタート"
+  - "サポート終了: Azure SDK for JavaScript が 2026 年 7 月 9 日以降 Node.js 20.x のサポートを終了"

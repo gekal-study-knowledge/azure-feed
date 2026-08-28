@@ -1,0 +1,13 @@
+"date": "2026-06-12"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は廃止予告が目立ちました。Azure Batch プール向けに、Av2・F・Fs・Fsv2・G・Gs・Lsv2 シリーズが 2028 年 11 月 15 日に、D・Ds・Dv2・Dsv2・Ls シリーズが 2028 年 5 月 1 日に提供終了となります。ストレージでは General Purpose v1 とレガシー Blob ストレージアカウントの新規作成が廃止されることが発表されました。Load Balancer の Inbound NAT ルール version 1 (Inbound NAT プール) についても、以前の告知を更新する形で案内が出ています。機能面では SQL MCP Server が一般提供となり、本番データへの制御されたアクセスを前提としたエージェンティックソリューションを安全かつ高性能に構築できるようになりました。
+"topics":
+  - "MCP: SQL MCP Server が一般提供、本番データへの制御されたアクセスでエージェンティックソリューションを構築"
+  - "廃止: Azure Batch プール向け Av2 / F / G / Lsv2 シリーズが 2028-11-15、D / Ds / Ls シリーズが 2028-05-01 に終了"
+  - "廃止: General Purpose v1 とレガシー Blob ストレージアカウントの新規作成を終了"
+  - "廃止: Load Balancer の Inbound NAT ルール version 1 (NAT プール) の提供終了について続報"

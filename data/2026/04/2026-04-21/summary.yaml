@@ -1,0 +1,10 @@
+"date": "2026-04-21"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Developer CLI (azd) と GitHub Copilot の連携が発表されました。AI 支援によるプロジェクトのスキャフォールディングと、デプロイエラーのトラブルシューティングに対応し、リソース不足などのよくある Azure のエラーを解決しやすくなります。CLI の操作を Copilot が補助する形で、初期構築からデプロイ時の詰まりどころまでをカバーする構成になっています。
+"topics":
+  - "開発ツール: Azure Developer CLI が GitHub Copilot と連携し、AI 支援のプロジェクト構築とデプロイエラーの診断に対応"

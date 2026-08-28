@@ -1,0 +1,18 @@
+"date": "2026-07-16"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 13
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は Microsoft Agent Framework 関連の発表が集中しました。C# と Python 向けのマルチエージェントオーケストレーション SDK として Agent Framework が導入され、AutoGen と Semantic Kernel に分散していたパターンが統合されています。本番ランタイムである Agent Harness と、動的な Magentic を含むマルチエージェントオーケストレーションパターンがいずれも一般提供となりました (Magentic は GAIA で 38% を記録)。プレビューでは、エージェントの実行をモデル呼び出し・ツール実行・中間結果のツリーとして可視化する DevUI Agent Inspector、成功したタスクパターンを記憶して再利用するエピソード的手続き記憶、複数ステップの計画を単一の実行可能コードブロックにまとめる CodeAct パターンと Hyperlight コンテナ、Python / .NET 向けのトレーシングが追加されています。
+"topics":
+  - "エージェント基盤: C# / Python 向けマルチエージェントオーケストレーション SDK として Agent Framework を導入 (AutoGen と Semantic Kernel を統合)"
+  - "本番運用: Agent Harness と Magentic を含むオーケストレーションパターンが GA (Magentic は GAIA で 38%)"
+  - "デバッグ: DevUI Agent Inspector でエージェント実行をモデル呼び出し・ツール実行のツリーとして可視化 (プレビュー)"
+  - "記憶: エピソード的手続き記憶で成功したタスクパターンを記憶し再利用 (プレビュー)"
+  - "実行効率: CodeAct パターンと Hyperlight コンテナで複数ステップの計画を単一コードブロックに集約 (プレビュー)"
+  - "認可: MCP のエンタープライズ認可を Entra と App Service で実現する方法を解説"

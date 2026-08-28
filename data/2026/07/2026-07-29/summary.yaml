@@ -1,0 +1,16 @@
+"date": "2026-07-29"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 8
+"sources":
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日はインドの新リージョン開設と AKS まわりの更新が並びました。Microsoft はインドで 4 番目のデータセンターリージョンとなる India South Central をテランガーナ州ハイデラバードに開設しました。AKS では Kubernetes Fleet Manager のリソース配置が一般提供となり、複数クラスターへの更新適用と一貫性維持の手作業が減ります。あわせて更新実行時の最大許容失敗数がプレビューで追加され、少数のメンバークラスターの失敗が全体を止めてしまう問題に対処できます。Prepared Image Specification のプレビューにより、AI や GPU ワークロードでのノード起動時間の短縮も図られています。ネットワークでは StandardV2 NAT Gateway が NAT64 に対応し、IPv6 ワークロードから IPv4 のみの宛先へ通信できるようになりました。アーキテクチャブログでは、トークン価格だけではエージェントの経済性を測れないという「安価なトークンの罠」が論じられています。
+"topics":
+  - "リージョン: インド 4 番目のデータセンターリージョン India South Central (ハイデラバード) が開設"
+  - "マルチクラスター: Kubernetes Fleet Manager のリソース配置が GA、更新実行の最大許容失敗数はプレビュー"
+  - "AKS 起動: Prepared Image Specification でコンテナイメージの再ダウンロードを減らしノード起動を高速化 (プレビュー)"
+  - "ネットワーク: StandardV2 NAT Gateway が NAT64 に対応、IPv6 ワークロードから IPv4 のみの宛先へ通信可能に"
+  - "経済性: トークン価格だけではエージェントの経済性を測れないという「安価なトークンの罠」の議論"
+  - "主権クラウド: Azure Enclave が Azure / Government / Secret / Top Secret 向けにパブリックプレビュー"

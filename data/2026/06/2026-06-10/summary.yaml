@@ -1,0 +1,13 @@
+"date": "2026-06-10"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_infrastructure_blog"
+  - "azure_updates"
+"overview": |
+  この日は生物学研究への AI 適用と PostgreSQL 関連が中心でした。Ginkgo Bioworks と Microsoft Discovery の協業により、仮説・実験・洗練・レビューという反復的で非線形な生物学的発見のサイクルに、エージェンティック AI を持ち込む取り組みが紹介されています。あわせて PostgreSQL Hub for Azure Developers が一般提供となり、Azure 上の PostgreSQL に関する AI・アプリ開発リソース、サンプルアプリ、ソリューションアクセラレータ、チュートリアルが集約されました。SQL Server Management Studio では GitHub Copilot のエージェントモードがプレビュー提供され、性能問題の調査やクエリチューニングを対話的に行えます。
+"topics":
+  - "科学研究: Ginkgo Bioworks と Microsoft Discovery による生物学的発見へのエージェンティック AI 適用"
+  - "開発者支援: PostgreSQL Hub for Azure Developers が GA、サンプルアプリとアクセラレータを集約"
+  - "データベース運用: SSMS で GitHub Copilot のエージェントモードがプレビュー、性能調査やクエリチューニングを対話的に実施"

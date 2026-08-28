@@ -1,0 +1,16 @@
+"date": "2026-06-05"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 14
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日は Microsoft Foundry IQ の一般提供が中心でした。プロジェクトごとに検索パイプラインを作り直すことなく、エージェントをエンタープライズデータに接地させるマネージドなナレッジ層を提供します。あわせて Fabric のオントロジーを連携ナレッジソースとして扱う機能、Azure SQL Database を第一級のナレッジソースとする機能がいずれもプレビューで追加されました。Azure AI Search と Foundry ナレッジベースの間のプライベートなエンドツーエンド接続も GA しています。監視では Azure Monitor に Service Level Indicators / Objectives が加わり、OpenTelemetry Collector 経由での OTLP シグナル取り込みも一般提供となりました。AKS では Azure CNI Overlay の Pod CIDR 拡張が GA しています。
+"topics":
+  - "ナレッジ層: Microsoft Foundry IQ が GA、検索パイプラインを作り直さずにエージェントをエンタープライズデータへ接地"
+  - "ナレッジソース: Fabric オントロジーと Azure SQL Database をナレッジソースとして扱う機能がプレビュー"
+  - "ネットワーク: Azure AI Search と Foundry ナレッジベース間のプライベートなエンドツーエンド接続が GA"
+  - "監視: Azure Monitor に SLI / SLO が追加、OpenTelemetry Collector 経由の OTLP 取り込みが GA"
+  - "AKS: Azure CNI Overlay の Pod CIDR 拡張が一般提供、IP アドレス設計の自由度が向上"
+  - "研究開発: Microsoft Discovery が GA、科学・工学分野のエージェンティック AI ワークフローを構築・統制"

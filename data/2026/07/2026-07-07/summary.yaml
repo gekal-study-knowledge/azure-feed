@@ -1,0 +1,13 @@
+"date": "2026-07-07"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日は災害対策の性能向上と ID ベースアクセスが中心でした。Azure Site Recovery が最大 5 倍のチャーン (VM あたり 500 MB/s) をサポートし、高 IOPS のワークロードでも安心して DR を構成できるようになりました。Azure Blob Storage の SFTP で Microsoft Entra ID ベースのアクセスが全リージョンで一般提供となり、Entra External Identities 経由のゲストユーザーを含む ID で SFTP アクセスを扱えます。アーキテクチャブログでは、パイロットや PoC から本番へ進むための「Path to Production for Agents」ウェビナーシリーズが告知されました。
+"topics":
+  - "災害対策: Azure Site Recovery が最大 5 倍のチャーン (VM あたり 500 MB/s) をサポート"
+  - "ID 統合: Blob Storage SFTP の Entra ID ベースアクセスが全リージョンで GA (ゲストユーザーを含む)"
+  - "エージェント本番化: PoC から本番へ進むための Path to Production for Agents ウェビナーシリーズを開始"

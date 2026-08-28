@@ -1,0 +1,15 @@
+"date": "2026-08-06"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は Azure Databricks の統制機能が中心でした。Unity AI Gateway が一般提供となり、AI モデル・エージェント・ツール・MCP サービスに対する集中的なガバナンスを提供します。あわせて SharePoint コネクタも一般提供となり、Lakeflow Connect 経由で SharePoint のファイルを Databricks へ取り込めるようになりました。ネットワークでは前日発表された Private Link over IPv6 のパブリックプレビューについて、詳細な解説が公開されています。セキュリティでは、infostealer の誘導をあからさまに配信していた macOS ClickFix キャンペーンが、ブラウザフィンガープリンティングによるゲートの背後に隠れる手口へ変化した分析が公開されました。
+"topics":
+  - "AI ガバナンス: Unity AI Gateway が Azure Databricks で GA、AI モデル・エージェント・ツール・MCP を集中統制"
+  - "データ連携: SharePoint コネクタが GA、Lakeflow Connect で SharePoint のファイルを Databricks へ取り込み"
+  - "IPv6: Azure Private Link over IPv6 のパブリックプレビューを詳細解説"
+  - "脅威分析: macOS ClickFix キャンペーンがブラウザフィンガープリンティングのゲート背後に隠れる手口へ変化"

@@ -1,0 +1,10 @@
+"date": "2026-04-25"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure MCP Server が MCP Bundle (.mcpb) 形式で提供されるようになりました。Claude Desktop をはじめとする MCP 対応クライアントにワンクリックでインストールできます。2 週間前の 2.0 安定版リリースに続く配布形態の整備で、導入の敷居を下げる変更です。
+"topics":
+  - "MCP: Azure MCP Server が MCP Bundle (.mcpb) 形式で提供、Claude Desktop 等へワンクリックインストール可能に"

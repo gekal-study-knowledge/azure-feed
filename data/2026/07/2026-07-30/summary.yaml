@@ -1,0 +1,15 @@
+"date": "2026-07-30"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日はバッチ処理とコスト管理が話題でした。Azure Container Apps Jobs は完了まで実行するタスクに向いていますが、依存関係やリトライ、ファンアウトを伴う場合に独自のオーケストレーターを持ち込む方法が紹介されています。アーキテクチャブログでは GitHub Copilot の予算管理を「ウォーターパーク」の比喩で説明し、開発者をブロックせずに想定外の超過を防ぐ方法が示されました。可観測性では Azure Monitor Log Analytics のテレメトリを Microsoft Fabric へミラーリングし、OneLake 上に Delta Parquet というオープン形式で提供する機能がプレビューで追加されています。あわせて Azure SDK の 2026 年 7 月リリースも公開されました。
+"topics":
+  - "バッチ処理: Azure Container Apps Jobs に独自のオーケストレーターを持ち込み、依存関係やリトライを扱う"
+  - "コスト管理: GitHub Copilot の予算管理を開発者をブロックせずに行う方法"
+  - "可観測性: Azure Monitor Logs を Microsoft Fabric へミラーリングし OneLake に Delta Parquet として提供 (プレビュー)"

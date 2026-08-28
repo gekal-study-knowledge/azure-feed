@@ -1,0 +1,10 @@
+"date": "2026-07-20"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure VPN Gateway の IPv6 対応が一般提供となりました。デュアルスタック構成で VPN トンネル内の IPv6 トラフィックを扱えるようになり、標準的な構成を使うすべての本番 SKU ゲートウェイでサポートされます。IPv4 のみだった VPN 経路に IPv6 を通せるようになったことで、デュアルスタック化を進める環境での選択肢が広がります。
+"topics":
+  - "ネットワーク: Azure VPN Gateway が IPv6 に対応、デュアルスタック構成で VPN トンネル内の IPv6 通信をサポート"

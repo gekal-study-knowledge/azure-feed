@@ -1,0 +1,11 @@
+"date": "2026-06-02"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Kubernetes Center にセキュリティと LTS / サポート終了バージョンのインサイトが追加されました。新しいセキュリティページでは、ポータルを離れることなく全クラスターまたは Kubernetes Fleet Manager 全体のセキュリティ体制を一望できます。あわせて長期サポートやサポート対象外バージョンの状況も把握でき、クラスターのバージョン管理がポータル上で完結しやすくなりました。
+"topics":
+  - "Kubernetes 運用: Kubernetes Center にセキュリティページを追加、全クラスター横断でセキュリティ体制を一望"
+  - "バージョン管理: LTS およびサポート終了バージョンのインサイトをポータルで確認可能に"

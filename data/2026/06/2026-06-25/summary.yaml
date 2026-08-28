@@ -1,0 +1,12 @@
+"date": "2026-06-25"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は Azure Functions の MCP 拡張機能に関する Build 2026 時点のまとめと、コンテナ向け AI ゲートウェイの 2 件でした。前者はプレビュー以降に出荷された内容の総覧で、リソーストリガーとプロンプトトリガー、MCP Apps、組み込みの MCP 認証、構造化・リッチコンテンツ、Fluent な .NET 構成などが挙げられています。後者は Application Gateway for Containers の Ingress ゲートウェイ機能を AI ゲートウェイ方向へ拡張するもので、Kubernetes Gateway API Inference Extension に基づく推論ゲートウェイ機能がプレビュー提供されました。
+"topics":
+  - "MCP: Azure Functions MCP 拡張の Build 2026 時点まとめ (リソース/プロンプトトリガー、MCP Apps、組み込み認証など)"
+  - "AI ゲートウェイ: Application Gateway for Containers に Kubernetes Gateway API Inference Extension ベースの推論ゲートウェイをプレビュー追加"

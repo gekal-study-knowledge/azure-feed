@@ -1,0 +1,17 @@
+"date": "2026-08-05"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 9
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は Azure Virtual Network ルーティングアプライアンスの一般提供が中心でした。専用ハードウェアを使い、仮想ネットワーク間で低レイテンシかつ高スループットのプライベート接続を提供します。あわせて Azure Firewall の明示的プロキシが一般提供となり、アプリケーションやブラウザから HTTP/HTTPS トラフィックを直接 Azure Firewall へ送れるようになりました。プレビューでは Azure Private Link の IPv6 対応、ネットワークセキュリティ境界間を安全に接続する Perimeter link、Azure DNS と Traffic Manager の統合による DNS ベースの負荷分散が追加されています。Microsoft Security Blog では、400 を超える npm パッケージに潜んだ認証情報窃取ワームが悪意ある更新の再公開によって自己増殖した ChainDrop サプライチェーン侵害の分析が公開されました。
+"topics":
+  - "ネットワーク: Azure Virtual Network ルーティングアプライアンスが GA、専用ハードウェアで低レイテンシなプライベート接続"
+  - "ネットワーク: Azure Firewall の明示的プロキシが GA、アプリやブラウザから直接トラフィックを送信可能に"
+  - "IPv6: Azure Private Link の IPv6 対応がパブリックプレビュー"
+  - "サプライチェーン: 400 以上の npm パッケージに潜んだ自己増殖ワーム ChainDrop の分析"
+  - "ゼロトラスト: AI エージェントと DevSecOps を守る Zero Trust for AI の新ツールとガイダンス"
+  - "廃止: ネステッドコンフィデンシャル (cc_v5) VM が 2026-09-01 に提供終了"

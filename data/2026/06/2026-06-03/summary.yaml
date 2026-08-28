@@ -1,0 +1,17 @@
+"date": "2026-06-03"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 32
+"sources":
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は Build 2026 前後の大量アップデートで、32 件が一度に公開されました。AI 分野では Azure AI Translator の PDF バッチ翻訳の改善、画像ファイルの翻訳、Office 文書内の画像翻訳がいずれも一般提供となり、Azure AI Search は OneLake カタログ統合をナレッジソースとして GA しています。インフラでは Azure Linux 4.0 のパブリックプレビュー、AKS 向けの Azure Container Linux の一般提供、Cobalt 200 Arm ベース VM シリーズのプレビュー、VMSS Flex の自動 OS イメージアップグレードが登場しました。監視では Azure VM と Arc サーバー向けの OpenTelemetry メトリクスが GA、ログ検索アラートの動的しきい値も一般提供です。API Management は Premium v2 / Standard v2 でワイルドカードカスタムホスト名に対応し、複数 LLM プロバイダーを扱う統合モデル API のプレビューも始まりました。
+"topics":
+  - "翻訳: AI Translator の PDF バッチ翻訳改善、画像ファイル翻訳、Office 文書内の画像翻訳がいずれも GA"
+  - "OS: Azure Linux 4.0 がパブリックプレビュー、AKS 向け Azure Container Linux が GA"
+  - "ハードウェア: Cobalt 200 Arm ベースの Dpsv7 / Epsv7 / Mpsv4 / Lpsv5 シリーズ VM がプレビュー"
+  - "監視: Azure VM と Arc サーバー向け OpenTelemetry メトリクスが GA、ログ検索アラートの動的しきい値も GA"
+  - "API 管理: API Management Premium v2 / Standard v2 がワイルドカードカスタムホスト名に対応、統合モデル API はプレビュー"
+  - "コスト: グローバル PTU 予約がリージョン非依存になり、単一の予約で複数リージョンをカバー"
+  - "バックアップ: Azure Cosmos DB の Vaulted バックアップがプレビュー提供"

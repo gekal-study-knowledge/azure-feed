@@ -1,0 +1,13 @@
+"date": "2026-08-08"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は長時間実行の MCP タスクと監視基盤の更新でした。すべてのツール呼び出しが数秒で終わるわけではなく、コンプライアンススキャンや承認待ちのデプロイ、1 時間かかるバッチインポートなどをどう扱うかという問題意識から、Azure App Service 上で耐久性のある長時間 MCP タスクを構築する方法が示されています。Azure Managed Grafana は Grafana 13 をサポートし、ダッシュボードの構築・再利用・大規模管理が改善されました。ネットワークでは ExpressRoute の仮想ネットワークゲートウェイ向けにレジリエンシーガードがパブリックプレビューとして提供され、ゲートウェイの冗長性モデルを明示的に指定できるようになっています。
+"topics":
+  - "MCP: Azure App Service 上で耐久性のある長時間実行 MCP タスクを構築する方法"
+  - "監視: Azure Managed Grafana が Grafana 13 をサポート、ダッシュボードの構築と大規模管理を改善"
+  - "ネットワーク: ExpressRoute レジリエンシーガードがプレビュー、ゲートウェイの冗長性モデルを明示指定"

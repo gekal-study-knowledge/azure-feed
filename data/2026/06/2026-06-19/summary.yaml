@@ -1,0 +1,12 @@
+"date": "2026-06-19"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_architecture_blog"
+  - "azure_networking_blog"
+"overview": |
+  この日は建設業向けの文書インテリジェンスと、大規模 VNet 間接続の移行が扱われました。前者は生成 AI により、低生産性・コスト超過・工期遅延・労働力不足といった建設業の慢性的課題に対処する AI 駆動の抽出処理を扱っています。後者は大規模 Azure デプロイでよく見られる、Microsoft Enterprise Edge (MSEE) ルーター経由のヘアピンルーティングによる VNet 間通信から、Azure Virtual Network Manager のメッシュ構成へ移行する方法です。
+"topics":
+  - "ドキュメント処理: 生成 AI による建設業向けの文書抽出でコスト超過や工期遅延といった課題に対処"
+  - "ネットワーク移行: MSEE ヘアピンルーティングから AVNM メッシュへの大規模 VNet 間接続の移行"

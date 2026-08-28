@@ -1,0 +1,17 @@
+"date": "2026-08-18"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 7
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
+  - "azure_infrastructure_blog"
+  - "azure_updates"
+"overview": |
+  この日は Azure App Service の Managed Instance が一般提供となりました。最小限の設定とコード変更なしで Web アプリケーションを App Service へ移行できるようにするもので、Ignite 2025 のパブリックプレビュー発表以来の反響を受けての GA です。あわせて Microsoft が 2026 年 Gartner Magic Quadrant のクラウドネイティブアプリケーションプラットフォーム部門でリーダーに位置づけられました。開発環境では Azure Linux on WSL がパブリックプレビュー (ベータ) となり、本番と揃った構成で開発ワークステーション上の挙動を検証できます。インフラブログでは、AKS 上で GitHub Actions Runner を Actions Runner Controller で動かすデモは簡単でも、本番プラットフォームとして運用するには何が必要かが論じられました。
+"topics":
+  - "アプリ移行: Managed Instance on Azure App Service が GA、最小限の設定とコード変更なしで Web アプリを移行"
+  - "評価: Microsoft が 2026 Gartner MQ のクラウドネイティブアプリケーションプラットフォーム部門でリーダーに"
+  - "開発環境: Azure Linux on WSL がパブリックプレビュー、本番と揃った構成をワークステーションで検証"
+  - "CI/CD 運用: AKS 上で GitHub Actions Runner を本番運用するために必要なこと"
+  - "可用性: Azure SQL Managed Instance Next-gen General Purpose のゾーン冗長がプレビュー"

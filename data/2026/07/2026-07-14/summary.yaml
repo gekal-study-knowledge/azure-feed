@@ -1,0 +1,12 @@
+"date": "2026-07-14"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日は Azure Architecture Diagram Builder のエージェント対応が紹介されました。2 か月前に公開された「From Prompt to Production」の続編にあたり、図の生成ツールをエージェントから呼び出せる形へ発展させた内容です。あわせて Azure Databricks SQL Serverless が UK West リージョンで一般提供となり、即時のコンピュートと自動スケーリングを活用した分析ワークロードを同リージョンで実行できるようになりました。
+"topics":
+  - "設計支援: Azure Architecture Diagram Builder がエージェントから呼び出せる形に発展"
+  - "リージョン拡大: Azure Databricks SQL Serverless が UK West で一般提供"

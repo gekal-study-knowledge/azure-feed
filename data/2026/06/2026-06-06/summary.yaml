@@ -1,0 +1,11 @@
+"date": "2026-06-06"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は土曜日で 2 件のみでした。Azure Boost を使った Guest RDMA が UK South リージョンからプライベートプレビューとして提供され、同一リージョン内のゲスト VM に高スループットかつ超低レイテンシのネットワーキングを直接持ち込めるようになります。もう 1 件は Metrics Usage Insights への取り込みボリューム変化ダッシュボードの追加で、時系列の件数やイベント取り込みレートの急増・急減を素早く検知できます。
+"topics":
+  - "ネットワーク: Azure Boost による Guest RDMA が UK South でプライベートプレビュー、ゲスト VM に超低レイテンシ通信を提供"
+  - "監視: Metrics Usage Insights に取り込みボリューム変化ダッシュボードを追加、スパイクや低下を検知"

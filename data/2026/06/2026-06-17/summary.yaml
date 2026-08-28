@@ -1,0 +1,11 @@
+"date": "2026-06-17"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日はログ集約と開発体験の 2 件でした。Log Analytics の Summary Rules に新しい Azure ポータル体験が加わり、大量のログデータを定めた周期で集約して要約テーブルに保存する設定が扱いやすくなりました。もう 1 件は VS Code 向け Azure Functions 拡張機能の新しいプロジェクト作成体験で、従来の多段クイックピック方式に代わり、視覚的なテンプレートギャラリーがプレビュー提供されています。
+"topics":
+  - "ログ運用: Log Analytics の Summary Rules に新しいポータル体験、大量ログの定期集約を設定しやすく"
+  - "開発体験: VS Code の Azure Functions 拡張に視覚的なテンプレートギャラリーを備えた新プロジェクト作成体験 (プレビュー)"

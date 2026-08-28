@@ -1,0 +1,18 @@
+"date": "2026-07-31"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 9
+"sources":
+  - "azure_architecture_blog"
+  - "azure_infrastructure_blog"
+  - "azure_networking_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は AI 能力の再利用性という設計論が目を引きました。AI 能力を作るチームの多くは「どのモデルを使うか」から始めてしまうが、それは最初の問いとして間違っているという指摘のもと、スキルとサブエージェントのどちらとして実装すべきかが論じられています。Azure Front Door のエッジアクションについては、セキュアでレジリエントかつ AI 対応のエッジという観点からネットワークブログ側の解説も出ました。Azure Automation は PowerShell 7.6 の Runbook とランタイム環境が一般提供となり、古いスクリプトの移行が進めやすくなっています。コスト面では、savings plan の対象サービスにおける Azure 予約の交換が 2027 年 2 月 1 日をもって利用できなくなることが告知されました。
+"topics":
+  - "設計論: AI 能力をスキルとして作るかサブエージェントとして作るかの判断基準 (モデル選定から始めない)"
+  - "エッジ: Azure Front Door エッジアクションのセキュアでレジリエントな AI 対応エッジとしての位置づけ"
+  - "自動化: Azure Automation が PowerShell 7.6 Runbook とランタイム環境を一般提供"
+  - "コスト: savings plan 対象サービスの Azure 予約交換が 2027-02-01 に終了"
+  - "鍵管理: Azure Key Vault Premium の対称鍵がパブリックプレビュー"

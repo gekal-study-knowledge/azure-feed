@@ -1,0 +1,10 @@
+"date": "2026-04-11"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure MCP Server 2.0 の安定版リリースが発表されました。セルフホスティングを第一級の機能としてサポートし、セキュリティの強化と、Azure 全体でのエージェンティックワークフローに向けた高速な基盤を提供します。これまで MCP サーバーは各サービスごとに個別対応する形が多かったなか、Azure 横断のクラウド自動化を自前でホストして回せる構成が一般提供として整いました。
+"topics":
+  - "MCP: Azure MCP Server 2.0 が一般提供、セルフホスティングを第一級サポートしセキュリティを強化"

@@ -1,0 +1,10 @@
+"date": "2026-06-16"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_networking_blog"
+"overview": |
+  この日は Azure Service Bus のネットワークセキュリティ境界 (Network Security Perimeter) 対応が一般提供となりました。Service Bus 名前空間を中央のセキュリティ境界の内側に配置し、境界に対してポリシーを適用できます。あわせて Azure Government リージョンでも利用可能になりました。PaaS リソースの公衆ネットワークアクセスを個別に制御するのではなく、境界単位でまとめて統制するアプローチです。
+"topics":
+  - "ネットワーク分離: Azure Service Bus のネットワークセキュリティ境界サポートが GA、Azure Government リージョンでも提供"

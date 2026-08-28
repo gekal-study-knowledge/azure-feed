@@ -1,0 +1,13 @@
+"date": "2026-07-10"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は GPT-5.6 の Microsoft Foundry での一般提供が中心でした。OpenAI の最新フロンティアモデルシリーズに加え、Asia Pacific Data Zone とプロダクトエージェント機能がいずれも Foundry で一般提供となっています。Azure Databricks でも Foundry で購入した GPT-5.6 を Model Serving エンドポイント経由で利用できるようになりました。あわせて Azure Chaos Studio のレジリエンスシナリオを新しい `az chaos` 拡張機能で Azure CLI から作成・実行できるようになり、REST 呼び出しと JSON ファイルを手組みする必要がなくなっています。
+"topics":
+  - "基盤モデル: GPT-5.6 が Microsoft Foundry で一般提供、Asia Pacific Data Zone とプロダクトエージェント機能も GA"
+  - "データ分析: Azure Databricks の Model Serving エンドポイント経由で GPT-5.6 を利用可能に"
+  - "レジリエンシー: `az chaos` 拡張で Chaos Studio のシナリオを Azure CLI から作成・実行"
