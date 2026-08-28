@@ -1,0 +1,9 @@
+"entries":
+  "a12fa304922acb2989fb82736e31473b":
+    "id": "a12fa304922acb2989fb82736e31473b"
+    "title": "Active -Multiple Service impacted affecting West US  Regions"
+    "link": "https://azure.status.microsoft/en-us/status/"
+    "published": "2026-08-28 15:19:55"
+    "fetched": "2026-08-28 15:24:22"
+    "summary": "We are investigating an issue impacting multiple Azure services in the West US regions. Engineering teams are actively assessing the scope and working to mitigate customer impact. Further updates will be shared as they become available"
+"last_updated": "2026-08-28 15:24:22 JST"
