@@ -1,0 +1,13 @@
+"date": "2026-08-25"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は WAF のカスタマイズと AKS のネットワーク性能でした。Application Gateway に統合された Azure WAF で、ブロック時のレスポンスコードとボディをカスタマイズできるようになりました。AKS の Advanced Container Networking Services では eBPF ホストルーティングが一般提供となり、Kubernetes のネットワーク性能が向上しています。あわせて Azure Database for PostgreSQL Flexible Server の Extended Support が案内され、新しい PostgreSQL バージョンへ移行する間も重要なセキュリティ更新を受けながら安全な運用を維持できます。廃止では App Service における Node 22 LTS のサポートが 2027 年 4 月 30 日に終了することが告知されました。
+"topics":
+  - "WAF: Application Gateway 統合 WAF でブロック時のレスポンスコードとボディをカスタマイズ可能に (GA)"
+  - "AKS 性能: Advanced Container Networking Services の eBPF ホストルーティングが GA"
+  - "データベース: Azure Database for PostgreSQL Flexible Server の Extended Support を提供"
+  - "廃止: App Service における Node 22 LTS のサポートが 2027-04-30 に終了"

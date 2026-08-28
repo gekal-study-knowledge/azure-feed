@@ -1,0 +1,10 @@
+"date": "2026-05-23"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_architecture_blog"
+"overview": |
+  この日は AI を使って Azure のアーキテクチャ図を作る取り組みが紹介されました。クラウドアーキテクトは Visio や draw.io、価格計算ツールの間を行き来しながら、アイデアを図に落とす作業に多くの時間を費やしています。プロンプトから本番で使える図を生成するまでの流れが扱われており、翌日以降に公開された採点方法の記事と対になる内容です。
+"topics":
+  - "設計支援: プロンプトから Azure アーキテクチャ図を生成する AI 活用の実践"

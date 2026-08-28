@@ -1,0 +1,10 @@
+"date": "2026-08-10"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "apps_on_azure_blog"
+"overview": |
+  この日は Azure App Service への ZIP パッケージデプロイを簡素化する方法が紹介されました。Kudu 経由で ZIP パッケージをアップロードすることで Linux 向け App Service へアプリをデプロイでき、パッケージの内容を確認したうえで進められます。CLI やパイプラインを組まずに、ポータルから直接デプロイしたい場面を想定した体験です。
+"topics":
+  - "デプロイ: Azure ポータルから Kudu 経由で ZIP パッケージを App Service (Linux) へデプロイする簡素な手順"

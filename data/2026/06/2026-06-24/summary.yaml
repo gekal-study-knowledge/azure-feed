@@ -1,0 +1,10 @@
+"date": "2026-06-24"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure NetApp Files の移行アシスタントが提供されました。ONTAP に組み込まれたレプリケーションエンジン (SnapMirror) を活用することで、オンプレミスからの効率的かつコスト効率の高いデータ移行が可能になります。既存の ONTAP 環境の仕組みをそのまま使えるため、移行時の追加的な変換作業を減らせる構成です。
+"topics":
+  - "ストレージ移行: Azure NetApp Files 移行アシスタントが SnapMirror を活用しオンプレミスからの移行を効率化"

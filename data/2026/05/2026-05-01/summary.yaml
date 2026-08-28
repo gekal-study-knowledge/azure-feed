@@ -1,0 +1,10 @@
+"date": "2026-05-01"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Developer CLI (azd) の 2026 年 4 月まとめが公開されました。4 月には 5 回のリリースがあり、最大のテーマは多言語フック対応です。Bash と PowerShell に加えて Python・JavaScript・TypeScript・.NET でフックを記述できるようになった点が中心に据えられており、その他の細かな改善もあわせて整理されています。
+"topics":
+  - "開発ツール: azd の 2026 年 4 月まとめ、5 リリースの中心テーマは多言語フック対応 (Python / JS / TS / .NET)"

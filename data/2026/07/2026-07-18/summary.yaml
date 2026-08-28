@@ -1,0 +1,11 @@
+"date": "2026-07-18"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Functions のランタイム更新 2 件でした。PowerShell 7.6 のサポートがプレビューで提供され、ローカル開発から Azure Functions プランへのデプロイまで行えます。あわせて Python 3.14 のサポートが一般提供となり、Linux 上の Azure Functions プランで利用できます。Python 3.14 へのアップグレードにより、セキュリティ強化とより長いサポート期間を得られます。
+"topics":
+  - "ランタイム: Azure Functions が PowerShell 7.6 をプレビューサポート"
+  - "ランタイム: Azure Functions が Python 3.14 を一般提供 (Linux プラン)"

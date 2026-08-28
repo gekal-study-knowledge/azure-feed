@@ -1,0 +1,10 @@
+"date": "2026-07-15"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Front Door のエッジアクションがパブリックプレビューとして発表されました。エッジでのサーバーレスコンピュートにあたる機能で、Azure Front Door の処理中に軽量な JavaScript 関数を実行できます。リクエストやレスポンスの加工をオリジンに戻さずエッジ側で完結させられるようになります。
+"topics":
+  - "エッジコンピュート: Azure Front Door のエッジアクションがパブリックプレビュー、軽量な JavaScript 関数をエッジで実行"

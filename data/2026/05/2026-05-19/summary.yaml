@@ -1,0 +1,12 @@
+"date": "2026-05-19"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Infrastructure Blog の 3 件で、いずれも運用ツールを自作する話でした。Azure の Terraform ドリフト検証ツールを、設計ドキュメント・Terraform の状態・実際のポータル上の構成という 3 つの真実の源を突き合わせる形で構築する方法、AWS 上の Rundeck サーバーと Azure 上の Runner を HTTPS で連携させるエンタープライズ統合、そして ChatGPT や GitHub Copilot、Gemini といった生成 AI ツールの利用を検知する AI Guardian 拡張機能の構築が扱われています。
+"topics":
+  - "IaC 検証: 設計ドキュメント・Terraform 状態・ポータル実構成の 3 点照合による Azure Terraform ドリフト検証ツール"
+  - "マルチクラウド運用: AWS 上の Rundeck サーバーと Azure 上の Runner を HTTPS で連携"
+  - "AI ガバナンス: 生成 AI ツールの利用を検知する AI Guardian 拡張機能によるエンタープライズ AI セキュリティ"

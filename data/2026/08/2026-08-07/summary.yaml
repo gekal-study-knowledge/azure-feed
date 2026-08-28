@@ -1,0 +1,13 @@
+"date": "2026-08-07"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は 3 件と少なめでした。Microsoft が 2026 年 Gartner Magic Quadrant の AI 支援型コードモダナイゼーションツール部門でリーダーに位置づけられたことが発表され、GitHub Copilot と Azure によるレガシーアプリのモダナイズと技術的負債の削減が評価されています。Azure Storage Mover は AWS FSx for Windows File Server (SMB) から Azure Files (SMB) へのエージェントレスなクラウド間移行にプレビュー対応しました。あわせて Azure Databricks の Genie One および Genie Agents の無償利用期間が、2026 年 7 月 31 日から 2027 年 1 月 31 日まで延長されています。
+"topics":
+  - "評価: Microsoft が 2026 Gartner MQ の AI 支援型コードモダナイゼーションツール部門でリーダーに"
+  - "マルチクラウド移行: Azure Storage Mover が AWS FSx for Windows File Server から Azure Files への移行にプレビュー対応"
+  - "期間延長: Azure Databricks の Genie One / Genie Agents 無償利用が 2027-01-31 まで延長"

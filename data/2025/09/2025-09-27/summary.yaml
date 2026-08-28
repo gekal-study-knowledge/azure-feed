@@ -1,0 +1,10 @@
+"date": "2025-09-27"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Updates の廃止予告が 1 件のみでした。Azure VMware Solution の AV36 ノードタイプの提供終了日が、当初発表の 2028 年 6 月 30 日から 2027 年 8 月 30 日へ前倒しされます。これは Broadcom が vSphere のバージョン更新に伴い現行 AV36 のサポートを終了することに合わせた変更で、VMware 側のロードマップとの整合を取るための日程調整です。AV36 ノードを利用している場合は、移行先ノードタイプの検討と計画の前倒しが必要になります。
+"topics":
+  - "廃止予告: Azure VMware Solution の AV36 ノード提供終了が 2028-06-30 から 2027-08-30 へ前倒し (Broadcom の vSphere サポート終了に合わせた変更)"

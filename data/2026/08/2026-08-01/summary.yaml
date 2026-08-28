@@ -1,0 +1,14 @@
+"date": "2026-08-01"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日はルーティング制御とデータマスキングが中心でした。Azure Route Server の Route Maps がパブリックプレビューとなり、ハイブリッド接続におけるインバウンド・アウトバウンド双方の経路を細かく制御できるようになりました。Azure SQL では正規表現ベースの動的データマスキング (DDM) がプレビューで追加され、パターンに基づいて機微な情報を隠せます。ネットワークセキュリティ境界については現時点のスケール上限が整理された記事が公開されました。Microsoft Marketplace の対象 SaaS 製品では、Azure ポータル上でプラン・課金・リソースグループ・連絡先・規約を一画面で確認して購入できるシングルクリック購入が一般提供となっています。
+"topics":
+  - "ルーティング: Azure Route Server の Route Maps がプレビュー、ハイブリッド接続の経路を細かく制御"
+  - "データ保護: Azure SQL に正規表現ベースの動的データマスキングをプレビュー追加"
+  - "ネットワーク分離: ネットワークセキュリティ境界の現時点でのスケール上限を整理"
+  - "調達: Microsoft Marketplace の対象 SaaS 製品が Azure ポータルからのシングルクリック購入に対応"

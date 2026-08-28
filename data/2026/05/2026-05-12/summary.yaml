@@ -1,0 +1,10 @@
+"date": "2026-05-12"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Azure Arc 対応の AKS についての解説が公開されました。オンプレミスのデータセンター、リモート拠点、製造工場など、ワークロードが中央集権的なクラウドの外側にも広がる現状を前提に、Azure の外で Kubernetes を動かしつつ Azure から統合的に管理する構成が説明されています。
+"topics":
+  - "ハイブリッド: Azure Arc 対応 AKS で、オンプレミス・拠点・工場など Azure クラウド外でも Kubernetes を運用"

@@ -1,0 +1,14 @@
+"date": "2026-06-09"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 6
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は ID とストレージ、GPU の 6 件でした。Azure Managed Redis が Microsoft Entra ID ベースの RBAC によるデータアクセス制御にプレビュー対応し、アクセスキーに頼らずに読み取り・書き込み・管理の権限を細かく分けられるようになりました。Azure Site Recovery は NVMe ディスクコントローラーを持つ Linux VM (Da/Ea/Fa v6 シリーズなど) のレプリケーションと DR にプレビュー対応しています。Premium SSD v2 ディスクは可用性ゾーンを持つ一部リージョンで非ゾーン構成の単一インスタンス VM でも使えるようになりました。GPU では NVIDIA RTX PRO 6000 Blackwell Server Edition を搭載した NCv6 シリーズ VM が東南アジアと西 US 2 で一般提供です。
+"topics":
+  - "ID 統合: Azure Managed Redis が Entra ID ベースの RBAC によるデータアクセス制御にプレビュー対応"
+  - "災害対策: Azure Site Recovery が NVMe ディスクコントローラー搭載の Linux VM に対応 (プレビュー)"
+  - "ストレージ: Premium SSD v2 が可用性ゾーン持ちリージョンの非ゾーン単一インスタンス VM をサポート"
+  - "GPU: NVIDIA RTX PRO 6000 Blackwell 搭載の NCv6 シリーズ VM が東南アジア・西 US 2 で GA"
+  - "ライセンス: Foundry エージェントのセキュリティ機能が 2026-07-01 より Microsoft Agent 365 ライセンスへ移行"

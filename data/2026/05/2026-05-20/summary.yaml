@@ -1,0 +1,14 @@
+"date": "2026-05-20"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_infrastructure_blog"
+  - "azure_networking_blog"
+  - "azure_sdk_blog"
+"overview": |
+  この日は AKS のネットワーク可観測性とストレージ最適化が中心でした。Advanced Container Networking Services (ACNS) のメトリクスフィルタリングとログ集約が一般提供となり、AKS のコンテナネットワーク可観測性が強化されています。Azure SDK Blog では、GPU がアイドルのままモデルの重みをディスクへコピーする無駄をなくし、Azure Blob Storage から Run:AI Model Streamer で直接 GPU メモリへストリーミングして LLM のコールドスタートを最大 6 倍高速化する手法が紹介されました。インフラ面では VM とスケールセットのゴールデンイメージ刷新による一貫性確保が扱われています。
+"topics":
+  - "コンテナ可観測性: ACNS のメトリクスフィルタリングとログ集約が AKS で一般提供"
+  - "推論高速化: Azure Blob Storage から Run:AI Model Streamer で GPU メモリへ直接ストリーミングし LLM のコールドスタートを最大 6 倍高速化"
+  - "運用標準化: VM および VM スケールセットのゴールデンイメージ刷新で大規模環境の一貫性を確保"

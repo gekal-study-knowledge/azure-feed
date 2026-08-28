@@ -1,0 +1,11 @@
+"date": "2026-05-11"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Infrastructure Blog の 2 件で、いずれも実務のつまずきどころを扱っています。1 件は Bicep や ARM テンプレートでのデプロイ時に発生するデプロイクォータ制限 (800) エラーの理解と対処、もう 1 件は Azure DevOps で GitHub Advanced Security を多数のリポジトリへ展開する際に、再利用可能な単一の YAML テンプレートでスケールさせる方法です。リポジトリごとに設定が分散して複雑化する問題への回答になっています。
+"topics":
+  - "IaC: Bicep / ARM デプロイで発生するデプロイクォータ制限 (800) エラーの原因と対処"
+  - "DevSecOps: 単一の再利用可能な YAML テンプレートで GitHub Advanced Security を多数リポジトリへ展開"

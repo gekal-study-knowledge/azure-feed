@@ -1,0 +1,17 @@
+"date": "2026-07-17"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_architecture_blog"
+  - "azure_infrastructure_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は AI プラットフォームの基盤づくりと電力効率が話題でした。Azure AI Landing Zones によるエンタープライズ AI の高速化 (Hypervelocity Engineering) では、AI ソリューションを作ること自体ではなく、適応・スケール・統制できる AI プラットフォームを設計することが課題だという位置づけが示されています。インフラ側では Azure Cobalt のワークロード対応電力管理により、限られた電力をより効率的に使ってサーバー配備数を増やす取り組みが紹介されました。Azure Functions では Durable Functions を使って長時間実行の MCP ツールを構築する方法が解説されています。AKS では Azure Files NFS v4.1 ボリュームの転送時暗号化が一般提供となりました。
+"topics":
+  - "AI 基盤: Azure AI Landing Zones によるエンタープライズ AI プラットフォームの設計 (Hypervelocity Engineering)"
+  - "電力効率: Azure Cobalt のワークロード対応電力管理で、限られた電力からより多くの計算能力を引き出す"
+  - "MCP: Durable Functions を使った長時間実行 MCP ツールの構築 (同期的なツール呼び出しの限界を解消)"
+  - "AKS: Azure Files NFS v4.1 ボリュームの転送時暗号化が一般提供"
+  - "セキュリティ: Defender CSPM の Azure Database for PostgreSQL Flexible Server 向け評価が GA"

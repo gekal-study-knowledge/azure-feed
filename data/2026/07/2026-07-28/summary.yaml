@@ -1,0 +1,13 @@
+"date": "2026-07-28"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は API Management の AI Gateway 層と Claude Opus 5 の提供が中心でした。Azure API Management に AI Gateway ティアがパブリックプレビューとして加わり、既存の各ティアで提供されていた AI ゲートウェイ機能の上に専用の層が用意されました。Azure Databricks の AI Model Serving では Anthropic Claude Opus 5 が一般提供となり、高度な推論・コーディング・エージェンティックワークフロー・専門的業務に対応します。Azure Firewall はアプリケーションルールから HTTP/HTTPS リクエストヘッダーを追加・上書きできる HTTP ヘッダー挿入が一般提供となりました。
+"topics":
+  - "AI ゲートウェイ: Azure API Management に AI Gateway ティアがパブリックプレビューで登場"
+  - "基盤モデル: Anthropic Claude Opus 5 が Azure Databricks AI Model Serving で一般提供"
+  - "ネットワーク: Azure Firewall のアプリケーションルールから HTTP ヘッダーを挿入・上書き可能に (GA)"

@@ -1,0 +1,12 @@
+"date": "2026-04-15"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は開発者ツールとストレージ課金の 2 件でした。Azure Developer CLI (azd) が `azd update` の 1 コマンドでプラットフォームを問わず更新でき、リリースチャネルの切り替えも可能になり、パッケージマネージャーごとの手順を覚える必要がなくなりました。ストレージ側では cool・cold・archive アクセス層に対する最小課金オブジェクトサイズの導入が保留となり、2026 年 7 月 1 日からの課金動作の変更は新規・既存いずれにも適用されないことが案内されています。
+"topics":
+  - "開発ツール: `azd update` の 1 コマンドで Azure Developer CLI を更新、リリースチャネルの切り替えにも対応"
+  - "課金: cool / cold / archive 層への最小課金オブジェクトサイズ導入を保留、2026-07-01 の課金変更は行われない"

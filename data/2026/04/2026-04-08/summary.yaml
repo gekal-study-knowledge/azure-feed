@@ -1,0 +1,10 @@
+"date": "2026-04-08"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure SDK Blog の 1 件で、.NET 分離ワーカー向けの MCP Apps 用 Fluent API が紹介されました。数行のコードでビュー、権限、セキュリティポリシーを設定でき、リッチな UI を備えた MCP ツールを構築できます。従来は各要素を個別に組み立てる必要がありましたが、Fluent API により宣言的にまとめて記述できるようになっています。
+"topics":
+  - "MCP 開発: .NET 分離ワーカー向け MCP Apps の Fluent API でビュー・権限・セキュリティポリシーを数行で構成"

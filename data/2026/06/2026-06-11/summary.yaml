@@ -1,0 +1,12 @@
+"date": "2026-06-11"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は廃止予告 2 件と ID 機能 1 件でした。Azure VPN Client for Linux (プレビュー) は一般提供への道筋がないため 2026 年 8 月 31 日に提供終了となります。Azure Synapse Link for Azure Cosmos DB NoSQL は 2026 年 3 月 31 日をもって新規アカウントでの有効化ができなくなっており、既存利用者は 2029 年 3 月 31 日までサポートされます。機能面では Azure SQL Database で Microsoft Entra サーバープリンシパル (ログイン) が一般提供となり、仮想 master データベースで `CREATE LOGIN ... FROM EXTERNAL PROVIDER` を使えるようになりました。
+"topics":
+  - "廃止: Azure VPN Client for Linux (プレビュー) が 2026-08-31 に提供終了"
+  - "廃止: Azure Synapse Link for Azure Cosmos DB NoSQL、既存利用者は 2029-03-31 までサポート"
+  - "ID 統合: Azure SQL Database で Microsoft Entra サーバープリンシパル (ログイン) が GA"

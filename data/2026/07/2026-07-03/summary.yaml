@@ -1,0 +1,12 @@
+"date": "2026-07-03"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は Azure の信頼性を支える AI システム「Brain」が紹介されました。Azure Service Health のデジタルツインを構築することで、ハイパースケールの運用がどう変わるのかが解説されています。あわせて Azure Databricks の AI Model Serving で Anthropic Claude Sonnet 5 が一般提供となりました。Claude Sonnet 5 は Anthropic のこれまでで最もエージェント性能に優れた Sonnet モデルで、Opus に近い水準を提供します。
+"topics":
+  - "信頼性: Azure Service Health のデジタルツインを構築する AI システム「Brain」の解説"
+  - "基盤モデル: Anthropic Claude Sonnet 5 が Azure Databricks AI Model Serving で一般提供"

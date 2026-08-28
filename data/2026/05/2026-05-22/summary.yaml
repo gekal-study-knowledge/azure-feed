@@ -1,0 +1,13 @@
+"date": "2026-05-22"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_architecture_blog"
+  - "azure_networking_blog"
+"overview": |
+  この日は Architecture Blog の連載記事がまとまって公開されました。「Cloud Native Platforms」は Build・Run・Evolve の 3 部構成で、クラウドアーキテクト向けの設計判断、SRE やプラットフォームエンジニア向けの本番運用、そしてエンジニアリングリーダー向けの AI の実運用化という 3 つの読者層に分けて書かれています。あわせて Azure アーキテクチャを採点する 3 つの方法として、Well-Architected Review・Azure Advisor・Azure Arch Diagram Builder を比較した記事も公開されました。ネットワークでは Azure Virtual Network Manager の Rule Impact Analyzer により、セキュリティ管理ルールの適用前に影響を確認できる機能が紹介されています。
+"topics":
+  - "設計連載: Cloud Native Platforms の Build / Run / Evolve 3 部作 (設計判断・本番運用・AI の実運用化)"
+  - "アーキテクチャ評価: Well-Architected Review、Azure Advisor、Azure Arch Diagram Builder による 3 通りの採点方法の比較"
+  - "ネットワーク: Azure Virtual Network Manager の Rule Impact Analyzer でセキュリティ管理ルールの適用前に影響を確認"

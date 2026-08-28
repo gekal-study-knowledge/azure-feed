@@ -1,0 +1,16 @@
+"date": "2026-08-13"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 7
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日はエージェントを既存ワークフローへ組み込む話が中心でした。チャットフロントエンドや Copilot、グリーンフィールドのエージェントアプリなど選択肢が多いなか、Azure Functions のサーバーレスエージェントで既にあるワークフローに AI を足すアプローチが紹介されています。あわせて Agent Governance Toolkit と Microsoft Agent Framework Harness を使ってリスク運用エージェントを統制する方法も解説されました。Azure Updates では App Service の Markdown for Agents がプレビュー提供され、AI エージェントが App Service アプリのコンテンツをより扱いやすい形で取得できるようになっています。Azure Front Door は相互 TLS のプレビューと、ルールセット内の複数ルールを一括で追加・更新・削除・並べ替えできるバッチルール更新の GA を迎えました。
+"topics":
+  - "エージェント統合: Azure Functions のサーバーレスエージェントで既存ワークフローに AI を追加"
+  - "ガバナンス: Agent Governance Toolkit と Agent Framework Harness によるリスク運用エージェントの統制"
+  - "エージェント向け配信: App Service の Markdown for Agents がプレビュー、スクリプトやスタイルを除いた形でコンテンツを提供"
+  - "エッジ: Azure Front Door の相互 TLS がプレビュー、バッチルール更新は GA"
+  - "経済性: AI コスト管理でパイロットから測定可能な ROI へ進むための可視化・統制・最適化"

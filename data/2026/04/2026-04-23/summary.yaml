@@ -1,0 +1,10 @@
+"date": "2026-04-23"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Developer CLI (azd) のフック機能が拡張され、Bash と PowerShell に加えて Python・JavaScript・TypeScript・.NET でもフックを記述できるようになりました。フックは azd の中でも利用頻度の高い機能で、チームが普段使っている言語のままデプロイ前後の処理を書けるようになった形です。
+"topics":
+  - "開発ツール: azd のフックを Python / JavaScript / TypeScript / .NET でも記述可能に (従来は Bash と PowerShell のみ)"

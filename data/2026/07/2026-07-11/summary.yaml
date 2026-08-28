@@ -1,0 +1,12 @@
+"date": "2026-07-11"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日は Azure Front Door のレジリエンシーシリーズ第 3 部としてテナント分離が扱われ、Azure Networking のエンジニアリング責任者らによる解説が公開されました。もう 1 件は Azure Automation のランタイムバージョン廃止予告で、Python 2.7・Python 3.8・PowerShell 7.1 / 7.2 が 2026 年 9 月 30 日をもってサポート終了となります。2026 年 10 月 1 日以降、これらのバージョンを使う Runbook はサポート対象外です。
+"topics":
+  - "ネットワーク: Azure Front Door レジリエンシーシリーズ第 3 部、テナント分離の設計"
+  - "廃止: Azure Automation の Python 2.7 / 3.8、PowerShell 7.1 / 7.2 が 2026-09-30 にサポート終了"

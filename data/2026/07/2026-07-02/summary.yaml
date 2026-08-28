@@ -1,0 +1,12 @@
+"date": "2026-07-02"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_updates"
+"overview": |
+  この日はマルチクラウド移行と PII 検出が中心でした。Azure Storage Mover が Google Cloud Storage から Azure Blob Storage へのクラウド間データ移行にプレビュー対応し、Azure への集約を進めやすくなりました。バックアップでは VM 復元ポイントの Instant Access がプレビュー提供され、バックグラウンドのデータレプリケーションを待たずに復元ポイント作成直後からディスクを復元できます。Azure AI Language では Document PII の NextGen プレイグラウンドが一般提供となり、Microsoft Foundry NextGen ポータルにもサンプル付きのプレイグラウンドが加わりました。PowerShell では Az.PostgreSQLFlexibleServer モジュールが新名称で提供されています。
+"topics":
+  - "マルチクラウド移行: Azure Storage Mover が Google Cloud Storage から Blob Storage への移行にプレビュー対応"
+  - "バックアップ: VM 復元ポイントの Instant Access で、レプリケーション完了を待たずに即時復元"
+  - "PII 検出: Azure AI Language の Document PII NextGen プレイグラウンドが GA、Foundry NextGen にもサンプルを追加"

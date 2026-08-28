@@ -1,0 +1,13 @@
+"date": "2026-06-18"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日は NAT Gateway の ICMP 対応と Databricks の OneLake 連携が中心でした。Azure StandardV2 NAT Gateway が送信方向の ICMP Echo Request / Reply に対応し、ping による疎通確認とトラブルシューティングができるようになりました。Azure Databricks は Unity Catalog を通じて Microsoft OneLake のデータへネイティブに読み取りアクセスできるようになり (GA)、さらにマネージド Delta テーブルを OneLake へネイティブに書き込む機能もプレビューで追加されています。Azure Migrate は GitHub Copilot Modernization と統合し、ポートフォリオ規模のコード評価をプレビューで提供します。
+"topics":
+  - "ネットワーク: StandardV2 NAT Gateway が送信 ICMP に対応、ping による疎通確認が可能に"
+  - "データ連携: Azure Databricks が Unity Catalog 経由で OneLake をネイティブ読み取り (GA)、書き込みはプレビュー"
+  - "移行: Azure Migrate と GitHub Copilot Modernization の統合で大規模なコード評価をプレビュー提供"

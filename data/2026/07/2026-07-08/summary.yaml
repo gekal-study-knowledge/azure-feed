@@ -1,0 +1,16 @@
+"date": "2026-07-08"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 9
+"sources":
+  - "azure_architecture_blog"
+  - "azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は暗号鍵の主権とレジリエンシー検証が目立ちました。Azure Key Vault Managed HSM の外部キー管理がパブリックプレビューとなり、FIPS 140-3 レベル 3 のシングルテナント HSM に加えて外部での鍵管理が可能になります。Azure Chaos Studio には Workspaces と Scenarios がプレビューで追加され、アプリケーション単位で実際の障害時の耐性を検証しやすくなりました。ネットワーク分離では Event Hubs がネットワークセキュリティ境界に対応し、Event Hubs Dedicated は処理中のストリーミングデータをメモリ上で保護するコンフィデンシャルコンピューティングをサポートしています。アーキテクチャブログでは GitHub Copilot の従量課金時代におけるコスト最適化と、ゴールデンパスをプロダクトとして扱う考え方が示されました。
+"topics":
+  - "鍵管理: Azure Key Vault Managed HSM の外部キー管理がパブリックプレビュー"
+  - "レジリエンシー検証: Chaos Studio に Workspaces と Scenarios を追加、アプリ単位で障害耐性を検証"
+  - "ネットワーク分離: Event Hubs がネットワークセキュリティ境界に対応、Dedicated はコンフィデンシャルコンピューティングをサポート"
+  - "プラットフォーム論: ゴールデンパスをプロダクトとして扱う設計と、GitHub Copilot の従量課金時代のコスト最適化"
+  - "WAF: Application Gateway と Front Door の WAF に例外設定をプレビュー追加"

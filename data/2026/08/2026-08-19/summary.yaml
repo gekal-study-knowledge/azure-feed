@@ -1,0 +1,17 @@
+"date": "2026-08-19"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 7
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_networking_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は Managed Instance on Azure App Service の一般提供が Azure Updates 側でも案内され、App Service 向けの Markdown for Agents もパブリックプレビューとして正式発表されました。Web ページに含まれるスクリプトやスタイル、HTML マークアップはブラウザには有用でも AI モデルに送る際はノイズになるため、それらを取り除いた形で配信する機能です。ネットワークでは Azure DNS の Traffic Manager リンクレコードがパブリックプレビューとなり、Azure Firewall の IPv6 対応もプレビューで加わりました。廃止関連では、Broadcom のライセンス方針変更を受けて Azure VMware Solution のライセンス込みサービスが 2027 年 8 月 30 日に提供終了となることが告知されています。
+"topics":
+  - "アプリ移行: Managed Instance on Azure App Service が GA"
+  - "エージェント向け配信: App Service の Markdown for Agents がパブリックプレビュー、AI 向けにノイズを除去した形で配信"
+  - "DNS: Azure DNS の Traffic Manager リンクレコードがパブリックプレビュー"
+  - "ネットワーク: Azure Firewall の IPv6 対応がプレビュー、デュアルスタック構成をサポート"
+  - "廃止: Azure VMware Solution のライセンス込みサービスが 2027-08-30 に終了 (Broadcom のライセンス方針変更に伴う)"

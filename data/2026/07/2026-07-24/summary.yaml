@@ -1,0 +1,13 @@
+"date": "2026-07-24"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_blog"
+  - "azure_networking_blog"
+  - "azure_updates"
+"overview": |
+  この日は大規模トークン処理の事例と DDoS 対策でした。AT&T が Microsoft Foundry Managed Compute とオープンな AI モデル、AMD および NVIDIA の GPU インフラを使って OTel2.0 を開発する過程で、およそ 1 兆トークンを処理した事例が紹介されています。ネットワークでは Azure DDoS Protection のカスタムポリシーがパブリックプレビューとなり、保護対象の Standard Load Balancer フロントエンド IP 構成ごとに DDoS 緩和のしきい値を制御できるようになりました。従来は一律の判定だったものを、リソース単位で調整できる点が変更です。
+"topics":
+  - "大規模 AI: AT&T が Microsoft Foundry Managed Compute と AMD / NVIDIA GPU で約 1 兆トークンを処理"
+  - "DDoS 対策: Azure DDoS Protection のカスタムポリシーがプレビュー、リソース単位で緩和しきい値を制御"

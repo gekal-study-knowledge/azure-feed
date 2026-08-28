@@ -1,0 +1,10 @@
+"date": "2026-06-27"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Developer CLI (azd) の 5 月・6 月合併版のまとめが公開されました。新しい `azd tool` コマンドグループ、クロスプラットフォームの `azd exec` ランナー、より安全な多層プロビジョニング、Ctrl+C による対話的なキャンセルプロンプト、Azure Functions における Go サポートなどが含まれています。
+"topics":
+  - "開発ツール: azd の 5〜6 月まとめ、`azd tool` コマンド群、`azd exec` ランナー、安全な多層プロビジョニング、Go サポートなど"

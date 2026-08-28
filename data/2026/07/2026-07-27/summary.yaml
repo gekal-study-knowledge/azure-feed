@@ -1,0 +1,10 @@
+"date": "2026-07-27"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_architecture_blog"
+"overview": |
+  この日は Azure 移行時にレガシーな IP アドレスを維持する方法が紹介されました。段階的な Azure 移行は、アプリケーションにハードコードされた依存先アドレスという地味な制約で止まることがよくあります。通常はアドレスの振り直しが選択肢になりますが、Private Link Service の Direct Connect を使って元の IP を保持したまま移行する方法が示されています。
+"topics":
+  - "移行: Private Link Service Direct Connect でハードコードされたレガシー IP を維持したまま Azure へ移行"

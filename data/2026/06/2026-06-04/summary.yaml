@@ -1,0 +1,15 @@
+"date": "2026-06-04"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 19
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Microsoft Foundry 関連の更新が集中しました。VS Code 向け Microsoft Foundry 拡張機能が Build 2026 リフレッシュとともに一般提供となり、モデルカタログ・プレイグラウンド・ホステッドエージェントのデプロイをエディタ内で扱えます。評価まわりではルーブリック評価器、インテリジェントなトレースサンプリング、ユーザーフィードバックのロギングがいずれもプレビューで追加され、エージェント品質の測定手段が拡充されました。エージェント間通信 (A2A) も Prompt エージェントと Hosted エージェント向けにプレビュー提供されています。データベースでは Azure Database for PostgreSQL に DuckDB 拡張機能が追加され、Azure DocumentDB は曖昧検索・近接検索・BM25 ランキングを備えた全文検索がプレビューとなりました。
+"topics":
+  - "開発環境: VS Code 向け Microsoft Foundry 拡張が GA、モデルカタログとホステッドエージェントのデプロイをエディタ内で完結"
+  - "エージェント評価: ルーブリック評価器、インテリジェントなトレースサンプリング、ユーザーフィードバックのロギングをプレビュー追加"
+  - "エージェント連携: Prompt / Hosted エージェント向けの agent-to-agent (A2A) 通信がプレビュー"
+  - "データベース: Azure Database for PostgreSQL に DuckDB 拡張機能、DocumentDB に BM25 ランキング付き全文検索 (プレビュー)"
+  - "レジリエンシー: Azure Infrastructure Resiliency Manager がパブリックプレビュー"
+  - "音声: MAI-Voice-2 が Foundry でプレビュー提供、10 以上の言語で自然な音声を生成"

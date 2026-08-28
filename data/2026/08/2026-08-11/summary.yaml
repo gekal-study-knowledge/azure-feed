@@ -1,0 +1,13 @@
+"date": "2026-08-11"
+"generated_at": "2026-08-28 09:42:31 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日はセキュリティ分析が中心でした。Microsoft Threat Intelligence が DeadLock ランサムウェアを分析し、Rust で書かれた暗号化ツールと、被害者との連絡を支える分散型インフラという特徴が解説されています。あわせて Microsoft が 2026 年 IDC MarketScape の企業向け MDR/MXDR 部門でリーダーに選出されました。Azure Updates では、2026 年 8 月 23 日から Microsoft Fabric の Item Recovery が明示的に設定していないテナントで既定有効になることが告知されています。対応するアイテム種別には 3 日間の復旧ウィンドウが適用されます。
+"topics":
+  - "脅威分析: Rust ベースの暗号化ツールと分散型インフラを持つ DeadLock ランサムウェアの分析"
+  - "評価: Microsoft が 2026 IDC MarketScape の企業向け MDR 部門でリーダーに選出"
+  - "データ保護: Microsoft Fabric の Item Recovery が 2026-08-23 から未設定テナントで既定有効に (3 日間の復旧ウィンドウ)"

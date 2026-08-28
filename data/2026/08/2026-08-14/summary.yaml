@@ -1,0 +1,16 @@
+"date": "2026-08-14"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_architecture_blog"
+  - "azure_infrastructure_blog"
+  - "azure_updates"
+"overview": |
+  この日は AI インフラの費用と複雑性を扱う記事が印象的でした。次の AI インフラ時代は単一のブレークスルーではなく、モデルやソフトウェアからシリコン、サーバー、ラック、データセンターまでの各層をどれだけうまく協調設計できるかで決まる、という視点が示されています。アーキテクチャブログでは、5 月に公開されたオープンソースの Azure Architecture Diagram Builder が実際の利用を通じてどう作り変えられたかが報告されました。サービス更新では Azure Database for PostgreSQL Flexible Server のメジャーバージョンアップグレード事前検証が GA、共有 Premium SSD v2 と Ultra データディスクのライブリサイズが GA、AKS のコントロールプレーンメトリクス収集が Managed Prometheus 経由で GA となっています。
+"topics":
+  - "AI インフラ: モデルからシリコン・サーバー・ラック・データセンターまでを協調設計してコストと複雑性を抑える視点"
+  - "設計支援: 実運用のフィードバックで作り変えられた Azure Architecture Diagram Builder"
+  - "データベース: PostgreSQL Flexible Server のメジャーバージョンアップグレード事前検証が GA"
+  - "ストレージ: 共有 Premium SSD v2 と Ultra データディスクのライブリサイズが GA"
+  - "AKS 監視: コントロールプレーンメトリクスの収集が Managed Prometheus 経由で GA"

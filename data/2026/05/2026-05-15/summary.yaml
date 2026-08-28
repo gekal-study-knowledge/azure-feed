@@ -1,0 +1,13 @@
+"date": "2026-05-15"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_infrastructure_blog"
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure SDK for Rust の安定版リリースが発表されました。Core、Identity、Key Vault (Secrets / Keys / Certificates)、Storage (Blobs / Queues) の各ライブラリが安定版としてそろっています。あわせて Service Bus トリガーの Azure Functions における指数バックオフとサーキットブレーカーの実装、Application Gateway のレイヤー 4 TCP/TLS プロキシによる TCP アプリケーションのモダナイズが解説されました。後者は HTTP/HTTPS 中心の設計では扱いにくい、独自 TCP プロトコルや金融取引システムを念頭に置いた内容です。
+"topics":
+  - "SDK: Azure SDK for Rust が安定版に到達 (Core / Identity / Key Vault / Storage)"
+  - "耐障害性: Service Bus トリガーの Azure Functions で指数バックオフとサーキットブレーカーを実装しリトライストームを抑制"
+  - "ネットワーク: Application Gateway のレイヤー 4 TCP/TLS プロキシで独自 TCP プロトコルのアプリをモダナイズ"

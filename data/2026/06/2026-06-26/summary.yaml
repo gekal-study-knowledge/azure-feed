@@ -1,0 +1,12 @@
+"date": "2026-06-26"
+"generated_at": "2026-08-28 09:39:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_infrastructure_blog"
+  - "azure_updates"
+"overview": |
+  この日はハードウェアレベルのメモリ保護と廃止予告の延期でした。Microsoft の第 2 世代 Arm チップである Azure Cobalt 200 に、実用的な Rowhammer 対策を組み込む取り組みが紹介されています。メモリがクラウドと AI インフラの中心になるにつれ、クラウド規模でメモリ起因の攻撃から守る必要が高まっているという背景です。もう 1 件は Azure Blueprints の廃止時期の延期で、2026 年 7 月 11 日としていた終了予定が 2027 年 1 月 31 日まで延び、2026 年 7 月 31 日から段階的な廃止が始まります。
+"topics":
+  - "ハードウェアセキュリティ: Azure Cobalt 200 に実用的な Rowhammer 対策を実装"
+  - "廃止延期: Azure Blueprints の廃止が 2026-07-11 から 2027-01-31 へ延期、段階的廃止は 2026-07-31 から開始"

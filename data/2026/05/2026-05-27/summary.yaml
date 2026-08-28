@@ -1,0 +1,10 @@
+"date": "2026-05-27"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_networking_blog"
+"overview": |
+  この日は Azure Virtual Network Manager と Virtual WAN の統合が紹介されました。Virtual WAN を推移的な接続に使っている組織にとって、大規模なハブスポーク構成におけるスポークの接続とポリシー管理を簡素化できます。前週に公開された Rule Impact Analyzer と合わせ、AVNM を大規模ネットワーク管理の中心に据える流れが続いています。
+"topics":
+  - "ネットワーク管理: Azure Virtual Network Manager と Virtual WAN の統合で大規模ハブスポークのスポーク接続とポリシー管理を簡素化"

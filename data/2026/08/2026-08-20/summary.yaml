@@ -1,0 +1,15 @@
+"date": "2026-08-20"
+"generated_at": "2026-08-28 09:42:32 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 8
+"sources":
+  - "azure_architecture_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は Foundry のエージェント選択という設計論と、VM の細かなチューニングが並びました。Microsoft Foundry Agent Service を巡る議論は最終的に「このワークロードは Prompt Agent と Hosted Agent のどちらで実装すべきか」という問いに行き着く、という観点から選択基準が整理されています。サービス更新では VM の vCore カスタマイズが一般提供となり、同時マルチスレッディングの無効化と制約付きコア数の設定が可能になりました。Azure Site Recovery は事前にプロビジョニングした既存の NIC をターゲットリージョンで使える BYON に対応しています。開発ツールでは MSSQL 拡張機能から Azure SQL Database を無償でプロビジョニングして接続できるようになり、SQL Formatter もプレビューで追加されました。
+"topics":
+  - "設計論: Microsoft Foundry で Prompt Agent と Hosted Agent のどちらを選ぶかの判断基準"
+  - "VM チューニング: vCore カスタマイズが GA、同時マルチスレッディングの無効化と制約付きコア数の設定に対応"
+  - "災害対策: Azure Site Recovery が BYON (既存 NIC の持ち込み) に対応"
+  - "開発ツール: MSSQL 拡張から Azure SQL Database を無償でプロビジョニング、SQL Formatter はプレビュー"

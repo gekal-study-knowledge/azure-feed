@@ -1,0 +1,10 @@
+"date": "2026-04-09"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure Functions 上でホストした MCP サーバーを Microsoft Foundry のエージェントに接続する方法が公開されました。認証の選択肢とセットアップ手順を扱っており、Foundry エージェントに独自の MCP ツールへのアクセスを与える構成が示されています。前日までの MCP Apps に関する記事と合わせ、Azure Functions を MCP のホスティング基盤として位置づける流れが続いています。
+"topics":
+  - "エージェント連携: Azure Functions 上の MCP サーバーを Microsoft Foundry エージェントに接続する認証方式と手順"

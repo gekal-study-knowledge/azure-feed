@@ -1,0 +1,11 @@
+"date": "2026-05-09"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Infrastructure Blog の 2 件でした。Terraform で管理する Azure マネージドディスクを安全に移行する方法として、`for_each` のキーにリストのインデックスを使っている構成が問題の根本原因であることを示し、安定したキーへの移行を Copilot の支援とあわせて解説しています。もう 1 件は CHERIoT-Ibex に関する記事で、C や C++ に起因するメモリ安全性の脆弱性を、ハードウェアによる保護で封じ込めるアプローチが扱われました。
+"topics":
+  - "IaC: Terraform の `for_each` にインデックスを使う構成が招くディスク移行の危険と、安定キーへの移行手順"
+  - "メモリ安全性: CHERIoT-Ibex によるハードウェア強制の保護で C/C++ 由来の脆弱性を封じる取り組み"

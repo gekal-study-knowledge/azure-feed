@@ -1,0 +1,10 @@
+"date": "2026-05-21"
+"generated_at": "2026-08-28 09:36:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_networking_blog"
+"overview": |
+  この日は Azure 仮想ネットワークにおける集約されたゲートウェイプレフィックスの経路広告が解説されました。多くの Azure デプロイはハブスポーク構成を採り、ハブ VNet が ExpressRoute ゲートウェイや VPN ゲートウェイを通じてオンプレミスとの接続を担います。この構成で経路広告をどう集約するかという設計上の論点が扱われています。
+"topics":
+  - "ネットワーク: ハブスポーク構成における集約されたゲートウェイプレフィックスの経路広告"
