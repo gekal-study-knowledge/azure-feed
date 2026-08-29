@@ -1,0 +1,9 @@
+"entries":
+  "79fc6934922858019fa3fcc240a9b8ce":
+    "id": "79fc6934922858019fa3fcc240a9b8ce"
+    "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
+    "published": "2026-08-29 12:43:27"
+    "fetched": "2026-08-29 18:28:08"
+    "summary": "<p>Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/\">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-08-29 18:28:08 JST"
