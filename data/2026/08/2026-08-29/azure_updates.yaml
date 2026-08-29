@@ -6,4 +6,11 @@
     "published": "2026-08-29 00:45:32"
     "fetched": "2026-08-29 04:06:46"
     "summary": "Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secret.You can now use the same managed image-building service across your sovereign and air-gapped environmen"
-"last_updated": "2026-08-29 04:06:46 JST"
+  "71689442d3f1ae68201ad8d218879793":
+    "id": "71689442d3f1ae68201ad8d218879793"
+    "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure"
+    "link": "https://azure.microsoft.com/updates?id=570120"
+    "published": "2026-08-29 05:25:22"
+    "fetched": "2026-08-29 11:31:06"
+    "summary": "The Azure Files Container Storage Interface (CSI) driver in Azure\nKubernetes Service (AKS) now supports workload identity for pod-level\nauthentication to SMB file shares. Previously, managed identity support in AKS enabled\nworkloads to mount Azure Files w"
+"last_updated": "2026-08-29 11:31:06 JST"
