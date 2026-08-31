@@ -1,0 +1,9 @@
+"entries":
+  "e4daf448c36412ffc5e1ed9343e7d3d0":
+    "id": "e4daf448c36412ffc5e1ed9343e7d3d0"
+    "title": "Power Azure SRE Agent with the tools it needs"
+    "link": "https://devblogs.microsoft.com/azure-sdk/power-azure-sre-agent-with-connector-namespace/"
+    "published": "2026-09-01 03:37:17"
+    "fetched": "2026-09-01 07:06:18"
+    "summary": "<p>Use Azure Connector Namespace to host MCP servers and give Azure SRE Agent access to the operational tools it needs without managing the server infrastructure yourself.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/power-azure-sre-agent-with-connector-namespace/\">Power Azure SRE Agent with the tools it needs</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-09-01 07:06:18 JST"
