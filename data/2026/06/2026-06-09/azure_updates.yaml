@@ -41,4 +41,11 @@
     "published": "2026-06-09 01:15:40"
     "fetched": "2026-08-27 21:13:48"
     "summary": "With role-based access control (RBAC) for Azure Managed Redis data access, you can precisely control who can read, write, or administer your Redis data using Microsoft Entra ID—without relying on shared keys. Built on top of Redis Access Control Lists (AC"
-"last_updated": "2026-08-27 21:13:48 JST"
+  "b99ce86cf1cd9de7e43de961a5a2c840":
+    "id": "b99ce86cf1cd9de7e43de961a5a2c840"
+    "title": "[Launched] Generally Available: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers."
+    "link": "https://azure.microsoft.com/updates?id=565103"
+    "published": "2026-06-09 02:15:43"
+    "fetched": "2026-09-01 21:10:14"
+    "summary": "Azure Site Recovery\nnow supports replication and disaster recovery for Linux Azure Virtual Machines\nrunning on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa\nv6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This support is\nlimited t"
+"last_updated": "2026-09-01 21:10:14 JST"
