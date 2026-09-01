@@ -1,0 +1,15 @@
+"date": "2026-08-29"
+"generated_at": "2026-09-01 21:58:25 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_networking_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 4 件で、ネットワーク経路の設計、ソブリンクラウドでのイメージ構築、コンテナの ID、そして脅威情報という散らばった構成でした。ネットワークブログでは、ハブ & スポーク構成が大きくなるほどオンプレミス側へ広告される経路が増えていく問題が扱われています。既定では VPN ゲートウェイと ExpressRoute ゲートウェイが、ハブ仮想ネットワークのアドレス空間と、ゲートウェイトランジットを使うピアリング済みスポークのアドレス空間を広告するため、スポークとアドレス空間の数が増えると BGP 上の経路数が膨らみます。サービス更新では Azure VM Image Builder が Azure Government、China North 3、Azure Government Secret、Azure Government Top Secret で一般提供となり、ソブリンクラウドやエアギャップ環境でも同じマネージドなイメージ構築サービスを使えるようになりました。AKS では Azure Files の CSI ドライバー (SMB) がワークロード ID に対応し、SMB ファイル共有への認証を Pod 単位で行えるようになっています。セキュリティでは、偽の CAPTCHA 表示から DLL サイドローディングを経てリバーストンネルを張る ClickFix 系の TerminalFix キャンペーンについて、検出とハンティングの指針を含む分析が公開されました。
+"topics":
+  - "ネットワーク: ハブ & スポークで広告されるゲートウェイのプレフィックスが増え続ける問題と、その整理の考え方"
+  - "ソブリンクラウド: Azure VM Image Builder が Azure Government / China North 3 / Government Secret / Top Secret で GA"
+  - "コンテナ: AKS の Azure Files CSI ドライバー (SMB) がワークロード ID による Pod 単位の認証に対応"
+  - "脅威情報: 偽 CAPTCHA と DLL サイドローディングでリバーストンネルを張る TerminalFix キャンペーンの分析"
