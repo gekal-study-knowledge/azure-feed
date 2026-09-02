@@ -1,0 +1,17 @@
+"date": "2026-09-02"
+"generated_at": "2026-09-02 20:02:57 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 11
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は AKS の一般提供ラッシュと、Azure Monitor の Auxiliary ログプランの拡充が中心でした。AKS では 3 つの機能が同時に GA になっています。Azure Linux 向けの機密仮想マシン (CVM) により、機密性の高いコンテナワークロードを CVM のノードプールへ移行できるようになりました。Azure Container Registry の Artifact Streaming に対応し、イメージのプル完了を待たずにワークロードをスケールできるようになりました。さらに Windows Server 2025 のサポートが GA となり、古い Windows Server のサポート期限が近づくなかでのモダナイズ圧力に応えます。ログまわりでは、コンプライアンスや監査のために保持するが照会頻度は低い大量かつ冗長なログを、低コストで取り込み・保持するための Auxiliary テーブルプランが強化されました。Azure テーブルへの対応とプランの切り替えが GA になり、あわせて Azure Government (Fairfax) と中国リージョンというソブリンクラウドでも一般提供になっています。Azure Monitor の AI 運用アシスタントである Azure Copilot Observability Agent も、対話的な分析や深掘り調査で Basic および Auxiliary テーブルプランの Log Analytics データを扱えるようになりました。ネットワークでは Azure Firewall の auto-learn SNAT routes が GA となり、登録済みおよびプライベートの宛先プレフィックスを定期的に自動学習して No-SNAT 範囲として適用し、送信元 IP を保持しながら SNAT 管理を簡素化します。セキュリティでは、Azure Container Apps 環境を Microsoft Defender for Cloud のサーバーレスコンテナー体制管理に取り込めるようになり、コンテナー環境の体制管理を単一のワークフローへ広げられます。脅威情報では、正規のソフトウェアベンダーを装った偽の配布ページと再生成されたインストーラーでマルウェアを配る攻撃キャンペーンの分析が公開され、DART による危機前の備えを扱うインシデントレスポンスワークショップの案内も出ています。
+"topics":
+  - "コンテナ: AKS で Azure Linux 向け機密 VM (CVM)、Artifact Streaming、Windows Server 2025 サポートが揃って GA"
+  - "ログ基盤: Azure Monitor の Auxiliary テーブルプランが Azure テーブル対応とプラン切り替えに対応し GA"
+  - "ソブリンクラウド: Auxiliary ログプランが Azure Government (Fairfax) と中国リージョンでも GA"
+  - "AI 運用: Azure Copilot Observability Agent が Basic / Auxiliary テーブルプランのデータも分析対象に"
+  - "ネットワーク: Azure Firewall の auto-learn SNAT routes が GA、送信元 IP を保持しつつ No-SNAT 範囲を自動適用"
+  - "セキュリティ: Defender for Cloud のサーバーレスコンテナー体制管理が Azure Container Apps に対応"
+  - "脅威情報: 正規ベンダーを装った偽インストーラー配布キャンペーンの分析と対策"
