@@ -1,0 +1,12 @@
+"date": "2026-09-04"
+"generated_at": "2026-09-04 08:02:48 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 件と少なめでした。サービス更新は Azure Virtual Network Manager の IP アドレス管理 (IPAM) のリージョン拡大で、US Gov Virginia、US Gov Texas、US Gov Arizona、および China North 3、China East 3 で一般提供になりました。複雑なネットワーク環境で IP アドレスを効率よく管理するための機能が、政府向けと中国のリージョンにも広がった形です。セキュリティでは、AI モデルから指示を隠す手口として広まった不可視の Unicode 文字が、フィッシングの回避にも使われ始めているという分析が公開されました。メールフィルターが解析する前の段階で単語を難読化する用途に転用されており、AI へのプロンプトインジェクションの技法がメールセキュリティの領域へ越境してきた事例として扱われています。
+"topics":
+  - "ネットワーク管理: Azure Virtual Network Manager の IPAM が US Gov (Virginia / Texas / Arizona) と中国リージョン (North 3 / East 3) で GA"
+  - "脅威情報: AI へのプロンプトインジェクション由来の ASCII スマグリング (不可視 Unicode) が、メールフィルター回避のフィッシングへ転用"
