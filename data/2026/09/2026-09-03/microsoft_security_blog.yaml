@@ -1,0 +1,9 @@
+"entries":
+  "5ce12a62fd3e0ad69361d334e809d2ab":
+    "id": "5ce12a62fd3e0ad69361d334e809d2ab"
+    "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/"
+    "published": "2026-09-03 07:51:18"
+    "fetched": "2026-09-03 15:35:06"
+    "summary": "<p>Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/\">Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-03 15:35:06 JST"
