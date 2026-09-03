@@ -1,0 +1,9 @@
+"entries":
+  "ff3032314ee8b6c2f1bb5e78a3dc3f41":
+    "id": "ff3032314ee8b6c2f1bb5e78a3dc3f41"
+    "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
+    "published": "2026-09-04 01:00:00"
+    "fetched": "2026-09-04 03:56:32"
+    "summary": "<p>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/\">ASCII smuggling crosses over from AI prompt injection to phishing evasion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-04 03:56:32 JST"
