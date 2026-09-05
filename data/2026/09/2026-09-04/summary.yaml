@@ -1,12 +1,19 @@
 "date": "2026-09-04"
-"generated_at": "2026-09-04 08:02:48 JST"
+"generated_at": "2026-09-05 22:49:04 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 2
+"article_count": 10
 "sources":
+  - "azure_architecture_blog"
+  - "azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 2 件と少なめでした。サービス更新は Azure Virtual Network Manager の IP アドレス管理 (IPAM) のリージョン拡大で、US Gov Virginia、US Gov Texas、US Gov Arizona、および China North 3、China East 3 で一般提供になりました。複雑なネットワーク環境で IP アドレスを効率よく管理するための機能が、政府向けと中国のリージョンにも広がった形です。セキュリティでは、AI モデルから指示を隠す手口として広まった不可視の Unicode 文字が、フィッシングの回避にも使われ始めているという分析が公開されました。メールフィルターが解析する前の段階で単語を難読化する用途に転用されており、AI へのプロンプトインジェクションの技法がメールセキュリティの領域へ越境してきた事例として扱われています。
+  この日は OpenAI の新しいフロンティアモデル GPT-6 Astra が主題でした。Microsoft Foundry の Limited Access Program を通じて展開が始まり、参加する顧客へ順次広がっていきます。同じ内容が提供開始と一般提供という 2 つの告知で流れており、業務向けのフロンティアインテリジェンスという位置づけが強調されています。あわせて、この数週間の Microsoft への評価は、モデル・インフラストラクチャ・データ・アプリケーション・開発者ツールが AI の本番投入時に 1 つのシステムとして噛み合っている点に帰着する、という主張の記事も公開されました。アーキテクチャブログでは、Private Link で Azure AI Foundry を閉じてもエージェントの送信 (egress) までは覆えない、という指摘が実践的に扱われています。AI Foundry を Private Link で固めたうえで、別の仮想ネットワークの VM 上にある MCP サーバーをエージェントから呼ばせ、すべてをプライベートに保ったまま図ではなく実証で示す、という依頼に対して、後半が想定どおりにいかなかった経緯と実際に構築したものが書かれています。小売業向けのデモ 3IQ Retail Assistant も 3 部構成で公開されました。Fabric IQ、Foundry IQ、Work IQ を組み合わせ (Web IQ はまだパブリックプレビュー前)、テンプレートがすべてのサービスを VNET 配下のプライベートエンドポイントのみで構成することや、Copilot Studio で SharePoint リストにつながる Copilot エージェントを作って他の 2 つのエージェントと接続する手順が扱われています。事例としては、Microsoft の物理セキュリティエンジニアリングチームが Azure Arc と Azure Virtual Desktop でハイブリッド運用を簡素化し、可視性を高めてグローバルに展開した取り組みが紹介されました。サービス更新は Azure Virtual Network Manager の IP アドレス管理 (IPAM) のリージョン拡大で、US Gov Virginia、US Gov Texas、US Gov Arizona、および China North 3、China East 3 で一般提供になりました。セキュリティでは、AI モデルから指示を隠す手口として広まった不可視の Unicode 文字が、メールフィルターが解析する前の段階で単語を難読化する用途に転用され、フィッシングの回避にも使われ始めているという分析が公開されています。
 "topics":
+  - "モデル: OpenAI の GPT-6 Astra が Microsoft Foundry の Limited Access Program で展開開始"
+  - "AI セキュリティ: Private Link で AI Foundry を閉じてもエージェントの送信は覆えない、という落とし穴と実際の構成"
+  - "デモ: Fabric IQ / Foundry IQ / Work IQ を組み合わせた小売業向け 3IQ Retail Assistant を 3 部構成で解説"
   - "ネットワーク管理: Azure Virtual Network Manager の IPAM が US Gov (Virginia / Texas / Arizona) と中国リージョン (North 3 / East 3) で GA"
+  - "ハイブリッド運用: Microsoft の物理セキュリティチームが Azure Arc と Azure Virtual Desktop で運用を統合しグローバル展開"
   - "脅威情報: AI へのプロンプトインジェクション由来の ASCII スマグリング (不可視 Unicode) が、メールフィルター回避のフィッシングへ転用"
+  - "プラットフォーム論: モデル・インフラ・データ・アプリ・開発ツールが 1 つのシステムとして噛み合うことが本番 AI の要件"
