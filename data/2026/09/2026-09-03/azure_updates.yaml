@@ -13,4 +13,11 @@
     "published": "2026-09-03 01:59:15"
     "fetched": "2026-09-03 03:11:03"
     "summary": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection"
-"last_updated": "2026-09-03 03:11:03 JST"
+  "fdab9ee9b5998c265165eb5001522da0":
+    "id": "fdab9ee9b5998c265165eb5001522da0"
+    "title": "[In development] Private Preview: Reader Endpoint for Azure Database for MySQL"
+    "link": "https://azure.microsoft.com/updates?id=569653"
+    "published": "2026-09-03 01:59:15"
+    "fetched": "2026-09-09 04:03:33"
+    "summary": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection"
+"last_updated": "2026-09-09 04:03:33 JST"

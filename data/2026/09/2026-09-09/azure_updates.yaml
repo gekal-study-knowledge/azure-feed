@@ -1,0 +1,16 @@
+"entries":
+  "e9d21e11bcceb227abd095c1e3d41182":
+    "id": "e9d21e11bcceb227abd095c1e3d41182"
+    "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North"
+    "link": "https://azure.microsoft.com/updates?id=570919"
+    "published": "2026-09-09 02:35:32"
+    "fetched": "2026-09-09 04:03:33"
+    "summary": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e"
+  "c8f192b0ad70eb12772661fc23ed5bd1":
+    "id": "c8f192b0ad70eb12772661fc23ed5bd1"
+    "title": "[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework"
+    "link": "https://azure.microsoft.com/updates?id=570881"
+    "published": "2026-09-09 02:18:38"
+    "fetched": "2026-09-09 04:03:33"
+    "summary": "The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure Developer CLI with custom capabilities that support their preferred application development workflows.With"
+"last_updated": "2026-09-09 04:03:33 JST"
