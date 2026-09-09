@@ -6,4 +6,11 @@
     "published": "2026-09-10 02:41:18"
     "fetched": "2026-09-10 06:19:22"
     "summary": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
-"last_updated": "2026-09-10 06:19:22 JST"
+  "dc044aa2e5ed75d3a32c1dffd5080c65":
+    "id": "dc044aa2e5ed75d3a32c1dffd5080c65"
+    "title": "Threat Matrix: Mapping threats across cloud web applications"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+    "published": "2026-09-10 06:30:00"
+    "fetched": "2026-09-10 08:35:58"
+    "summary": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/\">Threat Matrix: Mapping threats across cloud web applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-10 08:35:58 JST"

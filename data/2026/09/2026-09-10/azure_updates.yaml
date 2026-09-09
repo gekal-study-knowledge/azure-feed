@@ -1,0 +1,16 @@
+"entries":
+  "e6d2998bc6ad6bff5db4ae71f23b336f":
+    "id": "e6d2998bc6ad6bff5db4ae71f23b336f"
+    "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage"
+    "link": "https://azure.microsoft.com/updates?id=569241"
+    "published": "2026-09-10 07:30:41"
+    "fetched": "2026-09-10 08:35:57"
+    "summary": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (SAS) with the user-bound access of Entra ID. User-bound user delegation SAS is now generally available for"
+  "20d650e4c861f31802285186a80edb96":
+    "id": "20d650e4c861f31802285186a80edb96"
+    "title": "[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS"
+    "link": "https://azure.microsoft.com/updates?id=570551"
+    "published": "2026-09-10 06:24:37"
+    "fetched": "2026-09-10 08:35:57"
+    "summary": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches the complete OS image on a VM’s local storage, eliminating remote-storage reads after caching finishes. Thi"
+"last_updated": "2026-09-10 08:35:57 JST"
