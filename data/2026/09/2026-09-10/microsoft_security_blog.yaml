@@ -1,0 +1,9 @@
+"entries":
+  "1c2a4dc1327dcab75aa30bfc0a1109da":
+    "id": "1c2a4dc1327dcab75aa30bfc0a1109da"
+    "title": "Passkey-themed social engineering leads to identity and cloud compromise"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+    "published": "2026-09-10 02:41:18"
+    "fetched": "2026-09-10 06:19:22"
+    "summary": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-10 06:19:22 JST"
