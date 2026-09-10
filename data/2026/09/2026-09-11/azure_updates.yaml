@@ -1,0 +1,16 @@
+"entries":
+  "ffbbc45c98a822cf3d81d5ec8f78646f":
+    "id": "ffbbc45c98a822cf3d81d5ec8f78646f"
+    "title": "[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption"
+    "link": "https://azure.microsoft.com/updates?id=570940"
+    "published": "2026-09-11 01:12:49"
+    "fetched": "2026-09-11 03:44:57"
+    "summary": "Azure\nFunctions Flex Consumption support for TLS/SSL certificates is now generally\navailable through a new site-scoped certificate model. Each function app can\nhold up to 3 private (.pfx) and 3 public (.cer) certificates uploaded directly,\nimported from A"
+  "68d177443e71fc8cbf107177b8a87749":
+    "id": "68d177443e71fc8cbf107177b8a87749"
+    "title": "[Launched] Generally Available: Azure Copilot Troubleshooting Agent"
+    "link": "https://azure.microsoft.com/updates?id=570980"
+    "published": "2026-09-11 00:25:52"
+    "fetched": "2026-09-11 03:44:57"
+    "summary": "Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps customers investigate and resolve operational issues faster. Available through both Azure Copilot and Support"
+"last_updated": "2026-09-11 03:44:57 JST"
