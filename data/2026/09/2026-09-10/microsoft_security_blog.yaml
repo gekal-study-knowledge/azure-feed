@@ -13,4 +13,11 @@
     "published": "2026-09-10 06:30:00"
     "fetched": "2026-09-10 08:35:58"
     "summary": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/\">Threat Matrix: Mapping threats across cloud web applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
-"last_updated": "2026-09-10 08:35:58 JST"
+  "6bfb6091f2387d58ee7932259357df89":
+    "id": "6bfb6091f2387d58ee7932259357df89"
+    "title": "Threat matrix: Mapping threats across cloud web applications"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
+    "published": "2026-09-10 06:30:00"
+    "fetched": "2026-09-10 10:43:37"
+    "summary": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/\">Threat matrix: Mapping threats across cloud web applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-10 10:43:37 JST"
