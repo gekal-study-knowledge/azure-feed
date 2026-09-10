@@ -1,0 +1,19 @@
+"date": "2026-09-10"
+"generated_at": "2026-09-11 07:54:56 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 9
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
+  - "azure_networking_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 9 件で、クラウド運用エージェントの一般提供、ゾーン冗長の設計指針、そしてソーシャルエンジニアリングの脅威情報が並びました。Azure Copilot の Troubleshooting Agent が一般提供となり、新規サービスのデプロイ、問題の切り分け、リソース正常性の評価、変更管理といった運用の場面で、より速く根拠のある判断を助ける組み込み機能として使えるようになりました。サービス更新では、VM / VMSS 向けの Azure Ephemeral OS Disk のフルキャッシュが一般提供となり、OS イメージ全体を VM のローカルストレージにキャッシュして、キャッシュ完了後はリモートストレージへの読み取りをなくせるようになりました。もう 1 つは Azure Storage の user-bound user delegation SAS の一般提供で、user delegation SAS の柔軟性と Entra ID による利用者バインドのアクセス制御を組み合わせられます。Azure ブログの設計論では、ゾーン冗長は「いくつのゾーンか」ではなく「各コンポーネントが 1 つの障害ドメインの喪失に耐えるのに何ゾーン必要か」で考えるべきで、サービス管理のゾーン冗長を使えるところでは使い、3 ゾーン設計は本当に第 3 の障害ドメインが要るコンポーネントに限る、という枠組みが示されました。ネットワークでは、ネットワーク対応の移行計画にネットワークインテリジェンスを組み込む方法が解説されています。セキュリティでは、パスキーをテーマにしたソーシャルエンジニアリングが ID とクラウドの侵害につながる手口 (MFA の永続化、Microsoft Graph を使った偵察、SharePoint / OneDrive / メールへのアクセス) と、クラウド上の Web アプリとサーバーレス基盤への脅威を MITRE ATT&CK に沿って整理する Cloud Web Applications Threat Matrix が公開されました。
+"topics":
+  - "運用エージェント: Azure Copilot の Troubleshooting Agent が GA、デプロイ・切り分け・正常性評価・変更管理を支援"
+  - "コンピューティング: VM / VMSS 向け Azure Ephemeral OS Disk のフルキャッシュが GA、キャッシュ後はリモート読み取りを排除"
+  - "ストレージ: user-bound user delegation SAS が GA、user delegation SAS と Entra ID の利用者バインドを組み合わせ"
+  - "可用性設計: ゾーン冗長はコンポーネント単位で必要ゾーン数を判断し、3 ゾーンは第 3 障害ドメインが要る箇所に限る"
+  - "脅威情報: パスキーをテーマにしたソーシャルエンジニアリングによる ID / クラウド侵害 (MFA 永続化、Graph 偵察)"
+  - "脅威フレームワーク: クラウド Web アプリ / サーバーレスの脅威を MITRE ATT&CK に沿って整理する Cloud Web Applications Threat Matrix"

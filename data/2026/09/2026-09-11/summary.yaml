@@ -1,0 +1,14 @@
+"date": "2026-09-11"
+"generated_at": "2026-09-11 07:54:56 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 4 件で、Azure Copilot Troubleshooting Agent の一般提供と Azure Functions の TLS 対応、AI を悪用した攻撃への防御が話題でした。Azure Copilot Troubleshooting Agent が一般提供となり、Azure Copilot とサポートの両方から使える統合された組み込み機能として、運用上の問題の調査と解決を速められます (前日の Apps on Azure ブログに続く正式アナウンス)。Azure Functions の Flex Consumption が TLS/SSL 証明書とエンドツーエンドの TLS 暗号化に対応し、サイトスコープの新しい証明書モデルで各関数アプリに最大 3 つのプライベート (.pfx) と 3 つのパブリック (.cer) の証明書を直接アップロードしたり Azure から取り込んだりできるようになりました。セキュリティでは、Microsoft Defender が AI をテーマにしたフィッシング・マルウェア・多段階攻撃を攻撃チェーン全体で検知・妨害するしくみと、経営層のなりすましと偽の請求書で財務チームの ACH 送金詐欺を狙う AI 支援のビジネスメール詐欺 (BEC) キャンペーンの分析が公開されました。
+"topics":
+  - "運用エージェント: Azure Copilot Troubleshooting Agent が GA、Azure Copilot とサポートの両方から運用問題の調査・解決が可能"
+  - "アプリ基盤: Azure Functions Flex Consumption が TLS/SSL 証明書とエンドツーエンド TLS 暗号化に対応 (各アプリに .pfx 3 + .cer 3)"
+  - "防御: Microsoft Defender が AI をテーマにしたフィッシング・マルウェア・多段階攻撃を攻撃チェーン全体で検知・妨害"
+  - "脅威情報: 経営層のなりすましと偽請求書で財務チームの ACH 送金詐欺を狙う AI 支援の BEC キャンペーン"
