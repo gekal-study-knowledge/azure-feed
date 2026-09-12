@@ -1,0 +1,11 @@
+"date": "2026-09-12"
+"generated_at": "2026-09-12 23:00:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日はサービス更新 2 件で、ファイル移行とディストリビューションの廃止案内でした。Azure Storage Mover がオンプレミスの SMB ファイル共有を Azure Files (SMB) へ移行するエージェントレス移行をパブリックプレビューでサポートし、移行エージェントをデプロイ・登録・保守することなく、Windows Server や NAS の共有からデータを Azure へ移せるようになりました。一方、Azure Kubernetes Service の Azure Linux with OS Guard は 2026 年 12 月 10 日にサポートを終了することが発表され、後継の Azure Container Linux (プレビュー) への移行が案内されています。同日以降は Azure Linux with OS Guard の新規作成ができなくなります。
+"topics":
+  - "ストレージ移行: Azure Storage Mover がオンプレ SMB 共有から Azure Files へのエージェントレス移行をプレビュー提供"
+  - "廃止: AKS の Azure Linux with OS Guard が 2026-12-10 にサポート終了、後継は Azure Container Linux (プレビュー)"

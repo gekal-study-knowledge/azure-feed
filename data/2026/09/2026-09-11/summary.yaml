@@ -1,14 +1,20 @@
 "date": "2026-09-11"
-"generated_at": "2026-09-11 07:54:56 JST"
+"generated_at": "2026-09-12 23:00:58 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 4
+"article_count": 10
 "sources":
+  - "azure_architecture_blog"
+  - "azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 4 件で、Azure Copilot Troubleshooting Agent の一般提供と Azure Functions の TLS 対応、AI を悪用した攻撃への防御が話題でした。Azure Copilot Troubleshooting Agent が一般提供となり、Azure Copilot とサポートの両方から使える統合された組み込み機能として、運用上の問題の調査と解決を速められます (前日の Apps on Azure ブログに続く正式アナウンス)。Azure Functions の Flex Consumption が TLS/SSL 証明書とエンドツーエンドの TLS 暗号化に対応し、サイトスコープの新しい証明書モデルで各関数アプリに最大 3 つのプライベート (.pfx) と 3 つのパブリック (.cer) の証明書を直接アップロードしたり Azure から取り込んだりできるようになりました。セキュリティでは、Microsoft Defender が AI をテーマにしたフィッシング・マルウェア・多段階攻撃を攻撃チェーン全体で検知・妨害するしくみと、経営層のなりすましと偽の請求書で財務チームの ACH 送金詐欺を狙う AI 支援のビジネスメール詐欺 (BEC) キャンペーンの分析が公開されました。
+  この日は 10 件で、AI エージェント投資の説明責任、エンタープライズ AI 基盤の運用モデル、そして脅威防御が話題でした。アーキテクチャブログでは、AI エージェント投資のビジネス価値をどう証明するかを扱う AI Agent ROI Framework、業界ごとに意味がばらばらな用語をオントロジーで統一して石油・ガス業界の AI レディネスを支える議論、Azure ランディングゾーンの上に構築する Citadel アーキテクチャでエンタープライズ AI を運用化する手法という 3 本が公開されました。Azure ブログでは、モダナイゼーションを土台にしたインフラのレジリエンスの重要性を説く記事、Microsoft Foundry でエージェントのコストを管理・投資として運用する「Economics of Agent Optimization」シリーズの最終回として、ガバナンスコントロールがコストを抑え ROI を証明する方法を扱う記事、そして 2026 年 Gartner Magic Quadrant のコンテナ管理部門で Microsoft がリーダーに選出され、AKS・Azure Arc・Azure Container Apps が AI とハイブリッドワークロードを大規模に支えていることが紹介されています。サービス更新では、Azure Copilot Troubleshooting Agent が一般提供となり、Azure Copilot とサポートの両方から使える統合された組み込み機能として、運用上の問題の調査と解決を速められます。Azure Functions の Flex Consumption は TLS/SSL 証明書とエンドツーエンドの TLS 暗号化に対応し、サイトスコープの新しい証明書モデルで各関数アプリに最大 3 つのプライベート (.pfx) と 3 つのパブリック (.cer) の証明書を直接アップロードしたり Azure から取り込んだりできるようになりました。セキュリティでは、Microsoft Defender が AI をテーマにしたフィッシング・マルウェア・多段階攻撃を攻撃チェーン全体で検知・妨害するしくみと、経営層のなりすましと偽の請求書で財務チームの ACH 送金詐欺を狙う AI 支援のビジネスメール詐欺 (BEC) キャンペーンの分析が公開されました。
 "topics":
+  - "エージェント投資: AI Agent ROI Framework でエージェント投資のビジネス価値を証明する枠組みを提示"
+  - "エージェント運用: Economics of Agent Optimization 最終回、ガバナンスコントロールでエージェントのコストを抑え ROI を証明"
+  - "業界 AI: 石油・ガス業界の AI レディネスを、システムごとに異なる用語をオントロジーで統一して支える議論"
+  - "エンタープライズ AI 基盤: Azure ランディングゾーンの上に Citadel アーキテクチャを構築してエンタープライズ AI を運用化"
+  - "評価: 2026 年 Gartner Magic Quadrant のコンテナ管理部門で Microsoft がリーダーに選出 (AKS・Arc・Container Apps)"
   - "運用エージェント: Azure Copilot Troubleshooting Agent が GA、Azure Copilot とサポートの両方から運用問題の調査・解決が可能"
   - "アプリ基盤: Azure Functions Flex Consumption が TLS/SSL 証明書とエンドツーエンド TLS 暗号化に対応 (各アプリに .pfx 3 + .cer 3)"
-  - "防御: Microsoft Defender が AI をテーマにしたフィッシング・マルウェア・多段階攻撃を攻撃チェーン全体で検知・妨害"
-  - "脅威情報: 経営層のなりすましと偽請求書で財務チームの ACH 送金詐欺を狙う AI 支援の BEC キャンペーン"
+  - "脅威情報: Microsoft Defender による AI テーマ攻撃の検知・妨害、経営層なりすましと偽請求書で ACH 送金詐欺を狙う AI 支援 BEC"
