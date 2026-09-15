@@ -1,0 +1,16 @@
+"date": "2026-09-15"
+"generated_at": "2026-09-15 22:04:00 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日は 5 件で、AI エージェントを主役にした運用と可観測性、そして接続まわりのサービス更新が話題でした。Apps on Azure ブログでは、Azure SRE Agent に「Grafana ダッシュボードを探して」「過去 3 日で特に長いセッション上位 3 件を挙げて」といった、KQL もテーブル名も指定しない大雑把な自然言語プロンプトを投げても、ダッシュボードはエージェントにとっても人間と同じように使えるツールになるという実践例が紹介されました。アーキテクチャブログでは、あらゆる指標が正常に見えるカスタマーサービスの返金エージェントが、実際には顧客の単純な質問に正しく答えられていなかったという事例をもとに、Microsoft Foundry でエージェントをトレース・評価・監視・保護する可観測性の考え方が解説されています。エンドポイントが 200 を返しレイテンシも目標内、例外もログに出ていない「グリーンチェック」が本当の問題を隠していたという構成です。サービス更新では、Azure Application Gateway が HTTP/3 over QUIC のサポートをパブリックプレビューで開始し、接続確立の高速化・レイテンシ削減・レジリエンス向上を狙います。また、2026 年 10 月上旬から Windows App が Azure Virtual Desktop へのクライアント側サービス通信に新しい 3 つのワイルドカード FQDN を使うようになることが案内されました (クラウド側の接続要件にはすでに含まれています)。前週にも取り上げられた Azure Functions Flex Consumption の TLS/SSL 証明書とエンドツーエンド暗号化の GA も、Apps on Azure ブログで改めて紹介されています。
+"topics":
+  - "運用エージェント: Azure SRE Agent に自然言語のみで Grafana ダッシュボードやセッション分析を問い合わせる実践例"
+  - "可観測性: Microsoft Foundry でエージェントをトレース・評価・監視・保護する考え方、正常に見えて実は壊れていた返金エージェントの例"
+  - "ネットワーク: Azure Application Gateway が HTTP/3 over QUIC のサポートをパブリックプレビュー開始"
+  - "接続: Windows App が 2026 年 10 月上旬から Azure Virtual Desktop 向けに新しい 3 つのワイルドカード FQDN を使用"
+  - "アプリ基盤: Azure Functions Flex Consumption の TLS/SSL 証明書とエンドツーエンド暗号化 GA を改めて紹介"
