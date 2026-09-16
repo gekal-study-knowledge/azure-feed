@@ -1,0 +1,16 @@
+"entries":
+  "c07e6798726d7d1d00e0d93631167ecd":
+    "id": "c07e6798726d7d1d00e0d93631167ecd"
+    "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes"
+    "link": "https://azure.microsoft.com/updates?id=571621"
+    "published": "2026-09-16 23:13:08"
+    "fetched": "2026-09-17 02:20:52"
+    "summary": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli"
+  "8ab187607982bb8e5be29c27616373f6":
+    "id": "8ab187607982bb8e5be29c27616373f6"
+    "title": "[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL"
+    "link": "https://azure.microsoft.com/updates?id=569664"
+    "published": "2026-09-16 23:07:14"
+    "fetched": "2026-09-17 02:20:52"
+    "summary": "The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act on a connected database. The bundled plugin combines expert-curated skills for PostgreSQL and Azure Data"
+"last_updated": "2026-09-17 02:20:52 JST"
