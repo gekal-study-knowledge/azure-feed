@@ -1,0 +1,16 @@
+"entries":
+  "01fec30af2c78873ac87493240dab7e5":
+    "id": "01fec30af2c78873ac87493240dab7e5"
+    "title": "[In preview] Public Preview: Azure Payments HSM v2"
+    "link": "https://azure.microsoft.com/updates?id=570509"
+    "published": "2026-09-18 03:36:44"
+    "fetched": "2026-09-18 05:38:26"
+    "summary": "Azure Payments HSM v2 is a highly available,\nsingle-tenant Payment HSM service for payment processing, credential issuance,\nPIN processing, key management, and authentication data protection. Customers\nretain exclusive administrative control of an isolate"
+  "5aec98c6065925fc89163c99a51f7c88":
+    "id": "5aec98c6065925fc89163c99a51f7c88"
+    "title": "[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager"
+    "link": "https://azure.microsoft.com/updates?id=571572"
+    "published": "2026-09-18 02:40:33"
+    "fetched": "2026-09-18 05:38:26"
+    "summary": "High-scale mesh using connected\ngroup in Azure Virtual Network\nManager is now in general availability. In available regions, customers may connect\nup to 3,000 virtual networks in a single mesh connectivity configuration by\ndefault and higher scale IP conn"
+"last_updated": "2026-09-18 05:38:26 JST"
