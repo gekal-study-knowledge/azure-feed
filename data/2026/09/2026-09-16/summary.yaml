@@ -1,0 +1,17 @@
+"date": "2026-09-16"
+"generated_at": "2026-09-17 22:11:53 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 6
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_infrastructure_blog"
+  - "azure_updates"
+"overview": |
+  この日は 6 件で、Azure Red Hat OpenShift の新しいデプロイ形態、開発体験の改善、そして PostgreSQL 向け AI ツールが話題でした。Azure Red Hat OpenShift with hosted control planes がパブリックプレビューとなり、OpenShift のコントロールプレーンをワーカーノードとは分離したフルマネージドサービスとして実行できる新しいデプロイオプションが加わりました。Kubernetes での標準化や AI 対応アプリケーションを支える一貫したプラットフォームを求めるチームに向けたものです。開発体験では、VS Code の GitHub Copilot で Azure アプリを構築する Guided Copilot Experience がプレビュー公開され、自由形式のチャットでは行き着く先が不確実だった課題に対し、アイデアからデプロイ済みの Azure アプリまで構造化された予測可能なワークフローで導くようになりました。アーキテクチャブログでは、詳細な職務記述書が「Java AND payments AND cloud」のような単純な検索式に変換される過程で情報が失われる「採用のコンテキストギャップ」を、Microsoft Foundry でどう埋めるかが論じられています。インフラストラクチャブログでは、カスタムアプリケーションイメージを作成し、それをもとに Azure Virtual Machine Scale Sets (VMSS) へ同一構成の VM インスタンスをプロビジョニングして CI/CD を組む例が解説されました。サービス更新では、Azure Database for PostgreSQL 向けの PostgreSQL skills と MCP プラグインがパブリックプレビューとなり、対応する AI コーディングアシスタントを PostgreSQL とデータベースの状況を把握した専門家に変え、ガイダンスと接続済みデータベースへの操作の両方を行えるようになりました。
+"topics":
+  - "コンテナ: Azure Red Hat OpenShift with hosted control planes がパブリックプレビュー、コントロールプレーンをフルマネージド化"
+  - "開発体験: VS Code の GitHub Copilot に、アイデアからデプロイまで構造化されたワークフローで導く Guided Copilot Experience をプレビュー"
+  - "AI 活用: Microsoft Foundry で職務記述書と検索式の間の「採用のコンテキストギャップ」を埋める設計論"
+  - "インフラ: カスタムイメージと Azure VMSS で CI/CD を構築するアーキテクチャ例"
+  - "データベース: Azure Database for PostgreSQL 向けの PostgreSQL skills と MCP プラグインをパブリックプレビュー提供"
