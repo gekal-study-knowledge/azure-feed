@@ -1,13 +1,19 @@
 "date": "2026-09-17"
-"generated_at": "2026-09-17 22:11:53 JST"
+"generated_at": "2026-09-19 06:14:44 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 3
+"article_count": 6
 "sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
   - "azure_blog"
+  - "azure_infrastructure_blog"
   - "azure_updates"
 "overview": |
-  この日は 3 件で、評価とサービス更新、廃止案内でした。Microsoft が 2026 年 Gartner Magic Quadrant の分散ハイブリッドインフラストラクチャ部門でリーダーに選出され、単一製品による統一アーキテクチャや、ハイパーコンバージドと分散型アーキテクチャの両方にまたがる柔軟性が評価されています。サービス更新では、2026 年 9 月中旬の Azure SQL アップデートとして、論理サーバーの論理サーバーを削除すると設定した保持期間内は自己復元可能なソフトデリート状態になる機能などが追加されました。廃止案内では、コンテナ化された SAP データコネクタが 2026 年 9 月 14 日にすでに廃止・非サポートとなっており (既存の TLS 準拠のエージェントは廃止された HTTP Data Collector API 経由でログの送信を継続可能)、コンテナイメージ自体は 2026 年 10 月 14 日に削除されることが案内されています。
+  この日は 6 件で、評価、エージェント基盤、ネットワーク運用、サービス更新と廃止案内が話題でした。Microsoft が 2026 年 Gartner Magic Quadrant の分散ハイブリッドインフラストラクチャ部門でリーダーに選出され、単一製品による統一アーキテクチャや、ハイパーコンバージドと分散型アーキテクチャの両方にまたがる柔軟性が評価されています。Apps on Azure ブログでは、Azure Functions hosted skills (旧 Serverless Agents) で動的ワークフローを有効にする方法が解説されました。キュー・HTTP・タイマー・イベントをきっかけに動く従来のトリガー型モデルに AI の推論を加え、リクエストを読み取って与えられたツールで状況を確認し次の手順を選ばせながら、トリガーやツールは従来どおり管理できます。アーキテクチャブログでは、小売の販促イベントを題材に、D365 Finance and Operations の顧客データと Fabric IQ を Foundry IQ で組み合わせるシナリオが取り上げられました。インフラストラクチャブログでは、テナントをまたいだプライベートエンドポイントの DNS を Azure Policy と Azure Lighthouse で自動化する方法が扱われ、単一の Microsoft Entra テナントでは Azure Policy がプライベートエンドポイントを一元管理のプライベート DNS ゾーンへ自動関連付けできるのに対し、複数テナントでは複雑になる課題への対応が示されています。サービス更新では、2026 年 9 月中旬の Azure SQL アップデートとして、論理サーバーを削除すると設定した保持期間内は自己復元可能なソフトデリート状態になる機能などが追加されました。廃止案内では、コンテナ化された SAP データコネクタが 2026 年 9 月 14 日にすでに廃止・非サポートとなっており (既存の TLS 準拠のエージェントは廃止された HTTP Data Collector API 経由でログの送信を継続可能)、コンテナイメージ自体は 2026 年 10 月 14 日に削除されることが案内されています。
 "topics":
   - "評価: Microsoft が 2026 年 Gartner Magic Quadrant の分散ハイブリッドインフラストラクチャ部門でリーダーに選出"
+  - "エージェント基盤: Azure Functions hosted skills (旧 Serverless Agents) で AI 推論を組み込んだ動的ワークフローを有効化"
+  - "データ / AI: D365 Finance and Operations の顧客データと Fabric IQ を Foundry IQ で組み合わせる小売シナリオ"
+  - "ネットワーク運用: Azure Policy と Azure Lighthouse でテナントをまたぐプライベートエンドポイント DNS を自動化"
   - "データベース: 2026 年 9 月中旬の Azure SQL アップデート、論理サーバーのソフトデリート対応など"
   - "廃止: コンテナ化された SAP データコネクタが 2026-09-14 に廃止済み、コンテナイメージは 2026-10-14 に削除"
