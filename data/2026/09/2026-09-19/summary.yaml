@@ -1,15 +1,18 @@
 "date": "2026-09-19"
-"generated_at": "2026-09-19 06:14:44 JST"
+"generated_at": "2026-09-20 08:10:11 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 7
+"article_count": 9
 "sources":
+  - "azure_infrastructure_blog"
   - "azure_updates"
 "overview": |
-  この日は 7 件のサービス更新で、Microsoft Foundry のエージェント運用と PostgreSQL まわりの強化が中心でした。Microsoft Foundry のエージェントを Microsoft 365 Copilot と Teams へ公開する機能が一般提供となり、Foundry の開発者がエージェントを利用者の働く場所へ届けるネイティブな経路を持てるようになりました。Foundry のホスト型エージェントについては、送信接続を統制するネットワークエグレス制御がパブリックプレビューで登場し、送信先ホスト (*.contoso.com のようなワイルドカード付き FQDN を含む) にマッチする順序付きルールを作成して許可・拒否などのアクションを指定できます。Microsoft Admin Center の Agent 365 ガバナンスでは、Foundry エージェントの有効化・無効化コントロールが一般提供となり、管理者が組織全体でのエージェントの利用可否を制御できます。Azure Database for PostgreSQL では、エラスティッククラスターが PostgreSQL 18 に対応 (一般提供)、フレキシブルサーバー向けに高 CPU・メモリ・IOPS・一時ファイル使用量・autovacuum の問題を診断するトラブルシューティングガイドが拡充 (一般提供)、論理レプリケーションスロットの同期状態を示す Azure Monitor メトリクス logical_replication_slot_sync_status が追加 (一般提供) されました。仮想マシンでは、第 6 世代 Intel Xeon Scalable プロセッサと Azure Boost の最新技術を備えた、メモリ集約型の SAP 向け Mdsv4 / Msv4 シリーズがパブリックプレビューになっています。
+  この日は 9 件で、Microsoft Foundry のエージェント運用と PostgreSQL まわりの強化が中心でした。Microsoft Foundry のエージェントを Microsoft 365 Copilot と Teams へ公開する機能が一般提供となり、Foundry の開発者がエージェントを利用者の働く場所へ届けるネイティブな経路を持てるようになりました。Foundry Agent Service にはパブリックプレビューとして Foundry Routines が加わり、公開済みエージェントを自動実行するためのネイティブなトリガープリミティブとして、スケジュールやビジネスイベントを契機とした実行に外部の仕組みを組み合わせる必要をなくします。Foundry のホスト型エージェントについては、送信接続を統制するネットワークエグレス制御がパブリックプレビューで登場し、送信先ホスト (*.contoso.com のようなワイルドカード付き FQDN を含む) にマッチする順序付きルールを作成して許可・拒否などのアクションを指定できます。Microsoft Admin Center の Agent 365 ガバナンスでは、Foundry エージェントの有効化・無効化コントロールが一般提供となり、管理者が組織全体でのエージェントの利用可否を制御できます。Azure Database for PostgreSQL では、エラスティッククラスターが PostgreSQL 18 に対応 (一般提供)、フレキシブルサーバー向けに高 CPU・メモリ・IOPS・一時ファイル使用量・autovacuum の問題を診断するトラブルシューティングガイドが拡充 (一般提供)、論理レプリケーションスロットの同期状態を示す Azure Monitor メトリクス logical_replication_slot_sync_status が追加 (一般提供) されました。仮想マシンでは、第 6 世代 Intel Xeon Scalable プロセッサと Azure Boost の最新技術を備えた、メモリ集約型の SAP 向け Mdsv4 / Msv4 シリーズがパブリックプレビューになっています。インフラストラクチャブログでは、Azure ネイティブのサービスで FinOps に対応したランディングゾーンの土台を作る第 1 回に続き、その第 2 回が公開されました。
 "topics":
   - "エージェント公開: Microsoft Foundry のエージェントを Microsoft 365 Copilot と Teams へ公開する機能が GA"
+  - "エージェント自動実行: Foundry Agent Service に Foundry Routines をプレビュー追加、スケジュールやイベントで公開済みエージェントを起動"
   - "エージェント統制: Foundry のホスト型エージェント向けネットワークエグレス制御をプレビュー、ワイルドカード FQDN の許可・拒否ルール"
   - "エージェント統制: Agent 365 で Foundry エージェントの有効化・無効化コントロールが GA"
   - "データベース: Azure Database for PostgreSQL のエラスティッククラスターが PostgreSQL 18 に対応 (GA)"
   - "データベース運用: PostgreSQL のトラブルシューティングガイド拡充と logical_replication_slot_sync_status メトリクスが GA"
   - "SAP: メモリ集約型の SAP 向け Mdsv4 / Msv4 シリーズ VM をパブリックプレビュー"
+  - "コスト管理: FinOps 対応の Azure ランディングゾーン設計 第 2 回"
