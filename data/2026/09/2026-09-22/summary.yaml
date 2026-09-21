@@ -1,0 +1,12 @@
+"date": "2026-09-22"
+"generated_at": "2026-09-22 08:19:15 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 3 件のサービス更新で、ランタイムと OS の更新、そして VS Code でのアプリ構築体験が話題でした。Azure Functions の PowerShell 7.6 サポートが一般提供となり、ローカルで PowerShell 7.6 を使ってアプリを開発し、Azure Functions のプランへデプロイできるようになりました。VS Code では、GitHub Copilot で Azure のクラウドアプリを構築する新しい方法がパブリックプレビューとして登場し、結果が読めない自由形式のチャットではなく、構造化され予測可能なワークフローによってアイデアからデプロイ済みの Azure アプリまで進められるガイド付き Copilot 体験が提供されます。Azure Sphere OS はバージョン 26.09 が Retail フィードで提供開始となり、今回は OS のみの更新で SDK の更新は含まれません。インターネットに接続されているデバイスはクラウドから更新版 OS を受け取ります。
+"topics":
+  - "ランタイム: Azure Functions の PowerShell 7.6 サポートが GA"
+  - "開発体験: VS Code で Azure アプリを構築するガイド付き Copilot 体験をパブリックプレビュー"
+  - "IoT: Azure Sphere OS 26.09 が Retail フィードで提供開始、OS のみの更新で SDK の更新なし"
