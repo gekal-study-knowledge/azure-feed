@@ -1,0 +1,23 @@
+"entries":
+  "83dcd65fed19a91b457c6dff522c33fa":
+    "id": "83dcd65fed19a91b457c6dff522c33fa"
+    "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available"
+    "link": "https://azure.microsoft.com/updates?id=572579"
+    "published": "2026-09-22 03:44:49"
+    "fetched": "2026-09-22 04:47:21"
+    "summary": "Azure Sphere OS version 26.09 is now available in the Retail feed. This release includes updates to the Azure Sphere OS only, with no update to the SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.The 26."
+  "a568556dbb61d49a26c8e873a6f8eb91":
+    "id": "a568556dbb61d49a26c8e873a6f8eb91"
+    "title": "[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code"
+    "link": "https://azure.microsoft.com/updates?id=572214"
+    "published": "2026-09-22 01:58:19"
+    "fetched": "2026-09-22 04:47:21"
+    "summary": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or ma"
+  "d9201f69cb2deee5d1d86c8cf495a74f":
+    "id": "d9201f69cb2deee5d1d86c8cf495a74f"
+    "title": "[Launched] Generally Available: Azure Functions support for PowerShell 7.6"
+    "link": "https://azure.microsoft.com/updates?id=572219"
+    "published": "2026-09-22 01:55:34"
+    "fetched": "2026-09-22 04:47:21"
+    "summary": "Azure Functions support for PowerShell 7.6 is\nnow generally available.  You can now develop apps using PowerShell 7.6 locally and\ndeploy them to Azure Functions plans.   Learn more: Updating\nyour app to PowerShell 7.6  What's\nnew in PowerShell 7.6?  Azure"
+"last_updated": "2026-09-22 04:47:21 JST"
