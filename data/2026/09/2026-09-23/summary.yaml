@@ -1,0 +1,17 @@
+"date": "2026-09-23"
+"generated_at": "2026-09-23 08:18:30 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 5
+"sources":
+  - "azure_networking_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 5 件で、ハイブリッド基盤のプレビュー、変更点の追跡、そしてフィッシング基盤の摘発が話題でした。AKS 向けの Flex Nodes がパブリックプレビューとなり、ハイブリッドやエッジのインフラストラクチャを Azure 上の AKS コントロールプレーンに接続されたワーカーノードとして使えるようになります。一貫した Kubernetes コントロールプレーンを保ったまま、手元の基盤を活かせる構成です。提供終了の告知として、Node.js 22 のサポートが 2027 年 4 月 30 日に終了します。Azure Functions アプリは動き続けますが、その日以降はセキュリティパッチと更新が提供されず、サポートも終了するため、それまでに Node.js 24 へ移行する必要があります。ネットワークのブログでは、トラブルシューティングで最もよく出る「何か変わったか」という問いに対し、Azure Resource Graph の Change Analysis を最初に見るべき場所として紹介しています。VPN や接続の問題、Azure Firewall の挙動変化、VM の停止、ルーティングやアプリケーションの障害を調べるとき、直近の構成変更を特定するのが最短経路になるという内容です。SDK のブログでは、LangChain Deep Agents の永続ファイルシステムとして Azure Blob Storage を使う方法が解説されました。セキュリティブログでは、AI を使った誘導文面・自動化されたインフラストラクチャ・トークン窃取によってデバイスコードフィッシングを可能にし、主要な PhaaS プラットフォームとなった EvilTokens を取り上げ、Microsoft デジタル犯罪ユニット (DCU) がパートナーと協力してそのインフラストラクチャと活動の停止を実現したことが報告されています。
+"topics":
+  - "ハイブリッド: AKS 向け Flex Nodes をパブリックプレビュー、エッジやハイブリッドの基盤を接続ワーカーノードに"
+  - "提供終了: Node.js 22 のサポートが 2027-04-30 に終了、Node.js 24 への移行が必要"
+  - "トラブルシュート: Azure Resource Graph の Change Analysis で直近の構成変更を最初に確認"
+  - "エージェント: LangChain Deep Agents の永続ファイルシステムとして Azure Blob Storage を使う方法"
+  - "セキュリティ: デバイスコードフィッシングの PhaaS 基盤 EvilTokens を Microsoft DCU がパートナーと停止"

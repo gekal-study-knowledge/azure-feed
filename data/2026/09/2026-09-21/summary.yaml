@@ -1,0 +1,11 @@
+"date": "2026-09-21"
+"generated_at": "2026-09-23 08:18:30 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "apps_on_azure_blog"
+"overview": |
+  この日は 1 件で、ベクトル検索基盤の話題でした。Elastic のベクトルワークロード向けサーバーレス提供である Elasticsearch Vector Database により、Azure の利用者はクラスターを運用することなく、セマンティック検索・検索拡張生成 (RAG)・エージェントを使った体験を構築できます。Azure Native Integrations に対応しており、Azure ポータルから探して配置し管理できます。
+"topics":
+  - "ベクトル検索: Elasticsearch Vector Database でクラスター運用なしにセマンティック検索と RAG を構築"
+  - "統合: Azure Native Integrations により Azure ポータルから配置・管理が可能"
