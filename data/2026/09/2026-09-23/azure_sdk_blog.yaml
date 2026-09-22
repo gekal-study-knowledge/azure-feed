@@ -1,0 +1,9 @@
+"entries":
+  "594ccbdd001c99c8e509a0d1775b3438":
+    "id": "594ccbdd001c99c8e509a0d1775b3438"
+    "title": "Using Azure Blob Storage as a durable filesystem for LangChain Deep Agents"
+    "link": "https://devblogs.microsoft.com/azure-sdk/using-azure-blob-storage-as-a-durable-filesystem-for-langchain-deep-agents-2/"
+    "published": "2026-09-23 00:00:44"
+    "fetched": "2026-09-23 02:23:58"
+    "summary": "<p>LangChain Deep Agents is an open-source agent harness with built-in capabilities for building LLM-powered agents and applications, including complex, multi-step workflows. A model can reason and generate responses, but it needs a harness to do useful work over time. The harness provides the tools and runtime that let the model retrieve the right context, take [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/using-azure-blob-storage-as-a-durable-filesystem-for-langchain-deep-agents-2/\">Using Azure Blob Storage as a durable filesystem for LangChain Deep Agents</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-09-23 02:23:58 JST"
