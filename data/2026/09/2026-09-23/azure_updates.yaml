@@ -1,0 +1,16 @@
+"entries":
+  "adccdc8e0333d43d66ab10d87b94167f":
+    "id": "adccdc8e0333d43d66ab10d87b94167f"
+    "title": "Retirement: Support for Node.js 22 ends on April 30, 2027"
+    "link": "https://azure.microsoft.com/updates?id=572771"
+    "published": "2026-09-23 04:22:34"
+    "fetched": "2026-09-23 05:33:35"
+    "summary": "Support for Node.js 22 will end on April 30, 2027, please transition to Node.js 24 by that date. Your Azure Function apps will continue to run, but security patches and updates will no longer be provided and customer support for Node.js 22 will be discont"
+  "77342550a00030af7c39ed6989054de0":
+    "id": "77342550a00030af7c39ed6989054de0"
+    "title": "[In preview] Public Preview: Flex Nodes for AKS"
+    "link": "https://azure.microsoft.com/updates?id=571919"
+    "published": "2026-09-23 03:51:48"
+    "fetched": "2026-09-23 05:33:35"
+    "summary": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to"
+"last_updated": "2026-09-23 05:33:35 JST"
