@@ -1,0 +1,16 @@
+"entries":
+  "5e1b4d4d48088365396ac70a26cd6c6c":
+    "id": "5e1b4d4d48088365396ac70a26cd6c6c"
+    "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026"
+    "link": "https://azure.microsoft.com/updates?id=572770"
+    "published": "2026-09-24 01:50:05"
+    "fetched": "2026-09-24 03:00:59"
+    "summary": "Support for PowerShell 7.4 will\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but security patches and updates will no\nlonger be provided and customer support for\nPowerShell 7.4 will be disco"
+  "5f270d3180fe49e9d9f96584a63fbf49":
+    "id": "5f270d3180fe49e9d9f96584a63fbf49"
+    "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10"
+    "link": "https://azure.microsoft.com/updates?id=572838"
+    "published": "2026-09-24 01:46:49"
+    "fetched": "2026-09-24 03:00:59"
+    "summary": "Support for .NET\n8 and .NET 9 will end on November\n10, 2026. Please transition to .NET\n10 by that date. Your\nAzure Function Apps will continue to operate,\nbut security updates will no longer be provided, and support for .NET 8 and\n.NET 9 on Azure Function"
+"last_updated": "2026-09-24 03:00:59 JST"
