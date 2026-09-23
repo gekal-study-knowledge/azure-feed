@@ -216,4 +216,11 @@
     "published": "2026-06-03 04:00:47"
     "fetched": "2026-08-27 21:13:48"
     "summary": "Azure AI Search makes OneLake catalog integration generally available for knowledge sources, so customers can register a OneLake item once and reuse it across multiple knowledge sources and agents. The integration honors existing OneLake item-level permis"
-"last_updated": "2026-08-27 21:13:48 JST"
+  "95dd67a0eb975457f8c0c3b1cd11b915":
+    "id": "95dd67a0eb975457f8c0c3b1cd11b915"
+    "title": "[Launched] Generally Available: Azure Container Apps Sandboxes"
+    "link": "https://azure.microsoft.com/updates?id=561262"
+    "published": "2026-06-03 04:00:47"
+    "fetched": "2026-09-24 06:51:45"
+    "summary": "Teams building agentic applications, multi-tenant platforms,\ndevelopment environments, and CI/CD systems have often had to stitch together\ncustom infrastructure to run untrusted code safely, preserve state across\nsessions, and handle bursty demand without"
+"last_updated": "2026-09-24 06:51:45 JST"
