@@ -1,14 +1,16 @@
 "date": "2026-09-22"
-"generated_at": "2026-09-23 08:18:30 JST"
+"generated_at": "2026-09-23 14:53:12 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 4
+"article_count": 5
 "sources":
   - "apps_on_azure_blog"
+  - "azure_infrastructure_blog"
   - "azure_updates"
 "overview": |
-  この日は 3 件のサービス更新で、ランタイムと OS の更新、そして VS Code でのアプリ構築体験が話題でした。Azure Functions の PowerShell 7.6 サポートが一般提供となり、ローカルで PowerShell 7.6 を使ってアプリを開発し、Azure Functions のプランへデプロイできるようになりました。VS Code では、GitHub Copilot で Azure のクラウドアプリを構築する新しい方法がパブリックプレビューとして登場し、結果が読めない自由形式のチャットではなく、構造化され予測可能なワークフローによってアイデアからデプロイ済みの Azure アプリまで進められるガイド付き Copilot 体験が提供されます。Azure Sphere OS はバージョン 26.09 が Retail フィードで提供開始となり、今回は OS のみの更新で SDK の更新は含まれません。インターネットに接続されているデバイスはクラウドから更新版 OS を受け取ります。アプリ関連のブログでは、Azure Container Instances 上の仮想ノードが AKS の新しいコンピュート層として紹介されました。AKS がコントロールプレーンを自分で運用せずにマネージド Kubernetes を提供するのに対し、ACI 上の仮想ノードはさらに一歩進めて、Pod を Azure のサーバーレスコンテナ基盤で直接動かし、キャパシティ計画なしに伸縮できるようにします。
+  この日は 5 件で、AI 向けインフラとコンテナ実行基盤の話題が中心でした。インフラブログでは、Dapple と Azure を通じた特殊な GPU インフラへのアクセス拡大が取り上げられ、基盤モデルの学習・ファインチューニング・大規模推論・エージェントシステムといったエンタープライズ AI のワークロードが規模と複雑さを増すなかで、それを支えるインフラが根本的な転換期にあるとしています。アプリ関連では、Azure Container Instances 上の仮想ノードが AKS の新しいコンピュートレイヤーとして紹介されました。AKS はコントロールプレーンを自前で運用せずにフルの Kubernetes API を使えるマネージド Kubernetes ですが、ACI 上の仮想ノードはさらに一歩進めて、Pod を Azure のサーバーレスコンテナ基盤で直接実行し、キャパシティプランニングもマシンの待ち時間もなく弾力性を得られます。サービス更新では、Azure Functions の PowerShell 7.6 サポートが一般提供となり、ローカルで PowerShell 7.6 のアプリを開発して Azure Functions プランへデプロイできるようになりました。VS Code では、GitHub Copilot で Azure アプリを構築するガイド付き体験がパブリックプレビューとなり、自由形式のチャットではなく構造化された予測可能なワークフローでアイデアからデプロイ済みの Azure アプリまで導きます。あわせて、Azure Sphere OS バージョン 26.09 が Retail フィードで提供開始となりました。今回は OS のみの更新で SDK の更新はなく、インターネットに接続されたデバイスはクラウドから自動で受け取ります。
 "topics":
-  - "ランタイム: Azure Functions の PowerShell 7.6 サポートが GA"
-  - "開発体験: VS Code で Azure アプリを構築するガイド付き Copilot 体験をパブリックプレビュー"
-  - "IoT: Azure Sphere OS 26.09 が Retail フィードで提供開始、OS のみの更新で SDK の更新なし"
-  - "コンテナ: Azure Container Instances 上の仮想ノードが AKS の新しいコンピュート層に、Pod をサーバーレス基盤で直接実行"
+  - "AI インフラ: Dapple と Azure を通じた特殊な GPU インフラへのアクセス拡大"
+  - "コンテナ: Azure Container Instances 上の仮想ノードが AKS の新しいコンピュートレイヤーに、Pod をサーバーレスで直接実行"
+  - "サーバーレス: Azure Functions の PowerShell 7.6 サポートが GA"
+  - "開発体験: VS Code で GitHub Copilot によるガイド付き Azure アプリ構築がパブリックプレビュー"
+  - "IoT: Azure Sphere OS 26.09 が Retail フィードで提供開始 (OS のみ、SDK 更新なし)"
