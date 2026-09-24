@@ -1,0 +1,16 @@
+"entries":
+  "54103edba2510dc53d03f6b9e9379b7b":
+    "id": "54103edba2510dc53d03f6b9e9379b7b"
+    "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/"
+    "published": "2026-09-25 01:00:00"
+    "fetched": "2026-09-25 04:33:18"
+    "summary": "<p>Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/\">Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+  "4eeb39ee0f08e79b0c3ca5b5a9303fee":
+    "id": "4eeb39ee0f08e79b0c3ca5b5a9303fee"
+    "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/"
+    "published": "2026-09-25 01:00:00"
+    "fetched": "2026-09-25 04:33:18"
+    "summary": "<p>This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/\">​​​​​​​​What’s new in Microsoft Security: September 2026​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-25 04:33:18 JST"

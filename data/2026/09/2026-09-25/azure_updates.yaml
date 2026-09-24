@@ -1,0 +1,16 @@
+"entries":
+  "a2bc49f106c3e584c516fd07206f81ac":
+    "id": "a2bc49f106c3e584c516fd07206f81ac"
+    "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028"
+    "link": "https://azure.microsoft.com/updates?id=557117"
+    "published": "2026-09-25 02:51:23"
+    "fetched": "2026-09-25 04:33:17"
+    "summary": "Microsoft will retire several standalone Azure Communication\nServices (ACS) offerings on September 30, 2028. After this date, the affected\nservices will no longer be available.  Details\nBeginning September 30, 2028, the following ACS services will be reti"
+  "d5424a63f0e1308a73dccf8559657262":
+    "id": "d5424a63f0e1308a73dccf8559657262"
+    "title": "[Launched] Generally Available: Instant Access for VM restore points"
+    "link": "https://azure.microsoft.com/updates?id=572573"
+    "published": "2026-09-25 01:04:16"
+    "fetched": "2026-09-25 04:33:17"
+    "summary": "Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally available. With Instant Access, you can begin restoring a disk from a restore point as soon as the snapshot i"
+"last_updated": "2026-09-25 04:33:17 JST"
