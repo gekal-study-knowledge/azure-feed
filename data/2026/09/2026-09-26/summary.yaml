@@ -1,0 +1,12 @@
+"date": "2026-09-26"
+"generated_at": "2026-09-26 08:20:10 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 件で、データベースのプレビュー更新と、クラウドを狙った攻撃の分析でした。Azure HorizonDB が PostgreSQL 18 のサポートを含めてパブリックプレビューとなりました。HorizonDB は、スケーラブルで高性能なワークロードのために設計された、PostgreSQL 互換のフルマネージドかつクラウドネイティブなデータベースサービスです。セキュリティブログでは、侵害したサービスプリンシパルを使ったエージェント駆動のクラウド攻撃として Storm-3168 の分析が公開されました。JADEPUFFER に関連する Azure 環境の偵察、リソースの削除、認証情報へのアクセスといった活動を Storm-3168 によるものと特定し、防御側向けの指針がまとめられています。
+"topics":
+  - "データベース: Azure HorizonDB がパブリックプレビュー、PostgreSQL 18 をサポート"
+  - "脅威分析: Storm-3168 が侵害したサービスプリンシパルでエージェント駆動のクラウド攻撃、JADEPUFFER に関連"
