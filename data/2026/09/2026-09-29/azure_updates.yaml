@@ -1,0 +1,16 @@
+"entries":
+  "2a48865bd73c4d4d583c885f309a5fdb":
+    "id": "2a48865bd73c4d4d583c885f309a5fdb"
+    "title": "[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026"
+    "link": "https://azure.microsoft.com/updates?id=571632"
+    "published": "2026-09-29 03:52:10"
+    "fetched": "2026-09-29 05:53:10"
+    "summary": "In\nlate September 2026, the following updates and\nenhancements were made to Azure SQL Managed Instance:  \n Use\n     the flexible memory feature in Azure SQL Managed Instance to change the\n     amount of memory allocated to your SQL managed instance withou"
+  "2313e479e08cb2ff01b7461b31882312":
+    "id": "2313e479e08cb2ff01b7461b31882312"
+    "title": "[Launched] Generally Available: Luxembourg - Azure Extended Zones"
+    "link": "https://azure.microsoft.com/updates?id=572968"
+    "published": "2026-09-29 02:08:48"
+    "fetched": "2026-09-29 05:53:10"
+    "summary": "We are announcing the general availability of the Luxembourg Azure Extended Zone. Azure Extended Zones are small-footprint extensions of Azure placed in metro areas, industry centers, or specific jurisdictions, to serve low latency and data residency work"
+"last_updated": "2026-09-29 05:53:10 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "fd422a805471c832f222a59d73428525":
+    "id": "fd422a805471c832f222a59d73428525"
+    "title": "[Launched] Generally Available: Azure Backup for Elastic SAN"
+    "link": "https://azure.microsoft.com/updates?id=494438"
+    "published": "2025-05-30 00:15:41"
+    "fetched": "2026-09-29 05:53:10"
+    "summary": "Azure Backup now supports operational backup for Elastic SAN, offering a fully\nmanaged solution for backing up and restoring Elastic SAN volumes. This\nintegration helps protect data against accidental deletions, ransomware\nattacks, and application updates"
+"last_updated": "2026-09-29 05:53:10 JST"

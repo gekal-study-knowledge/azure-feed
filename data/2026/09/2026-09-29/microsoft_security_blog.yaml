@@ -1,0 +1,9 @@
+"entries":
+  "0a4547b514dbc40f2a292370aeae1f2d":
+    "id": "0a4547b514dbc40f2a292370aeae1f2d"
+    "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/"
+    "published": "2026-09-29 00:00:00"
+    "fetched": "2026-09-29 05:53:10"
+    "summary": "<p>Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/\">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-29 05:53:10 JST"
