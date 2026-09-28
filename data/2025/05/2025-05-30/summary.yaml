@@ -1,0 +1,10 @@
+"date": "2025-05-30"
+"generated_at": "2026-09-29 08:20:16 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 件で、バックアップの一般提供の告知でした。Azure Backup が Elastic SAN の運用バックアップに対応し、Elastic SAN のボリュームをバックアップ・復元するためのフルマネージドな仕組みが提供されるようになりました。誤削除やランサムウェア攻撃、アプリケーションの更新によるデータ損失からの保護に役立ちます。
+"topics":
+  - "バックアップ: Azure Backup が Elastic SAN の運用バックアップに対応、誤削除やランサムウェアからボリュームを保護"

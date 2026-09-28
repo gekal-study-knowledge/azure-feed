@@ -1,0 +1,13 @@
+"date": "2026-09-29"
+"generated_at": "2026-09-29 08:20:16 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 3 件で、データベースとリージョン拡大の一般提供、そして侵入後に使われるマルウェアの分析でした。Azure SQL Managed Instance では 2026 年 9 月下旬の更新がまとめて一般提供となり、その中にはフレキシブルメモリ機能によって、マネージドインスタンスに割り当てるメモリ量を変更できるようになったことが含まれます。リージョンでは、ルクセンブルクの Azure Extended Zone が一般提供となりました。Azure Extended Zones は、低レイテンシーやデータレジデンシーの要件があるワークロードに応えるために、大都市圏・産業集積地・特定の法域に置かれる小規模な Azure の拡張です。セキュリティブログでは、標的型の侵入で使われるモジュール型のマルウェアフレームワーク NeedyMantis の分析が公開されました。Microsoft Threat Intelligence によると、独自のローダー、暗号化されたアーカイブ、拡張可能なコンポーネントを組み合わせることで長期のアクセスを維持し、その後の活動を支える構成になっています。
+"topics":
+  - "データベース: Azure SQL Managed Instance の 2026 年 9 月下旬の更新が GA、フレキシブルメモリでメモリ割り当てを変更可能に"
+  - "リージョン: ルクセンブルクの Azure Extended Zone が GA、低レイテンシーとデータレジデンシー向け"
+  - "脅威分析: 侵入後に使われるモジュール型マルウェアフレームワーク NeedyMantis を分析"
