@@ -1,0 +1,23 @@
+"date": "2026-09-30"
+"generated_at": "2026-09-30 08:21:40 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 30
+"sources":
+  - "azure_sdk_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 30 件と非常に多く、SQL 関連の更新がまとめて届いた日でした。Azure SQL では、2026 年 9 月下旬の更新として、Azure SQL Database Hyperscale の Premium シリーズに 160 vCore と 192 vCore の選択肢が加わり、前世代比で最大 50% 大きいコンピュート容量が使えるようになりました (プレビューの更新としては、SQL Server・Azure SQL をまたいでデータベースを横断的に発見・管理・監視・最適化できる Microsoft Fabric の Database Hub が挙げられています)。Hyperscale の Serverless コンピューティング階層では、活動が途絶えた期間に自動で一時停止し、活動が戻ると自動で再開する auto-pause / auto-resume がパブリックプレビューとなりました。監視では、Azure SQL Database 向けの Microsoft 管理によるパフォーマンス監視がパブリックプレビューとなり、独自の収集スクリプトを書いたり、ばらばらのツール間でテレメトリーを突き合わせたりせずに監視できるようになりました。Azure Arc 対応 SQL Server のパフォーマンス監視のプレビューも、テレメトリーエンドポイント経由で Microsoft 管理の監視データを直接クエリできるなど、探索と可視化の手段が広がっています。移行と AI 支援では、SQL Server から Azure への移行を評価・ターゲット選定・移行の実行・移行後の検証まで一貫して支援する SQL Migration Agent Skills が一般提供となり、Azure SQL Database やコンテナー版、SQL Server からの移行などで製品固有の的確な案内を得られる Microsoft SQL Agent Skills がパブリックプレビューとなりました。Azure Arc のデータベース移行体験からは、Hyperscale を含む Azure SQL Database を移行先として直接選べるようになり (プレビュー)、Azure Database Migration Service と Self-hosted Integration Runtime の設定がガイド付きのワークフローに組み込まれます。開発者向けには、Visual Studio Code で SQL スクリプトを直接整形できる SQL Formatter が一般提供となり、SSMS では Microsoft.Build.Sql プロジェクトを使ってデータベースの変更を実装・管理・共同作業できる Database DevOps が一般提供となりました。SQL Server の展開先も広がり、Azure Local の接続モードでの SQL Server サポートが一般提供 (Azure Arc 経由で集中管理・ガバナンス・監視・セキュリティ・ライセンスを Azure から扱える)、規制が厳しい環境や遠隔地、エアギャップ環境のために継続的な接続を前提としない SQL Server on Azure Local Disconnected (ALDO) も一般提供となりました。Linux の Azure VM では、従来のマーケットプレイスイメージに代えてスクリプトによる自動プロビジョニングを使う新しい展開方式がパブリックプレビューです。Azure Arc 対応 SQL Server は Italy North と Germany West Central でも利用できるようになりました。PostgreSQL では、Flexible Server がテナントをまたぐ顧客管理キー (CMK) に対応し、PostgreSQL サーバーとは別の Microsoft Entra テナントにある Azure Key Vault や Azure Managed HSM の鍵でデータを暗号化できるようになりました。あわせて、論理バックアップ (pg_dump / pg_restore) から Azure Backup コンテナーと統合した物理スナップショットベースのバックアップへ移行する次世代の長期保持 LTR v2 と、I/O 集約でトランザクションの多いワークロード向けの Ultra Disk サポートが、いずれもパブリックプレビューとなっています。ストレージでは、Azure NetApp Files が SMB ボリュームで Microsoft Entra Kerberos 認証に対応し (プレビュー)、ハイブリッドまたはクラウドのみの ID を持つ利用者がクラウド発行の Kerberos チケットで認証できるようになりました。cool access を有効にした Premium と Ultra のサービスレベルでは QoS が改善され、データが cool ストレージへ移るのに合わせてスループットが自動調整されます。また large volume breakthrough mode が一般提供となり、最大 2 PiB のラージボリュームでワークロードに応じて最大 80 GiB/秒のスループットを出せるため、要求の厳しい HPC や EDA のワークロードに対応します。コンピュートでは、第 5 世代 AMD EPYC (Turin) ベースのストレージ最適化 VM である Lasv5 と Laosv5 シリーズが一般提供となりました。2〜160 vCPU のサイズがあり、vCPU あたり 8 GiB のメモリと 720 GB のローカル NVMe ディスク容量を備えます。VM スケールセットには Automatic Zone Placement がパブリックプレビューで加わり、SKU の可用性・容量・配置要件をもとに Azure が最適な可用性ゾーンを自動で選ぶため、ゾーンの一覧を手作業で維持する必要がなくなります。提供終了の告知は 4 件です。Azure IoT Central が 2029 年 9 月 20 日に、Azure Arc 対応 System Center Virtual Machine Manager (SCVMM) が 2029 年 9 月 30 日に、Azure Container Apps 上の Azure Functions v1 ホスティングモデルが 2027 年 9 月 29 日に (この日以降、既存の Functions v1 アプリは動作を停止し、リクエストやイベント駆動のトリガーを処理しなくなります)、そして Microsoft HPC Pack は全バージョンが廃止され、サポート終了は 2027 年 8 月 27 日で、1 年間の廃止期間中は限定的なサポートのみが提供されます。セキュリティブログでは 2 本が公開されました。ロシアの国家支援型の攻撃者 Star Blizzard が 2026 年 1 月以降、大規模なフィッシングキャンペーン、侵害された Web サイト上のアカウントの利用、そして Microsoft が RedFlick と名付けた新しいマルウェア配信手法によって検知回避の能力を高めていることが報告されました。もう 1 本では、Storm-3068 が侵害した ID を足がかりにクラウドへのアクセスを広げていった経路と、組織が ID・パイプライン・クラウドインフラを守るために取れる手立てが解説されています。このほか Azure SDK の 2026 年 9 月リリースがまとめられています。
+"topics":
+  - "データベース: Azure SQL Database Hyperscale Premium に 160 / 192 vCore、前世代比 最大 50% のコンピュート容量"
+  - "データベース: Hyperscale Serverless の auto-pause / auto-resume がパブリックプレビュー"
+  - "監視: Azure SQL Database と Azure Arc 対応 SQL Server の Microsoft 管理パフォーマンス監視がプレビュー"
+  - "移行: SQL Migration Agent Skills が GA、Microsoft SQL Agent Skills と Azure Arc からの Azure SQL Database 移行はプレビュー"
+  - "開発体験: VS Code の SQL Formatter と SSMS の Database DevOps (Microsoft.Build.Sql) が GA"
+  - "ハイブリッド: Azure Local 接続モードの SQL Server と、エアギャップ向け ALDO がいずれも GA"
+  - "PostgreSQL: Flexible Server がテナント越えの顧客管理キーに対応、LTR v2 と Ultra Disk はプレビュー"
+  - "ストレージ: Azure NetApp Files が Entra Kerberos 認証 (プレビュー)、large volume breakthrough mode は最大 2 PiB / 80 GiB 秒で GA"
+  - "コンピュート: ストレージ最適化の Lasv5 / Laosv5 が GA、VM スケールセットの Automatic Zone Placement はプレビュー"
+  - "提供終了: IoT Central が 2029-09-20、Arc 対応 SCVMM が 2029-09-30、Container Apps の Functions v1 が 2027-09-29、HPC Pack は 2027-08-27"
+  - "脅威分析: Star Blizzard が RedFlick という新しいマルウェア配信手法で検知回避を強化"
+  - "脅威分析: Storm-3068 が侵害した ID からクラウドアクセスを広げた経路と、ID・パイプラインの防御策"
