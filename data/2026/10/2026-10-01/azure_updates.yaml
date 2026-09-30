@@ -1,0 +1,37 @@
+"entries":
+  "0b7bed6090ef7121bba3f2200de35b35":
+    "id": "0b7bed6090ef7121bba3f2200de35b35"
+    "title": "Retirement: NVv3-series Azure Virtual Machines"
+    "link": "https://azure.microsoft.com/updates?id=573414"
+    "published": "2026-10-01 03:26:47"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "On September 30, 2026, Microsoft Azure retired the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series VMs.Any remaining NVv3-series VMs will be"
+  "ad5482fe4fc836f129f856f1b9e78085":
+    "id": "ad5482fe4fc836f129f856f1b9e78085"
+    "title": "Retirement: NVv4-series Azure Virtual Machines"
+    "link": "https://azure.microsoft.com/updates?id=573415"
+    "published": "2026-10-01 03:24:01"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "On September 30, 2026, Microsoft Azure retired the Standard_NV4as_v4, Standard_NV4ahs_v4, Standard_NV8as_v4, Standard_NV8ahs_v4, Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-series"
+  "27e827ae3f3ad4391c0642ead7e471ee":
+    "id": "27e827ae3f3ad4391c0642ead7e471ee"
+    "title": "[In preview] Public Preview: Ubuntu 26.04 support in AKS"
+    "link": "https://azure.microsoft.com/updates?id=573214"
+    "published": "2026-10-01 02:11:11"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "Teams running Ubuntu node pools on AKS need to stay current with Ubuntu LTS releases, but each OS transition can introduce package footprint, security, and compatibility concerns. Ubuntu 26.04 support introduces the Ubuntu2604 OS SKU using Ubuntu Minimal"
+  "cf8a326b05b6647fac60bbe97b0dcdba":
+    "id": "cf8a326b05b6647fac60bbe97b0dcdba"
+    "title": "Announcing: Azure canvases for GitHub Copilot"
+    "link": "https://azure.microsoft.com/updates?id=573385"
+    "published": "2026-10-01 02:09:51"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "Discover Azure canvases for GitHub Copilot, interactive shared workspaces that bring Azure tools, dashboards, and guided workflows directly alongside your Copilot conversations. Explore Azure resources, analyze costs, and build hosted skills while keeping"
+  "ec2c62940c74a1235c154a5a89d8f154":
+    "id": "ec2c62940c74a1235c154a5a89d8f154"
+    "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs"
+    "link": "https://azure.microsoft.com/updates?id=572346"
+    "published": "2026-10-01 02:07:30"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "As part of the Microsoft Azure VM lifecycle\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\nand Esv3 Azure VM series in public cloud Azure regions. These VMs will\nenter the End-of-Life lifecycle stage and retire on November 15, 2029."
+"last_updated": "2026-10-01 04:41:33 JST"

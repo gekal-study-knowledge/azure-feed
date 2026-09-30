@@ -20,4 +20,11 @@
     "published": "2026-09-30 06:39:27"
     "fetched": "2026-09-30 10:41:33"
     "summary": "<p>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/\">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
-"last_updated": "2026-09-30 10:41:33 JST"
+  "9c1cf218762dbb6a6af5b7429a3590f6":
+    "id": "9c1cf218762dbb6a6af5b7429a3590f6"
+    "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
+    "published": "2026-09-30 23:00:00"
+    "fetched": "2026-10-01 04:41:34"
+    "summary": "<p>Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/\">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-10-01 04:41:34 JST"

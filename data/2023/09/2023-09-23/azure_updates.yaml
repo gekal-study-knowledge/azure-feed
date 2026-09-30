@@ -1,0 +1,9 @@
+"entries":
+  "29e0f86cb7f486e2f50c119c43447b91":
+    "id": "29e0f86cb7f486e2f50c119c43447b91"
+    "title": "Retirement: Transition to using standard tests for single-step availability testing in Azure Monitor application insights by September 30, 2028"
+    "link": "https://azure.microsoft.com/updates?id=transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september"
+    "published": "2023-09-23 08:00:56"
+    "fetched": "2026-10-01 04:41:33"
+    "summary": "URL ping tests in Application Insights were originally planned for retirement on September 30, 2026. In response to customer feedback requesting more time to complete migration, the retirement date has been extended by 24 months to September 30, 2028. On"
+"last_updated": "2026-10-01 04:41:33 JST"

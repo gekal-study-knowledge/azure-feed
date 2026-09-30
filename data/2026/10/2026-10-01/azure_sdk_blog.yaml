@@ -1,0 +1,9 @@
+"entries":
+  "b1e8bf1190bc5df9baa83bcf44aee0f1":
+    "id": "b1e8bf1190bc5df9baa83bcf44aee0f1"
+    "title": "Everything released in September 2026 for Azure Developer CLI"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-september-2026/"
+    "published": "2026-10-01 03:45:59"
+    "fetched": "2026-10-01 04:41:36"
+    "summary": "<p>The September recap for the Azure Developer CLI (`azd`). Extension management gains dependency-aware uninstall and versioned contracts, project configuration adds top-level infrastructure and service layers, deployment phases support concurrency limits, and external authentication hosts can use local socket transports.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-september-2026/\">Everything released in September 2026 for Azure Developer CLI</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-01 04:41:36 JST"
