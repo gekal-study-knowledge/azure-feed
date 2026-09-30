@@ -1,0 +1,9 @@
+"entries":
+  "e0b84edd7439334510498d2e098712ff":
+    "id": "e0b84edd7439334510498d2e098712ff"
+    "title": "Active - Multiple services experiencing connectivity issues in multiple regions"
+    "link": "https://azure.status.microsoft/en-us/status/"
+    "published": "2026-10-01 05:30:00"
+    "fetched": "2026-10-01 08:15:57"
+    "summary": "<p>Starting at 20:30 UTC on 30 September 2026, customers using ExpressRoute and/or VPN Gateway may experience degraded or interrupted network connectivity. Customers may also experience failures or delays when performing some network management operations.</p><p><strong>Current status:</strong> We have paused the infrastructure servicing activity associated with the onset of this event, preventing additional resources from entering the affected servicing workflow. We are seeing continued recovery across impacted ExpressRoute gateways and are monitoring this recovery to confirm that it remains durable.</p><p>For VPN Gateway, some affected gateways have experienced reduced redundancy rather than a complete loss of connectivity. Recovery continues to be monitored.</p><p>Some supporting network management components have not recovered automatically and are contributing to management operation failures in a subset of affected regions. Engineering teams are actively restoring these components using alternate healthy instances where available.</p><p>Our investigation continues to show a correlation between this event and infrastructure operating system servicing activity. However, the underlying failure mechanism has not yet been confirmed. We are investigating why some network service instances became unhealthy and why recovery behavior has differed between services.</p><p>We will provide additional information within the next 30 minutes, or sooner if events warrant.</p>"
+"last_updated": "2026-10-01 08:15:57 JST"

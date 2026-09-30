@@ -34,4 +34,11 @@
     "published": "2026-10-01 02:07:30"
     "fetched": "2026-10-01 04:41:33"
     "summary": "As part of the Microsoft Azure VM lifecycle\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\nand Esv3 Azure VM series in public cloud Azure regions. These VMs will\nenter the End-of-Life lifecycle stage and retire on November 15, 2029."
-"last_updated": "2026-10-01 04:41:33 JST"
+  "7910aa575a1b2cdcaa956724ad19e5a9":
+    "id": "7910aa575a1b2cdcaa956724ad19e5a9"
+    "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines"
+    "link": "https://azure.microsoft.com/updates?id=571894"
+    "published": "2026-10-01 06:13:13"
+    "fetched": "2026-10-01 08:15:56"
+    "summary": "The public preview of Microsoft-managed performance monitoring for SQL Server on Azure Virtual Machines is now available. You can now monitor SQL Server on Azure Virtual Machines without building custom collection scripts or correlating telemetry across d"
+"last_updated": "2026-10-01 08:15:56 JST"
