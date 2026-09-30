@@ -13,4 +13,11 @@
     "published": "2026-09-30 00:00:00"
     "fetched": "2026-09-30 03:56:40"
     "summary": "<p>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
-"last_updated": "2026-09-30 03:56:40 JST"
+  "e49be376f9ccf58445867df8982b6394":
+    "id": "e49be376f9ccf58445867df8982b6394"
+    "title": "Phishing Abuses RMM Tools for Persistent Access"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
+    "published": "2026-09-30 06:39:27"
+    "fetched": "2026-09-30 10:41:33"
+    "summary": "<p>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/\">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-09-30 10:41:33 JST"
