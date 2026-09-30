@@ -1,0 +1,20 @@
+"date": "2026-10-01"
+"generated_at": "2026-10-01 08:22:48 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 9
+"sources":
+  - "azure_sdk_blog"
+  - "azure_status"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 9 件で、進行中の障害と、VM の提供終了が中心でした。障害としては、2026 年 9 月 30 日 20:30 UTC 以降、ExpressRoute および VPN Gateway を使っている利用者で、ネットワーク接続の劣化や中断、ネットワーク管理操作の失敗や遅延が起きていることが報告されています。発端となったインフラの保守作業はいったん停止され、影響を受ける対象がこれ以上増えないようにした上で、影響を受けた ExpressRoute のゲートウェイでは復旧が進み、その状態が続くかを監視している段階です。VPN Gateway については、接続が完全に失われたのではなく冗長性が下がった状態のゲートウェイもあり、こちらも復旧を監視中とされています。提供終了は 3 件です。2026 年 9 月 30 日をもって、NVv3 シリーズの VM (Standard_NV12s_v3、Standard_NV12hs_v3、Standard_NV24s_v3、Standard_NV24ms_v3、Standard_NV32ms_v3、Standard_NV48s_v3) と、NVv4 シリーズの VM (Standard_NV4as_v4、Standard_NV4ahs_v4、Standard_NV8as_v4、Standard_NV8ahs_v4、Standard_NV16as_v4、Standard_NV16ahs_v4、Standard_NV32as_v4、Standard_NV32ahs_v4) が廃止されました。また Azure の VM ライフサイクルポリシーに沿って、Dv3・Dsv3・Ev3・Esv3 の各シリーズがパブリッククラウドのリージョンで提供終了となることが告知され、これらは End-of-Life の段階に入り 2029 年 11 月 15 日に廃止されます。コンテナでは、AKS で Ubuntu 26.04 のサポートがパブリックプレビューとなりました。Ubuntu Minimal を基にした Ubuntu2604 の OS SKU が導入されます。AKS で Ubuntu のノードプールを動かしているチームは Ubuntu の LTS に追随する必要がある一方、OS の移行ごとにパッケージの構成やセキュリティ、互換性の懸念が生じるという前提が述べられています。開発体験では、GitHub Copilot 向けの Azure canvases が発表されました。Copilot との会話の隣に Azure のツール・ダッシュボード・ガイド付きのワークフローを並べる対話的な共有ワークスペースで、Azure リソースを見て回ったり、コストを分析したり、ホステッドスキルを作ったりできます。データベースでは、Azure Virtual Machines 上の SQL Server に対する Microsoft 管理のパフォーマンス監視がパブリックプレビューとなり、独自の収集スクリプトを書いたり、ばらばらのツール間でテレメトリーを突き合わせたりせずに監視できるようになりました。このほか、Azure Developer CLI (azd) の 2026 年 9 月のリリースまとめが公開されました。拡張機能の管理が依存関係を考慮したアンインストールとバージョン付きの契約に対応し、プロジェクト設定にトップレベルのインフラストラクチャ層とサービス層が加わり、デプロイのフェーズで同時実行数の上限を指定できるようになり、外部認証のホストがローカルソケットのトランスポートを使えるようになっています。セキュリティブログでは、Microsoft Ignite 2026 における Microsoft Security の見どころが案内され、ID・デバイス・データ・アプリケーション・クラウド・インフラストラクチャに加えて、チームと並んで働くようになった AI エージェントまでを守る AI ファーストで端から端までのセキュリティプラットフォームが紹介されています。
+"topics":
+  - "障害: 9/30 20:30 UTC 以降、ExpressRoute と VPN Gateway で接続の劣化や中断が発生、復旧を監視中"
+  - "提供終了: NVv3 と NVv4 シリーズの VM が 2026-09-30 に廃止済み"
+  - "提供終了: Dv3・Dsv3・Ev3・Esv3 シリーズが End-of-Life に入り 2029 年 11 月 15 日に廃止"
+  - "コンテナ: AKS が Ubuntu 26.04 (Ubuntu2604 OS SKU) をパブリックプレビューでサポート"
+  - "開発体験: GitHub Copilot 向けの Azure canvases を発表、会話の隣で Azure リソースやコストを扱える共有ワークスペース"
+  - "監視: Azure VM 上の SQL Server に Microsoft 管理のパフォーマンス監視がプレビュー"
+  - "ツール: Azure Developer CLI (azd) の 2026 年 9 月リリースまとめ、依存関係を考慮した拡張機能の管理など"
+  - "イベント: Microsoft Ignite 2026 の Microsoft Security の見どころを案内"

@@ -1,0 +1,10 @@
+"date": "2023-09-23"
+"generated_at": "2026-10-01 08:22:48 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 件で、提供終了の期日延期の告知でした。Application Insights の URL ping テストは当初 2026 年 9 月 30 日に廃止予定でしたが、移行にもっと時間が欲しいという利用者の声を受けて、期日が 24 か月延びて 2028 年 9 月 30 日になりました。Azure Monitor Application Insights の単一ステップの可用性テストは、それまでに標準テストへ移行する必要があります。
+"topics":
+  - "提供終了: Application Insights の URL ping テストの廃止が 2028 年 9 月 30 日へ 24 か月延期、標準テストへの移行が必要"
