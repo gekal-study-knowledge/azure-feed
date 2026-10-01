@@ -1,0 +1,9 @@
+"entries":
+  "ce0f02798f9984a34a5c6f8005bc45ae":
+    "id": "ce0f02798f9984a34a5c6f8005bc45ae"
+    "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029"
+    "link": "https://azure.microsoft.com/updates?id=569592"
+    "published": "2026-10-02 02:02:55"
+    "fetched": "2026-10-02 06:27:35"
+    "summary": "On October 31, 2029, DCsv3 and DCdsv3-series\nAzure Linux, Windows and Dedicated Host virtual\nmachines will be retired. After that date, they will no longer be\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\nthe fo"
+"last_updated": "2026-10-02 06:27:35 JST"

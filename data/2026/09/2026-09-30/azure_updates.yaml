@@ -188,4 +188,11 @@
     "published": "2026-09-30 03:05:11"
     "fetched": "2026-09-30 07:46:18"
     "summary": "The following updates and enhancements were made to Azure\nSQL:   \n Scale\n     larger workloads on Azure SQL Database Hyperscale Premium series with new\n     160-vCore and 192-vCore options, delivering up to 50% greater compute\n     capacity than the previ"
-"last_updated": "2026-09-30 07:46:18 JST"
+  "280e2986bb23ee57d61c5d15c437f0c6":
+    "id": "280e2986bb23ee57d61c5d15c437f0c6"
+    "title": "Retirement: Functions on Azure Container Apps V1"
+    "link": "https://azure.microsoft.com/updates?id=570800"
+    "published": "2026-09-30 04:41:09"
+    "fetched": "2026-10-02 06:27:35"
+    "summary": "The Functions on Azure Container Apps (ACA) V1 will be retired on September 29, 2027. After this date, existing Functions on ACA V1 Apps will stop running and no longer process\nrequests or event-driven triggers. Action required Review your Azure environme"
+"last_updated": "2026-10-02 06:27:35 JST"
