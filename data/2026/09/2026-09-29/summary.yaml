@@ -1,17 +1,18 @@
 "date": "2026-09-29"
-"generated_at": "2026-09-29 22:01:11 JST"
+"generated_at": "2026-10-01 21:37:05 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 6
+"article_count": 7
 "sources":
   - "azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 6 件で、Azure SQL 周りの機能追加とリージョン拡大の一般提供、仮想マシンのライフサイクル方針、そして侵入後に使われるマルウェアの分析でした。データベースでは、Azure SQL Database のベクトル検索とベクトルインデックスが一般提供となりました。CREATE VECTOR INDEX と VECTOR_SEARCH の T-SQL 機能を使って、セマンティック検索のような AI シナリオ向けに効率的な近似最近傍 (ANN) 検索を実行できます。あわせて Azure SQL Dev Hub がパブリックプレビューとなりました。Azure SQL でアプリケーションを作るときの中心的な出発点となるもので、直接開発する場合にも AI エージェントを使う場合にも対応し、.NET・Python・Node.js・Java から Azure SQL へ接続するためのガイダンスとリソースがまとまっています。Azure SQL Managed Instance では 2026 年 9 月下旬の更新がまとめて一般提供となり、その中にはフレキシブルメモリ機能によって、マネージドインスタンスに割り当てるメモリ量を変更できるようになったことが含まれます。リージョンでは、ルクセンブルクの Azure Extended Zone が一般提供となりました。Azure Extended Zones は、低レイテンシーやデータレジデンシーの要件があるワークロードに応えるために、大都市圏・産業集積地・特定の法域に置かれる小規模な Azure の拡張です。運用面では、仮想マシンのライフサイクルに関する記事が公開されました。Virtual Machine Lifecycle ポリシーが世代交代をどう管理するかを定めており、利用者に透明性・予測可能性・指針を提供するという位置づけが説明されています。セキュリティブログでは、標的型の侵入で使われるモジュール型のマルウェアフレームワーク NeedyMantis の分析が公開されました。Microsoft Threat Intelligence によると、独自のローダー、暗号化されたアーカイブ、拡張可能なコンポーネントを組み合わせることで長期のアクセスを維持し、その後の活動を支える構成になっています。
+  この日は 7 件で、Azure SQL のベクトル検索の一般提供と、バルセロナで開催された FabCon / SQLCon 2026 の発表が中心でした。Azure SQL Database でベクトル検索とベクトルインデックスが一般提供となりました。CREATE VECTOR INDEX と VECTOR_SEARCH の T-SQL 機能を使い、セマンティック検索のような AI シナリオ向けに効率的な近似最近傍 (ANN) 探索を実行できます。あわせて、Azure SQL を使ったアプリケーション開発の入口をまとめた Azure SQL Dev Hub がパブリックプレビューとなり、直接開発する場合も AI エージェントを使う場合も、.NET・Python・Node.js・Java から Azure SQL に接続するための指針とリソースが得られます。Azure SQL Managed Instance の 2026 年 9 月下旬の更新も一般提供となり、SQL マネージドインスタンスに割り当てるメモリ量を変更できるフレキシブルメモリ機能などが含まれます。Azure ブログでは、バルセロナの FabCon および SQLCon 2026 で発表された Microsoft Fabric と SQL の機能強化が、Microsoft Copilot とエージェントのための信頼できるデータ基盤づくりにどうつながるかが紹介されました。あわせて、仮想マシンのライフサイクルポリシーがどのように世代交代を管理し、顧客に透明性・予測可能性・指針を提供しているかを説明する記事も公開されています。リージョンでは、ルクセンブルクの Azure Extended Zone が一般提供となりました。Azure Extended Zones は低レイテンシーとデータ所在地の要件を満たすため、都市圏・産業集積地・特定の管轄区域に置かれる小規模な Azure の拡張です。セキュリティブログでは、Microsoft Threat Intelligence が標的型侵入で使われるモジュール型の侵害後マルウェアフレームワーク NeedyMantis を公開しました。独自のローダー、暗号化されたアーカイブ、拡張可能なコンポーネントを組み合わせ、長期的なアクセスの維持と後続の活動を支えるものです。
 "topics":
-  - "データベース: Azure SQL Database のベクトル検索とベクトルインデックスが GA、CREATE VECTOR INDEX と VECTOR_SEARCH で ANN 検索"
-  - "開発者体験: Azure SQL Dev Hub がパブリックプレビュー、.NET / Python / Node.js / Java からの接続ガイドを集約"
-  - "データベース: Azure SQL Managed Instance の 2026 年 9 月下旬の更新が GA、フレキシブルメモリでメモリ割り当てを変更可能に"
-  - "リージョン: ルクセンブルクの Azure Extended Zone が GA、低レイテンシーとデータレジデンシー向け"
-  - "運用: Virtual Machine Lifecycle ポリシーの解説、世代交代の管理に透明性と予測可能性を持たせる方針"
-  - "脅威分析: 侵入後に使われるモジュール型マルウェアフレームワーク NeedyMantis を分析"
+  - "Azure SQL: ベクトル検索とベクトルインデックスが GA、CREATE VECTOR INDEX / VECTOR_SEARCH で ANN 探索"
+  - "開発体験: Azure SQL Dev Hub がパブリックプレビュー、.NET・Python・Node.js・Java からの接続指針を集約"
+  - "Azure SQL MI: 2026 年 9 月下旬の更新が GA、割り当てメモリを変更できるフレキシブルメモリ機能など"
+  - "イベント: バルセロナの FabCon / SQLCon 2026 で Fabric と SQL の強化を発表、Copilot とエージェントのデータ基盤に"
+  - "ライフサイクル: Azure 仮想マシンのライフサイクルポリシーによる世代交代の管理方針を解説"
+  - "リージョン: ルクセンブルクの Azure Extended Zone が GA、低レイテンシーとデータ所在地の要件に対応"
+  - "セキュリティ: 標的型侵入で使われるモジュール型の侵害後マルウェアフレームワーク NeedyMantis を分析"
