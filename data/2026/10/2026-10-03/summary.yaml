@@ -1,0 +1,10 @@
+"date": "2026-10-03"
+"generated_at": "2026-10-03 08:20:07 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 件で、データベースのアップグレード機能のプレビューでした。Azure Database for PostgreSQL のエラスティッククラスターでメジャーバージョンアップグレード (MVU) が利用できるようになりました。既存のエラスティッククラスターを、置き換え用のクラスターを用意したり、分散されたデータを移行したり、接続先を変えたりすることなく、その場でサポート対象の新しい PostgreSQL バージョンへアップグレードできます。
+"topics":
+  - "データベース: Azure Database for PostgreSQL エラスティッククラスターのメジャーバージョンアップグレードがプレビュー、置き換えなしでその場で実行"
