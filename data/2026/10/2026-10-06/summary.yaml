@@ -1,0 +1,13 @@
+"date": "2026-10-06"
+"generated_at": "2026-10-06 08:21:59 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 4 件で、ソブリンクラウドへの展開とバックアップ、ネットワークの更新でした。データベースでは、SQL Server on Azure Virtual Machines が Azure Bleu で一般提供となりました。フランスのソブリンクラウド環境で SQL Server のワークロードを展開・管理しながら、データ所在地と主権の要件を満たせるようになります。バックアップでは、Azure Backup for PostgreSQL flexible server および elastic cluster の v2 がパブリックプレビューとなりました。PostgreSQL にエンタープライズ級の長期保持をもたらすもので、バックアップはマネージドディスクのスナップショットから物理バックアップとして取得され、Azure Backup コンテナーに保管されます。ネットワークでは、Application Gateway WAF の IPv6 対応がパブリックプレビューとなりました。Web アプリケーションファイアウォールが IPv6 トラフィックの検査と適用に対応し、プラットフォームの近代化に向けた大きな前進となります。分析では、OneLake カタログ検索のテーブル検出が発表されました。2026 年 10 月 15 日より、Microsoft Fabric の検索がセマンティックモデル、レイクハウス、ミラーリングされたデータベースのテーブルを個別の結果として返すようになります。テーブル名や説明で検索したり、列名の完全一致でテーブルを見つけたりできます。
+"topics":
+  - "データベース: SQL Server on Azure Virtual Machines がフランスのソブリンクラウド Azure Bleu で GA"
+  - "バックアップ: Azure Backup for PostgreSQL flexible server / elastic cluster (v2) がプレビュー、ディスクスナップショットからの物理バックアップで長期保持"
+  - "ネットワーク: Application Gateway WAF の IPv6 対応がプレビュー、IPv6 トラフィックの検査と適用に対応"
+  - "分析: 2026 年 10 月 15 日より OneLake カタログ検索がテーブルを個別の結果として返す (列名の完全一致検索にも対応)"
