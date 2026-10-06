@@ -27,4 +27,11 @@
     "published": "2026-10-07 00:44:06"
     "fetched": "2026-10-07 04:09:28"
     "summary": "Running Kubernetes on-premises often means adding a\nvirtualization layer, adapting to unfamiliar infrastructure, or giving up\ncontrol over the hardware and software your applications depend on. For AI\nworkloads, these tradeoffs can limit access to local d"
-"last_updated": "2026-10-07 04:09:28 JST"
+  "fb7e1feacdb11f68b94055d0ab2c326d":
+    "id": "fb7e1feacdb11f68b94055d0ab2c326d"
+    "title": "Retirement: Pod name dimension in AKS pod platform metrics"
+    "link": "https://azure.microsoft.com/updates?id=570232"
+    "published": "2026-10-07 07:37:54"
+    "fetched": "2026-10-07 08:23:18"
+    "summary": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\nMonitor platform metrics is retiring, and these metrics are transitioning to aggregate pod counters:Number of pods by phase (kube_pod_status_phase)Number of pods in Re"
+"last_updated": "2026-10-07 08:23:18 JST"
