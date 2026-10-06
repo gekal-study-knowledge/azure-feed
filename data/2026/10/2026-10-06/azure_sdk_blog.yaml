@@ -1,0 +1,9 @@
+"entries":
+  "5f49afdfd6998afa1d37b0542a0cf5d5":
+    "id": "5f49afdfd6998afa1d37b0542a0cf5d5"
+    "title": "Connect Azure Functions to more services with managed connectors"
+    "link": "https://devblogs.microsoft.com/azure-sdk/connect-azure-functions-to-more-services-with-managed-connectors/"
+    "published": "2026-10-06 04:43:44"
+    "fetched": "2026-10-06 09:25:10"
+    "summary": "<p>Learn how Azure Functions managed connectors provide access to 1,700 services, with triggers and typed clients available for supported service connectors, and walk through a sample that automates RFP intake across SharePoint, Azure Content Understanding, and Teams.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/connect-azure-functions-to-more-services-with-managed-connectors/\">Connect Azure Functions to more services with managed connectors</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-06 09:25:10 JST"

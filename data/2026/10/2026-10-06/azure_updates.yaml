@@ -27,4 +27,11 @@
     "published": "2026-10-06 02:41:41"
     "fetched": "2026-10-06 03:53:53"
     "summary": "Announcing the Public Preview of IPv6 support for Application Gateway WAF.Application Gateway Web Application Firewall (WAF) now supports inspection and enforcement for IPv6 traffic in Public Preview, marking a major step forward in modernizing the platfo"
-"last_updated": "2026-10-06 03:53:53 JST"
+  "83883ff5e2a39ee2a668318001dcc265":
+    "id": "83883ff5e2a39ee2a668318001dcc265"
+    "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions"
+    "link": "https://azure.microsoft.com/updates?id=572940"
+    "published": "2026-10-06 03:51:57"
+    "fetched": "2026-10-06 09:25:08"
+    "summary": "Azure HorizonDB is expanding to additional Azure regions, giving you greater flexibility to deploy PostgreSQL workloads closer to your applications and users.With expanded regional availability, you have more options when choosing where to deploy Azure Ho"
+"last_updated": "2026-10-06 09:25:08 JST"
