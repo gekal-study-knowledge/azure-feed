@@ -1,0 +1,9 @@
+"entries":
+  "0af8fda16284999f4d8a219b2ec3d704":
+    "id": "0af8fda16284999f4d8a219b2ec3d704"
+    "title": "Bring agentic reasoning to Python function apps with Azure Functions Agent bindings (preview)"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-functions-agent-binding/"
+    "published": "2026-10-07 00:00:10"
+    "fetched": "2026-10-07 04:09:31"
+    "summary": "<p>Add bounded AI reasoning to Python function apps with Azure Functions Agent bindings, while keeping deterministic application code in control.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-functions-agent-binding/\">Bring agentic reasoning to Python function apps with Azure Functions Agent bindings (preview)</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-07 04:09:31 JST"

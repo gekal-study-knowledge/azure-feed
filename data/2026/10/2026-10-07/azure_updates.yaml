@@ -1,0 +1,30 @@
+"entries":
+  "0754d801e2fbe5fc861c188757a69e6a":
+    "id": "0754d801e2fbe5fc861c188757a69e6a"
+    "title": "Retirement: Azure App Service on Azure Stack Hub"
+    "link": "https://azure.microsoft.com/updates?id=568178"
+    "published": "2026-10-07 03:24:43"
+    "fetched": "2026-10-07 04:09:28"
+    "summary": "Azure App Service on Azure Stack Hub will be retired on September\n30, 2029. Starting September 30, 2026, new installations will\nno longer be supported, and no new product releases, features, or enhancements\nwill be made available. Existing supported deplo"
+  "a02617f484241b53a2a3966c9ffbbd3d":
+    "id": "a02617f484241b53a2a3966c9ffbbd3d"
+    "title": "Retirement: Support for Java 8, 11 and 17 will end on September 1, 2027"
+    "link": "https://azure.microsoft.com/updates?id=568585"
+    "published": "2026-10-07 03:21:59"
+    "fetched": "2026-10-07 04:09:28"
+    "summary": "On September 1, 2027 support for Java 8, 11 and 17 will end. Your\napps that are hosted on App Service will continue to run, but security updates\nwill no longer be available, and we’ll no longer provide customer service for Java\n8, 11 and 17.Required actio"
+  "2a75e33af8751fb342ddcbb8e3be23c6":
+    "id": "2a75e33af8751fb342ddcbb8e3be23c6"
+    "title": "Retirement: Always Encrypted with Intel SGX Enclaves"
+    "link": "https://azure.microsoft.com/updates?id=569236"
+    "published": "2026-10-07 01:42:33"
+    "fetched": "2026-10-07 04:09:28"
+    "summary": "Always Encrypted with Intel SGX enclaves in Azure SQL Database will retire on October 31, 2027 as support for SGX-enabled DC-series hardware is phased out. Customers should transition to Virtualization-Based Security (VBS) enclaves, a hardware-independent"
+  "5d25a82d2867135e0a99055b16af9366":
+    "id": "5d25a82d2867135e0a99055b16af9366"
+    "title": "[In preview] Public Preview: AKS on bare metal now on Ubuntu"
+    "link": "https://azure.microsoft.com/updates?id=573782"
+    "published": "2026-10-07 00:44:06"
+    "fetched": "2026-10-07 04:09:28"
+    "summary": "Running Kubernetes on-premises often means adding a\nvirtualization layer, adapting to unfamiliar infrastructure, or giving up\ncontrol over the hardware and software your applications depend on. For AI\nworkloads, these tradeoffs can limit access to local d"
+"last_updated": "2026-10-07 04:09:28 JST"
