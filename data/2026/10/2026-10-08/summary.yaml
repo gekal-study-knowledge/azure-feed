@@ -1,0 +1,13 @@
+"date": "2026-10-08"
+"generated_at": "2026-10-08 08:22:58 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 3 件で、分散 Python ワークロードのマネージドプラットフォームと SQL Server のロール追加、そしてセキュリティの記事でした。コンピュートでは、Anyscale on Azure が一般提供となりました。Ray の上で分散 Python ワークロードを動かすマネージドプラットフォームで、利用者の Azure Kubernetes Service (AKS) クラスターへ直接デプロイされ、チームがすでに使っている Azure のサービスと統合されます。データベースでは、Linux 上の SQL Server で bulkadmin 固定サーバーロールと ADMINISTER BULK OPERATIONS 権限が使えるようになりました。SQL Server 2025 CU9 および SQL Server 2022 CU27 以降で対応し、バルクのデータインポートを行うために、より強い権限を持つロールのメンバーである必要がなくなります。セキュリティでは、最前線の AI による脆弱性研究から得られた 3 つの教訓が共有されました。Microsoft Security の FORGE Lab が、脆弱性研究を Windows から Linux カーネルへどう広げているかという内容です。
+"topics":
+  - "コンピュート: Anyscale on Azure が GA、Ray による分散 Python ワークロードを自分の AKS クラスターへ直接デプロイ"
+  - "データベース: Linux 上の SQL Server が bulkadmin ロールと ADMINISTER BULK OPERATIONS に対応 (SQL Server 2025 CU9 / 2022 CU27 以降)"
+  - "セキュリティ: Microsoft Security の FORGE Lab が脆弱性研究を Windows から Linux カーネルへ広げた際の 3 つの教訓"
