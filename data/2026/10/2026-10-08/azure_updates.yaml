@@ -1,0 +1,16 @@
+"entries":
+  "33678e0354a313f656d39dcc022c686e":
+    "id": "33678e0354a313f656d39dcc022c686e"
+    "title": "[Launched] Generally Available: Anyscale on Azure"
+    "link": "https://azure.microsoft.com/updates?id=573744"
+    "published": "2026-10-08 02:06:00"
+    "fetched": "2026-10-08 07:20:31"
+    "summary": "Anyscale on Azure is now Generally Available. Anyscale on Azure is a managed platform for running distributed Python workloads on Ray. It deploys directly onto your Azure Kubernetes Service (AKS) cluster and integrates with the Azure services your team al"
+  "c853b1f221eb6163379a10e9ec9a5f0d":
+    "id": "c853b1f221eb6163379a10e9ec9a5f0d"
+    "title": "[Launched] Generally Available: Enabling the Bulk admin role for SQL Server on Linux"
+    "link": "https://azure.microsoft.com/updates?id=573443"
+    "published": "2026-10-08 01:57:04"
+    "fetched": "2026-10-08 07:20:31"
+    "summary": "Starting with SQL Server 2025 CU9 and SQL Server 2022 CU27, SQL Server on Linux supports the bulkadmin fixed server role and the ADMINISTER BULK OPERATIONS permission for performing bulk data import operations without requiring users to be members of the"
+"last_updated": "2026-10-08 07:20:31 JST"
