@@ -1,0 +1,37 @@
+"entries":
+  "14e10999a6b193dd3cff197c1d83bed1":
+    "id": "14e10999a6b193dd3cff197c1d83bed1"
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3"
+    "link": "https://azure.microsoft.com/updates?id=573691"
+    "published": "2026-10-09 04:56:31"
+    "fetched": "2026-10-09 07:33:02"
+    "summary": "Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more."
+  "afb2eec6b8780b25dd8bae905e5d8bb2":
+    "id": "afb2eec6b8780b25dd8bae905e5d8bb2"
+    "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028"
+    "link": "https://azure.microsoft.com/updates?id=567933"
+    "published": "2026-10-09 03:23:25"
+    "fetched": "2026-10-09 07:33:02"
+    "summary": "Microsoft Dev Box will\nretire on September 18, 2028. Beginning on September 14, 2026,\nMicrosoft Dev Box will begin the closing-down process. After retirement,\nMicrosoft Dev Box will no longer be available. Microsoft Dev Box is currently in maintenance mod"
+  "14a4a04e08d7b8a77677e9b6d2bc00f4":
+    "id": "14a4a04e08d7b8a77677e9b6d2bc00f4"
+    "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027"
+    "link": "https://azure.microsoft.com/updates?id=567934"
+    "published": "2026-10-09 03:20:34"
+    "fetched": "2026-10-09 07:33:02"
+    "summary": "Azure Deployment\nEnvironments will retire on February 22, 2027. Beginning on September\n14, 2026, Azure Deployment Environments will begin the closing-down\nprocess. After retirement, the service will no longer be available. To help avoid disruption, we rec"
+  "9f581cf973bf98d688e745d7db095fbc":
+    "id": "9f581cf973bf98d688e745d7db095fbc"
+    "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door"
+    "link": "https://azure.microsoft.com/updates?id=574343"
+    "published": "2026-10-09 02:29:30"
+    "fetched": "2026-10-09 07:33:02"
+    "summary": "Announcing the general availability of exceptions\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\nApplication Firewall (WAF) helps protect your web applications from common\nthreats and attacks. In some cases, WAF m"
+  "d49925557d74c6ca3cac230512d75adc":
+    "id": "d49925557d74c6ca3cac230512d75adc"
+    "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management"
+    "link": "https://azure.microsoft.com/updates?id=574204"
+    "published": "2026-10-09 02:24:34"
+    "fetched": "2026-10-09 07:33:02"
+    "summary": "The integration between Microsoft Agent 365 and Azure API Management is now available in public preview, helping organizations connect centralized governance with runtime enforcement for MCP servers and tools.With this integration, organizations can:Disco"
+"last_updated": "2026-10-09 07:33:02 JST"

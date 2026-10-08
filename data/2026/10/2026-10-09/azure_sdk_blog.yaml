@@ -1,0 +1,9 @@
+"entries":
+  "6cf1ccbe1ff88a5c726633953435c0e8":
+    "id": "6cf1ccbe1ff88a5c726633953435c0e8"
+    "title": "Dynamic Workflows in Azure Functions Hosted Skills: Durable, AI-Led Work for Event-Driven Apps"
+    "link": "https://devblogs.microsoft.com/azure-sdk/dynamic-workflows-azure-functions-hosted-skills/"
+    "published": "2026-10-09 04:09:00"
+    "fetched": "2026-10-09 07:33:05"
+    "summary": "<p>Azure Functions is the event-driven application platform, and Hosted Skills adds AI reasoning to your app. Dynamic Workflows give the app a durable way to carry out AI-led, multi-step work after the triggering invocation is finished. The model writes a plan (a DAG) one time, and Durable Functions runs it. In our benchmark, token use decreased by 56-93% and end-to-end latency decreased by 77-95%, with the same output quality.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/dynamic-workflows-azure-functions-hosted-skills/\">Dynamic Workflows in Azure Functions Hosted Skills: Durable, AI-Led Work for Event-Driven Apps</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-09 07:33:05 JST"
