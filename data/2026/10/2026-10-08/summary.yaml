@@ -1,13 +1,18 @@
 "date": "2026-10-08"
-"generated_at": "2026-10-08 08:22:58 JST"
+"generated_at": "2026-10-09 08:21:50 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 3
+"article_count": 6
 "sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 3 件で、分散 Python ワークロードのマネージドプラットフォームと SQL Server のロール追加、そしてセキュリティの記事でした。コンピュートでは、Anyscale on Azure が一般提供となりました。Ray の上で分散 Python ワークロードを動かすマネージドプラットフォームで、利用者の Azure Kubernetes Service (AKS) クラスターへ直接デプロイされ、チームがすでに使っている Azure のサービスと統合されます。データベースでは、Linux 上の SQL Server で bulkadmin 固定サーバーロールと ADMINISTER BULK OPERATIONS 権限が使えるようになりました。SQL Server 2025 CU9 および SQL Server 2022 CU27 以降で対応し、バルクのデータインポートを行うために、より強い権限を持つロールのメンバーである必要がなくなります。セキュリティでは、最前線の AI による脆弱性研究から得られた 3 つの教訓が共有されました。Microsoft Security の FORGE Lab が、脆弱性研究を Windows から Linux カーネルへどう広げているかという内容です。
+  この日は 6 件で、分散 Python ワークロードのマネージドプラットフォームと SQL Server のロール追加、そしてインフラと AI にまたがる記事でした。コンピュートでは、Anyscale on Azure が一般提供となりました。Ray の上で分散 Python ワークロードを動かすマネージドプラットフォームで、利用者の Azure Kubernetes Service (AKS) クラスターへ直接デプロイされ、チームがすでに使っている Azure のサービスと統合されます。データベースでは、Linux 上の SQL Server で bulkadmin 固定サーバーロールと ADMINISTER BULK OPERATIONS 権限が使えるようになりました。SQL Server 2025 CU9 および SQL Server 2022 CU27 以降で対応し、バルクのデータインポートを行うために、より強い権限を持つロールのメンバーである必要がなくなります。セキュリティでは、最前線の AI による脆弱性研究から得られた 3 つの教訓が共有されました。Microsoft Security の FORGE Lab が、脆弱性研究を Windows から Linux カーネルへどう広げているかという内容です。Anyscale on Azure については、より詳しい解説も公開されました。Ray の分散ランタイムを Azure Kubernetes Service (AKS) 上のマネージドサービスとして動かすもので、ワークロードは利用者自身の Azure サブスクリプション、ネットワーク、ID の境界の中で実行されます。一般提供に伴って本番ワークロードに対応できる状態になり、SLA と、Microsoft と Anyscale 双方からの本番サポートが付きます。顧客のワークロード、データセット、モデルの成果物は顧客のサブスクリプションで動き、Anyscale は自社の Azure テナントでコントロールプレーンを運用するため、顧客は自分のサブスクリプション内のリソースに対して自前の Azure の ID とガバナンスの統制を使えます。Xoople はすでに Anyscale on Azure を使って、惑星規模の衛星画像を意思決定に使えるインテリジェンスへ変えています。背景として、モデルの品質は課題の一部にすぎず、企業はモデルの周囲の工程をつなぎ、守り、運用する必要があるのに、典型的なスタックはデータ準備に 1 つ、分散学習に別の 1 つ、評価に 3 つ目、サービングに 4 つ目というように道具を寄せ集めている、という指摘が示されています。インフラでは、サプライチェーンからフリートの運用までインフラのライフサイクル全体にわたる AI の変革が取り上げられました。個々の作業を速くすることよりも、インフラがどう設計され、調達され、運用されているかから学ぶシステムを作ることのほうが大きな機会だという論旨です。マーケットプレイスでは、Microsoft Marketplace の複数者間プライベートオファーが香港へ拡大しました。Microsoft のパートナーがサードパーティのクラウドや AI のソリューションを顧客のために調達できる仕組みで、ソフトウェア企業は既存の顧客関係を持つパートナーと組んで新しい市場へ広がれます。
 "topics":
   - "コンピュート: Anyscale on Azure が GA、Ray による分散 Python ワークロードを自分の AKS クラスターへ直接デプロイ"
   - "データベース: Linux 上の SQL Server が bulkadmin ロールと ADMINISTER BULK OPERATIONS に対応 (SQL Server 2025 CU9 / 2022 CU27 以降)"
   - "セキュリティ: Microsoft Security の FORGE Lab が脆弱性研究を Windows から Linux カーネルへ広げた際の 3 つの教訓"
+  - "コンピュート: Anyscale on Azure はワークロードが顧客のサブスクリプション内で動き、コントロールプレーンは Anyscale のテナントで運用 (SLA と両社の本番サポート付き)"
+  - "インフラ: サプライチェーンからフリート運用までを対象に、作業の高速化より「設計・調達・運用から学ぶシステム」を作ることを重視"
+  - "マーケットプレイス: Microsoft Marketplace の複数者間プライベートオファーが香港へ拡大"
