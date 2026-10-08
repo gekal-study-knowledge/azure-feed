@@ -13,4 +13,11 @@
     "published": "2026-10-08 01:57:04"
     "fetched": "2026-10-08 07:20:31"
     "summary": "Starting with SQL Server 2025 CU9 and SQL Server 2022 CU27, SQL Server on Linux supports the bulkadmin fixed server role and the ADMINISTER BULK OPERATIONS permission for performing bulk data import operations without requiring users to be members of the"
-"last_updated": "2026-10-08 07:20:31 JST"
+  "17553b665b9e1f2ffc49a503a95cae4b":
+    "id": "17553b665b9e1f2ffc49a503a95cae4b"
+    "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong"
+    "link": "https://azure.microsoft.com/updates?id=571831"
+    "published": "2026-10-08 23:17:44"
+    "fetched": "2026-10-09 02:01:10"
+    "summary": "Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software companies can expand into new markets by working with partners that bring established customer relationships,"
+"last_updated": "2026-10-09 02:01:10 JST"
