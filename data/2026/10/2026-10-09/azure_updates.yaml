@@ -34,4 +34,11 @@
     "published": "2026-10-09 02:24:34"
     "fetched": "2026-10-09 07:33:02"
     "summary": "The integration between Microsoft Agent 365 and Azure API Management is now available in public preview, helping organizations connect centralized governance with runtime enforcement for MCP servers and tools.With this integration, organizations can:Disco"
-"last_updated": "2026-10-09 07:33:02 JST"
+  "fa55bc8e90d5b9e1a24d343877b529f3":
+    "id": "fa55bc8e90d5b9e1a24d343877b529f3"
+    "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS"
+    "link": "https://azure.microsoft.com/updates?id=574430"
+    "published": "2026-10-09 07:51:01"
+    "fetched": "2026-10-09 11:36:47"
+    "summary": "AKS will now provision and manage a StandardV2 NAT Gateway\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT Gateway SKU for\nnew clusters in supported regions when using the managedNATGateway outbound\ntype. Standa"
+"last_updated": "2026-10-09 11:36:47 JST"
