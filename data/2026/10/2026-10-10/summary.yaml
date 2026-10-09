@@ -1,0 +1,10 @@
+"date": "2026-10-10"
+"generated_at": "2026-10-10 08:22:41 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 件で、提供終了の予告でした。Azure Arc 対応 Kubernetes クラスター向けの Azure Key Vault Secrets Provider 拡張機能が、2027 年 10 月 9 日に提供終了となります。現在この拡張機能を使っている利用者は、提供終了日までに Azure Key Vault Secret Store 拡張機能へ移行する計画を立てる必要があります。
+"topics":
+  - "提供終了: Azure Arc 対応 Kubernetes の Azure Key Vault Secrets Provider 拡張機能が 2027 年 10 月 9 日に終了、Secret Store 拡張機能へ移行"

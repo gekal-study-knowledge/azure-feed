@@ -1,13 +1,13 @@
 "date": "2026-10-09"
-"generated_at": "2026-10-09 08:21:50 JST"
+"generated_at": "2026-10-10 08:22:41 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 7
+"article_count": 8
 "sources":
   - "azure_sdk_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 7 件で、Azure Functions のワークフロー機能と、提供終了の予告 2 本、WAF と API Management の更新が中心でした。開発では、Azure Functions の Hosted Skills に Dynamic Workflows が加わりました。Azure Functions はイベント駆動のアプリケーションプラットフォームで、Hosted Skills がアプリに AI の推論を足し、Dynamic Workflows はトリガーとなった呼び出しが終わったあとに、AI 主導の複数ステップの処理を永続的に進める手段を与えます。モデルが計画 (DAG) を一度だけ書き、それを Durable Functions が実行する仕組みで、ベンチマークでは出力の品質を保ったままトークンの使用量が 56〜93%、エンドツーエンドのレイテンシーが 77〜95% 減りました。提供終了では、Microsoft Dev Box が 2028 年 9 月 18 日に終了します。2026 年 9 月 14 日から終了に向けた手続きが始まり、現在はメンテナンスモードです。Azure Deployment Environments は 2027 年 2 月 22 日に終了し、こちらも 2026 年 9 月 14 日から終了に向けた手続きが始まります。セキュリティでは、Azure Application Gateway と Azure Front Door の Web アプリケーションファイアウォール (WAF) で例外 (exceptions) が一般提供となりました。WAF は一般的な脅威や攻撃から Web アプリケーションを守りますが、例外を使える場面があるためのものです。ガバナンスでは、Microsoft Agent 365 と Azure API Management の統合がパブリックプレビューとなりました。MCP のサーバーとツールについて、中央のガバナンスと実行時の強制を結び付ける仕組みで、組織は MCP サーバーやツールを発見したうえで統制できます。データベースでは、Azure Database for PostgreSQL flexible server を East US 3 リージョンにデプロイできるようになりました。セキュリティの記事では、ポスト量子時代の認証に向けて、いま証明書のエコシステムをテストしておくべき理由が解説され、Microsoft の PQC TLS パイロットプログラムが将来への備えをどう進めるかが紹介されました。
+  この日は 8 件で、Azure Functions のワークフロー機能と、提供終了の予告 2 本、WAF と API Management の更新が中心でした。開発では、Azure Functions の Hosted Skills に Dynamic Workflows が加わりました。Azure Functions はイベント駆動のアプリケーションプラットフォームで、Hosted Skills がアプリに AI の推論を足し、Dynamic Workflows はトリガーとなった呼び出しが終わったあとに、AI 主導の複数ステップの処理を永続的に進める手段を与えます。モデルが計画 (DAG) を一度だけ書き、それを Durable Functions が実行する仕組みで、ベンチマークでは出力の品質を保ったままトークンの使用量が 56〜93%、エンドツーエンドのレイテンシーが 77〜95% 減りました。提供終了では、Microsoft Dev Box が 2028 年 9 月 18 日に終了します。2026 年 9 月 14 日から終了に向けた手続きが始まり、現在はメンテナンスモードです。Azure Deployment Environments は 2027 年 2 月 22 日に終了し、こちらも 2026 年 9 月 14 日から終了に向けた手続きが始まります。セキュリティでは、Azure Application Gateway と Azure Front Door の Web アプリケーションファイアウォール (WAF) で例外 (exceptions) が一般提供となりました。WAF は一般的な脅威や攻撃から Web アプリケーションを守りますが、例外を使える場面があるためのものです。ガバナンスでは、Microsoft Agent 365 と Azure API Management の統合がパブリックプレビューとなりました。MCP のサーバーとツールについて、中央のガバナンスと実行時の強制を結び付ける仕組みで、組織は MCP サーバーやツールを発見したうえで統制できます。データベースでは、Azure Database for PostgreSQL flexible server を East US 3 リージョンにデプロイできるようになりました。セキュリティの記事では、ポスト量子時代の認証に向けて、いま証明書のエコシステムをテストしておくべき理由が解説され、Microsoft の PQC TLS パイロットプログラムが将来への備えをどう進めるかが紹介されました。ネットワークでは、AKS のマネージドな StandardV2 NAT ゲートウェイが一般提供となりました。AKS が管理する仮想ネットワークを使うクラスターについて、AKS が StandardV2 の NAT ゲートウェイをプロビジョニングして管理します。managedNATGateway の送信タイプを使う場合、対応リージョンの新規クラスターでは StandardV2 がマネージド NAT ゲートウェイの既定の SKU になります。
 "topics":
   - "開発: Azure Functions の Hosted Skills に Dynamic Workflows、モデルが一度書いた DAG を Durable Functions が実行しトークン 56〜93%・レイテンシー 77〜95% 削減"
   - "提供終了: Microsoft Dev Box が 2028 年 9 月 18 日に終了、Azure Deployment Environments は 2027 年 2 月 22 日に終了 (いずれも 2026 年 9 月 14 日から手続き開始)"
@@ -15,3 +15,4 @@
   - "ガバナンス: Microsoft Agent 365 と Azure API Management の統合がプレビュー、MCP サーバーとツールの統制を中央のガバナンスと実行時の強制でつなぐ"
   - "データベース: Azure Database for PostgreSQL flexible server が East US 3 で利用可能に"
   - "セキュリティ: ポスト量子認証に向けた証明書エコシステムの事前テストと、Microsoft の PQC TLS パイロットプログラム"
+  - "ネットワーク: AKS のマネージド StandardV2 NAT ゲートウェイが GA、対応リージョンの新規クラスターでは既定の SKU に"
