@@ -1,0 +1,9 @@
+"entries":
+  "a3cdb63f347b2a237da898a3f13c2765":
+    "id": "a3cdb63f347b2a237da898a3f13c2765"
+    "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters"
+    "link": "https://azure.microsoft.com/updates?id=570313"
+    "published": "2026-10-10 05:27:17"
+    "fetched": "2026-10-10 06:21:33"
+    "summary": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the extension should plan to migrate to the Azure Key Vault Secret Store Extension before the retirement date. The"
+"last_updated": "2026-10-10 06:21:33 JST"
