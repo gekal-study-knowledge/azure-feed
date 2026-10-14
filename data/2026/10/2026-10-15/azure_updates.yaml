@@ -1,0 +1,16 @@
+"entries":
+  "96896c4febaef95faafa82ecb2100216":
+    "id": "96896c4febaef95faafa82ecb2100216"
+    "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging"
+    "link": "https://azure.microsoft.com/updates?id=576377"
+    "published": "2026-10-15 04:17:47"
+    "fetched": "2026-10-15 07:45:12"
+    "summary": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca"
+  "aa86c8c8ba69e72f626c03a4e9533ba3":
+    "id": "aa86c8c8ba69e72f626c03a4e9533ba3"
+    "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers"
+    "link": "https://azure.microsoft.com/updates?id=576214"
+    "published": "2026-10-15 04:13:31"
+    "fetched": "2026-10-15 07:45:12"
+    "summary": "Azure Site Recovery (ASR) now supports disaster recovery for Azure ARC-enabled Windows VMWare virtual machines and on-premise physical servers. Customers can protect ARC-managed machines with ASR while continuing to use Azure ARC for governance, inventory"
+"last_updated": "2026-10-15 07:45:12 JST"
