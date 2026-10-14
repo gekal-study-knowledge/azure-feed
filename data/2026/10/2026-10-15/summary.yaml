@@ -1,0 +1,15 @@
+"date": "2026-10-15"
+"generated_at": "2026-10-15 08:21:40 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+"overview": |
+  この日は 4 件で、開発者ワークフローへの SRE エージェント統合、Azure MCP Server の安定版、それに HSM と災害対策の GA 情報でした。Apps on Azure Blog では、Azure SRE Agent の新しいキャンバスが紹介されました。インシデント管理システムから障害を受け取った SRE Agent が調査して初期診断を返したあと、その診断を自分で確かめたい担当者が、普段使っている GitHub Copilot の中で作業できるようにするものです。キャンバスは会話の隣に並ぶ対話型のパネルで、GitHub Copilot アプリでは左にセッション、中央に Copilot のチャット、右に SRE のキャンバスが並び、キャンバスに対応した Copilot CLI のセッションでも同じものが使えます。SRE Agent の調査結果と、SRE 側にはないもの (自分のコード、プライベートなデータソース、アプリについての知識) を並べて見ながら、どこまで掘り下げ、何をいつ SRE に返すかを判断できます。Azure SDK Blog では Azure MCP Server 3.0 の安定版リリースが公開され、Terraform、バックアップ、リカバリー、トラブルシューティング向けの AI エージェント用ツールが追加され、セキュリティの既定値も強化されました。更新情報では 2 件が一般提供になりました。1 つは Azure Cloud HSM のハードウェア監査ログで、対応する HSM 管理操作についてハードウェアが生成した監査記録を提供し、セキュリティ監視やコンプライアンス報告、ガバナンス、フォレンジック調査を支えます。もう 1 つは Azure Site Recovery の Azure Arc 対応で、Azure Arc 管理下の Windows の VMware 仮想マシンとオンプレミスの物理サーバーを災害対策の対象にできるようになりました。ガバナンスやインベントリは Azure Arc のまま利用できます。
+"topics":
+  - "運用: Azure SRE Agent の新しいキャンバス。GitHub Copilot のチャット横に調査用の対話パネルを並べ、SRE Agent の診断と自分のコードやプライベートなデータソースを突き合わせながら掘り下げられる"
+  - "開発ツール: Azure MCP Server 3.0 の安定版リリース。Terraform、バックアップ、リカバリー、トラブルシューティング向けのツールを追加し、セキュリティの既定値を強化"
+  - "セキュリティ: Azure Cloud HSM のハードウェア監査ログが GA。対応する HSM 管理操作のハードウェア生成監査記録を提供"
+  - "災害対策: Azure Site Recovery が Azure Arc 対応の Windows VMware 仮想マシンとオンプレミス物理サーバーをサポート (GA)"
