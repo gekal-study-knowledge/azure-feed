@@ -1,0 +1,12 @@
+"date": "2026-10-16"
+"generated_at": "2026-10-16 08:21:48 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 3 件で、いずれも Azure の更新情報でした。プレビューとして、Azure Files のデータを Azure Storage Mover で同一テナント内のストレージアカウント、Azure リージョン、サブスクリプションをまたいでコピー・同期できるようになりました。増分転送をスケジュールして副本を維持し、事業継続の用途に使えます。一般提供になったものは 2 件です。1 つは Azure Private Link ファミリーの新機能である Standard service endpoint で、Azure の IaaS ワークロードを Azure の PaaS サービスへつなぐための、スケーラブルで安全な方法を提供します。従来の管理性とスケールの制約に対応するものです。もう 1 つは Virtual Machine Scale Sets の自動ゾーンバランスで、可用性ゾーンにまたがって配置したスケールセットを継続的に監視し、ゾーン間の偏りが生じた際に VM インスタンスを自動で再配分します。
+"topics":
+  - "ストレージ: Azure Files のデータを Azure Storage Mover で同一テナント内のストレージアカウント・リージョン・サブスクリプション間でコピー・同期 (プレビュー)。増分転送のスケジュールで副本を維持"
+  - "ネットワーク: Azure Private Link ファミリーの Standard service endpoint が GA。IaaS ワークロードから Azure PaaS サービスへの接続で、従来の管理性とスケールの制約を解消"
+  - "コンピュート: Virtual Machine Scale Sets の自動ゾーンバランスが GA。可用性ゾーン間の偏りを継続的に監視し、VM インスタンスを自動再配分"
