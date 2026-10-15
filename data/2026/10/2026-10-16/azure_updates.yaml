@@ -1,0 +1,23 @@
+"entries":
+  "d6693203e26c1a47ff5d26306367116c":
+    "id": "d6693203e26c1a47ff5d26306367116c"
+    "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover"
+    "link": "https://azure.microsoft.com/updates?id=576542"
+    "published": "2026-10-16 04:05:18"
+    "fetched": "2026-10-16 05:36:22"
+    "summary": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus"
+  "31035a85c3844e0b7cf24f0be6ae1775":
+    "id": "31035a85c3844e0b7cf24f0be6ae1775"
+    "title": "[Launched] Generally Available: Standard service endpoint"
+    "link": "https://azure.microsoft.com/updates?id=571025"
+    "published": "2026-10-16 02:39:51"
+    "fetched": "2026-10-16 05:36:22"
+    "summary": "Standard service endpoint, a\nnew capability in the Azure Private Link family, provides a scalable and secure\napproach for connecting Azure IaaS workloads to Azure PaaS services. Standard service\nendpoint addresses the manageability, and the scale limitati"
+  "726c00479117bcd1e0e618d5e2f142df":
+    "id": "726c00479117bcd1e0e618d5e2f142df"
+    "title": "[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets"
+    "link": "https://azure.microsoft.com/updates?id=576334"
+    "published": "2026-10-16 01:54:20"
+    "fetched": "2026-10-16 05:36:22"
+    "summary": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availability zones and automatically redistributes VM instances when zonal imbalances occur. This helps reduce"
+"last_updated": "2026-10-16 05:36:22 JST"
