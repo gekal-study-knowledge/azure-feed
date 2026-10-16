@@ -1,0 +1,16 @@
+"entries":
+  "0b933dcea6aa86db947c9391ad72b77d":
+    "id": "0b933dcea6aa86db947c9391ad72b77d"
+    "title": "[In preview] Public Preview: Azure Databricks Private network gateway"
+    "link": "https://azure.microsoft.com/updates?id=576556"
+    "published": "2026-10-17 01:59:02"
+    "fetched": "2026-10-17 04:14:52"
+    "summary": "Private network gateway for Azure Databricks is\nnow in Public Preview, enabling serverless compute to connect to resources in\nyour virtual network (VNet) and transitively connected networks through a\nsingle managed gateway. Customers can use the gateway t"
+  "b2c438082eb8eb43f7355d01a9e83cc1":
+    "id": "b2c438082eb8eb43f7355d01a9e83cc1"
+    "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM"
+    "link": "https://azure.microsoft.com/updates?id=574296"
+    "published": "2026-10-17 01:50:27"
+    "fetched": "2026-10-17 04:14:52"
+    "summary": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su"
+"last_updated": "2026-10-17 04:14:52 JST"
