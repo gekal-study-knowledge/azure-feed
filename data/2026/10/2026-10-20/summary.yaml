@@ -1,0 +1,10 @@
+"date": "2026-10-20"
+"generated_at": "2026-10-20 08:10:22 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 件で、Azure の更新情報でした。Azure DNS が Azure Traffic Manager との統合によって DNS ベースのロードバランシングを提供するようになり、一般提供が開始されました。Azure DNS のレコードセットを Traffic Manager のプロファイルへ直接関連付けられるため、Traffic Manager を指す CNAME レコードを作る必要がなくなります。
+"topics":
+  - "ネットワーク: Azure DNS が Traffic Manager のリンクレコードによる DNS ベースのロードバランシングに対応 (GA)。レコードセットを Traffic Manager プロファイルへ直接関連付けられ、CNAME が不要に"
