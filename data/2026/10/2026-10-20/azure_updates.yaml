@@ -1,0 +1,9 @@
+"entries":
+  "fb219ed39eb438bb6fecf91ba2d870d4":
+    "id": "fb219ed39eb438bb6fecf91ba2d870d4"
+    "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records"
+    "link": "https://azure.microsoft.com/updates?id=573917"
+    "published": "2026-10-20 02:55:40"
+    "fetched": "2026-10-20 05:47:19"
+    "summary": "Azure DNS now provides DNS based load balancing by seamless\nintegration with Azure Traffic Manager. Customers can directly associate an\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\ncreate a CNAME record pointing to the traf"
+"last_updated": "2026-10-20 05:47:19 JST"
