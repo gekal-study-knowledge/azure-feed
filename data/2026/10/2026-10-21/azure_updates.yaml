@@ -1,0 +1,23 @@
+"entries":
+  "886e7b32460a76ac7163b622bb6c51f7":
+    "id": "886e7b32460a76ac7163b622bb6c51f7"
+    "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF"
+    "link": "https://azure.microsoft.com/updates?id=577156"
+    "published": "2026-10-21 01:57:35"
+    "fetched": "2026-10-21 03:18:26"
+    "summary": "Announcing the general availability of the service tag match\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\nDoor Premium. Service tags represent groups of IP address prefixes used by\nAzure services, and Microsoft updates th"
+  "efeaa4c668e584da1ec7e5ce92233aa5":
+    "id": "efeaa4c668e584da1ec7e5ce92233aa5"
+    "title": "[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM"
+    "link": "https://azure.microsoft.com/updates?id=577130"
+    "published": "2026-10-21 01:55:59"
+    "fetched": "2026-10-21 03:18:26"
+    "summary": "Azure Application Gateway now supports keyless TLS\ntermination using certificates whose private keys stay in Azure Key Vault\nManaged HSM. Each TLS handshake signature is performed inside the HSM, and the\nprivate key is never exported to the gateway. This"
+  "5223382ca6ccf26d3a103e28c62301fa":
+    "id": "5223382ca6ccf26d3a103e28c62301fa"
+    "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor"
+    "link": "https://azure.microsoft.com/updates?id=575329"
+    "published": "2026-10-21 01:54:24"
+    "fetched": "2026-10-21 03:18:26"
+    "summary": "Advanced platform metrics for Azure Monitor are now generally available. Advanced platform metrics provide finer-grained signals that help customers more quickly and accurately identify changes and trends within their resources.With this release, customer"
+"last_updated": "2026-10-21 03:18:26 JST"
