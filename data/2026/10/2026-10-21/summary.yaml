@@ -1,0 +1,13 @@
+"date": "2026-10-21"
+"generated_at": "2026-10-21 08:13:06 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 4
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 4 件で、いずれも Azure の更新情報でした。セキュリティ関連が 2 件あります。1 つは Azure Front Door Premium の Web Application Firewall (WAF) カスタムルールで、サービスタグの一致条件が一般提供になりました。サービスタグは Azure サービスが使う IP アドレスプレフィックスのまとまりを表し、Microsoft が更新を管理します。もう 1 つは Azure Application Gateway のキーレス TLS で、秘密鍵を Azure Key Vault Managed HSM に置いたままの証明書で TLS 終端できるようになりました。TLS ハンドシェイクごとの署名は HSM の内部で行われ、秘密鍵はゲートウェイへ一切エクスポートされません。監視では、Azure Monitor の高度なプラットフォームメトリクスが一般提供になりました。より細かい粒度の信号を提供し、リソース内の変化や傾向を素早く正確に把握できるようにするものです。ネットワークでは、VNet ピアリングのルートを無効化する機能がパブリックプレビューになりました。ルートテーブルに関連付けたサブネットで、システムが生成するピアリングルートを抑止するもので、ピアリングした仮想ネットワーク間のトラフィックをより細かく制御できます。
+"topics":
+  - "セキュリティ: Azure Front Door Premium の WAF カスタムルールでサービスタグの一致条件が GA。Azure サービスの IP プレフィックス群を Microsoft が管理する形で条件に使える"
+  - "セキュリティ: Azure Application Gateway のキーレス TLS が GA。秘密鍵を Key Vault Managed HSM から出さず、ハンドシェイクごとの署名を HSM 内部で実行"
+  - "監視: Azure Monitor の高度なプラットフォームメトリクスが GA。より細かい粒度の信号でリソースの変化と傾向を把握しやすくする"
+  - "ネットワーク: VNet ピアリングルートの無効化がパブリックプレビュー。ルートテーブルを関連付けたサブネットでシステム生成のピアリングルートを抑止し、ピアリング間のトラフィックを細かく制御"
