@@ -20,4 +20,11 @@
     "published": "2026-10-21 01:54:24"
     "fetched": "2026-10-21 03:18:26"
     "summary": "Advanced platform metrics for Azure Monitor are now generally available. Advanced platform metrics provide finer-grained signals that help customers more quickly and accurately identify changes and trends within their resources.With this release, customer"
-"last_updated": "2026-10-21 03:18:26 JST"
+  "82c3d6a5773dac98b1dbb836eb51347b":
+    "id": "82c3d6a5773dac98b1dbb836eb51347b"
+    "title": "[In preview] Public Preview: Disable VNet peering route"
+    "link": "https://azure.microsoft.com/updates?id=576242"
+    "published": "2026-10-21 03:55:47"
+    "fetched": "2026-10-21 06:58:39"
+    "summary": "Announcing\nthe public preview of disable VNet peering route, a route-table capability that\ngives you more control over traffic between peered virtual networks. DPR\nsuppresses system-generated peering routes on subnets associated with the route\ntable while"
+"last_updated": "2026-10-21 06:58:39 JST"
