@@ -1,10 +1,16 @@
 "date": "2026-10-20"
-"generated_at": "2026-10-20 08:10:22 JST"
+"generated_at": "2026-10-20 20:51:31 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 1
+"article_count": 5
 "sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
   - "azure_updates"
 "overview": |
-  この日は 1 件で、Azure の更新情報でした。Azure DNS が Azure Traffic Manager との統合によって DNS ベースのロードバランシングを提供するようになり、一般提供が開始されました。Azure DNS のレコードセットを Traffic Manager のプロファイルへ直接関連付けられるため、Traffic Manager を指す CNAME レコードを作る必要がなくなります。
+  この日は 5 件で、ソブリン AI のアーキテクチャ、Java のサポート期限への備え、そして監視と DNS の機能強化が中心でした。Azure ブログでは、エッジからクラウドまで共通の基盤を持つソブリン AI の設計が取り上げられました。柔軟なソブリンアーキテクチャにより、各ワークロードを適した環境に配置し、必要な統制を適用しながら一貫性を保てるという考え方です。アプリ関連では、Microsoft の 2027 年のサポート節目を見据えた Java アップグレードの計画が示されました。2021 年 4 月に Microsoft Build of OpenJDK を Java 11 のプレビューとして発表して以来、Azure 上の Java アップグレードでは 11・17・21、そして 25 と世代を積み上げてきており、Java 8 についても Eclipse Foundation の Eclipse Adoptium プロジェクトの協力のもとで扱われてきた経緯が説明されています。あわせて、Azure Container Registry (ACR) がこれまで示せなかった「どれだけのデータがレジストリから出ていくか」を可視化できるようになり、その GetBlob メトリクスを支えるストレージアクティビティのプラットフォームが解説されました。Grafana ダッシュボードの活用方法も案内されています。サービス更新では、Azure DNS が Azure Traffic Manager とのシームレスな統合により DNS ベースのロードバランシングを提供するようになりました。Azure DNS のレコードセットを Traffic Manager のプロファイルに直接関連付けられるため、Traffic Manager を指す CNAME レコードを作る必要がなくなります。あわせて、Azure Monitor ワークスペースのメトリクス使用状況インサイトが一般提供となりました。ワークスペース全体でメトリクスの使用量を押し上げている要因を可視化し、ワークスペースの利用状況の監視、使われていないメトリクスの特定、使用傾向の把握、変化の調査ができます。
 "topics":
-  - "ネットワーク: Azure DNS が Traffic Manager のリンクレコードによる DNS ベースのロードバランシングに対応 (GA)。レコードセットを Traffic Manager プロファイルへ直接関連付けられ、CNAME が不要に"
+  - "ソブリン AI: エッジからクラウドまで共通の基盤を持つ柔軟なソブリンアーキテクチャで、ワークロードごとに環境と統制を選びつつ一貫性を保つ"
+  - "Java: Microsoft の 2027 年サポート節目に向けたアップグレード計画。Microsoft Build of OpenJDK は 11・17・21・25 と世代を重ねる"
+  - "コンテナ: Azure Container Registry がレジストリからの送出データ量を可視化、GetBlob メトリクスを支える仕組みと Grafana ダッシュボードの活用"
+  - "DNS: Azure DNS が Traffic Manager との統合で DNS ベースのロードバランシングを GA、Traffic Manager 向けの CNAME が不要に"
+  - "監視: Azure Monitor ワークスペースのメトリクス使用状況インサイトが GA、未使用メトリクスの特定と使用傾向の把握が可能に"
