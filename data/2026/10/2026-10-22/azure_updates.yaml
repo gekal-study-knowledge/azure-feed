@@ -1,0 +1,16 @@
+"entries":
+  "873a1ffdeaf1322b606bfb070bdef2b2":
+    "id": "873a1ffdeaf1322b606bfb070bdef2b2"
+    "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra"
+    "link": "https://azure.microsoft.com/updates?id=577273"
+    "published": "2026-10-22 02:38:32"
+    "fetched": "2026-10-22 04:43:23"
+    "summary": "What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables organizations to use a supported third-party telecommunications provider for SMS and voice authentication"
+  "e050b260143c10a788342b1c49c03389":
+    "id": "e050b260143c10a788342b1c49c03389"
+    "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation"
+    "link": "https://azure.microsoft.com/updates?id=576716"
+    "published": "2026-10-22 02:13:16"
+    "fetched": "2026-10-22 04:43:23"
+    "summary": "Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping you identify active keys before rotating or retiring credentials.This visibility helps reduce the risk o"
+"last_updated": "2026-10-22 04:43:23 JST"

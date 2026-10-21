@@ -1,0 +1,9 @@
+"entries":
+  "20a679d2b7d35852eefe7c680ffc178e":
+    "id": "20a679d2b7d35852eefe7c680ffc178e"
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+    "published": "2026-10-22 03:23:55"
+    "fetched": "2026-10-22 04:43:23"
+    "summary": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-10-22 04:43:23 JST"
