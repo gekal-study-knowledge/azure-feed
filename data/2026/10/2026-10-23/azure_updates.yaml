@@ -1,0 +1,9 @@
+"entries":
+  "be7d42e19af1ba546375e4cbc508fe3b":
+    "id": "be7d42e19af1ba546375e4cbc508fe3b"
+    "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage"
+    "link": "https://azure.microsoft.com/updates?id=577618"
+    "published": "2026-10-23 03:01:00"
+    "fetched": "2026-10-23 05:54:51"
+    "summary": "ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file ranges into fewer storage requests and executing reads asynchronously, it can reduce network round trips"
+"last_updated": "2026-10-23 05:54:51 JST"
