@@ -1,0 +1,9 @@
+"entries":
+  "7aaf07226307cf026ad0f8ec6bb028cc":
+    "id": "7aaf07226307cf026ad0f8ec6bb028cc"
+    "title": "[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup"
+    "link": "https://azure.microsoft.com/updates?id=577963"
+    "published": "2026-10-24 04:21:07"
+    "fetched": "2026-10-24 06:05:03"
+    "summary": "Azure Backup now supports Item-Level Recovery (ILR) for Azure virtual machines using Premium SSD v2 and Ultra disks with both 512 byte and 4KB logical sector sizes. You can now recover individual files and folders from your Azure VMs with Premium SSDv2 an"
+"last_updated": "2026-10-24 06:05:03 JST"
