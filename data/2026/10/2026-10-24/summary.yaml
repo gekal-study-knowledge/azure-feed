@@ -1,12 +1,14 @@
 "date": "2026-10-24"
-"generated_at": "2026-10-24 08:10:00 JST"
+"generated_at": "2026-10-25 06:00:47 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 2
+"article_count": 3
 "sources":
+  - "apps_on_azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 2 件で、LiteLLM のサプライチェーン侵害の分析と、Azure Backup の項目レベル復元の拡張でした。セキュリティブログでは、Microsoft Threat Intelligence が LiteLLM 1.107.0 の侵害を分析しました。Python の起動時フック (startup hooks) を使って認証情報を盗み、リモートからコードを読み込む手口で、検出方法と緩和策もあわせて示されています。サービス更新では、Azure Backup の項目レベル復元 (Item-Level Recovery) が、Premium SSD v2 と Ultra ディスクを使う Azure 仮想マシンで一般提供となりました。512 バイトと 4KB の両方の論理セクターサイズに対応し、これらのディスクを使う仮想マシンから個別のファイルやフォルダーを復元できます。
+  この日は 3 件で、LiteLLM のサプライチェーン侵害の分析、Azure Backup の項目レベル復元の拡張、Azure Container Registry の新しいメトリックでした。セキュリティブログでは、Microsoft Threat Intelligence が LiteLLM 1.107.0 の侵害を分析しました。Python の起動時フック (startup hooks) を使って認証情報を盗み、リモートからコードを読み込む手口で、検出方法と緩和策もあわせて示されています。サービス更新では、Azure Backup の項目レベル復元 (Item-Level Recovery) が、Premium SSD v2 と Ultra ディスクを使う Azure 仮想マシンで一般提供となりました。512 バイトと 4KB の両方の論理セクターサイズに対応し、これらのディスクを使う仮想マシンから個別のファイルやフォルダーを復元できます。アプリ系のブログでは、Azure Container Registry (ACR) が Transactions と Data Transfer の 2 つの新しいメトリックを公開したことが紹介されました。レジストリごと、さらに各 geo レプリカごとに、どの操作を処理しているか、どのリージョンが処理しているか、どれだけのデータ (エグレス) を転送しているかを初めて把握できるようになり、Grafana のダッシュボードでの可視化もあわせて案内されています。
 "topics":
   - "セキュリティ: Microsoft Threat Intelligence が LiteLLM 1.107.0 のサプライチェーン侵害を分析。Python の起動時フックによる認証情報の窃取とリモートからのコード読み込み、検出方法と緩和策"
   - "バックアップ: Azure Backup の項目レベル復元が Premium SSD v2 と Ultra ディスクの仮想マシンで GA、512 バイトと 4KB の論理セクターサイズに対応"
+  - "コンテナー: Azure Container Registry が Transactions と Data Transfer のメトリックを公開。レジストリと geo レプリカごとに操作・処理リージョン・エグレス量を把握でき、Grafana ダッシュボードにも対応"
