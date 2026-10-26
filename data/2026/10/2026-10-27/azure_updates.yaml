@@ -1,0 +1,9 @@
+"entries":
+  "6feec6a2450c3077f3e2e68861ce714e":
+    "id": "6feec6a2450c3077f3e2e68861ce714e"
+    "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering"
+    "link": "https://azure.microsoft.com/updates?id=577782"
+    "published": "2026-10-27 01:02:05"
+    "fetched": "2026-10-27 02:44:45"
+    "summary": "Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which\nnetwork traffic flows are logged based on specific criteria such as IP\naddresses, ports, protocols, encryption state, flow state, and traffic directio"
+"last_updated": "2026-10-27 02:44:45 JST"
