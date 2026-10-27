@@ -1,10 +1,16 @@
 "date": "2026-10-27"
-"generated_at": "2026-10-27 06:01:00 JST"
+"generated_at": "2026-10-27 22:01:30 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 1
+"article_count": 5
 "sources":
+  - "apps_on_azure_blog"
+  - "azure_blog"
   - "azure_updates"
 "overview": |
-  この日は Azure Updates に 1 本のみ。Azure Network Watcher の VNet フローログのフィルタリングが一般提供 (GA) となった。
+  この日は Azure Updates に 1 本、Azure Blog に 1 本、Apps on Azure Blog に 3 本。Azure Network Watcher の VNet フローログのフィルタリングが一般提供 (GA) となった。Apps on Azure Blog では、Qwen3.8-27B を Lenovo Yoga 9n 2-in-1 (NVIDIA RTX Spark N1X、64 GB ユニファイドメモリ) で動かし Azure Monitor で監視する検証 (単一リクエストで毎秒 44.7 トークン、262,144 トークンのフルコンテキストを保持)、オンプレミスのサーバー群に AI による SRE を広げて運用を統一する記事、Microsoft Intune チームが GitHub Copilot modernization で .NET サービスをアップグレードした Customer Zero の事例が公開された。Azure Blog では、アジャイルな貯留層モデリングで貯留層の不確実性分析をスケールさせる記事が公開された。
 "topics":
   - "ネットワーク: Network Watcher VNet flow logs filtering が GA。IP アドレス、ポート、プロトコル、暗号化状態、フロー状態、トラフィック方向などの条件で記録するフローを制御可能"
+  - "AI・ローカル推論: Qwen3.8-27B を Lenovo Yoga 9n 2-in-1 (RTX Spark N1X、64 GB) で実行し Azure Monitor で監視。単一リクエストで 44.7 tokens/s、262,144 トークンのフルコンテキストを保持し、OpenCode エージェントで 3 時間のレビューを実施"
+  - "運用: クラウド前提になりがちな AI 支援の SRE (アラートのトリアージ、シグナル相関、根本原因の提示) をオンプレミスのサーバー群にも適用して運用を統一"
+  - "モダナイゼーション: Microsoft Intune チームがホスティング基盤の移行を機に GitHub Copilot modernization で .NET サービスをアップグレード (Customer Zero ブログ)"
+  - "業界: アジャイルな貯留層モデリングで、増大する地下データからの貯留層の不確実性分析をスケールさせ意思決定につなげる"
