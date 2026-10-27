@@ -1,0 +1,11 @@
+"date": "2026-10-28"
+"generated_at": "2026-10-28 06:01:28 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Updates から 2 件の一般提供。Azure Front Door Premium の Web Application Firewall (WAF) で、プロファイル単位とルート単位のポリシーが GA となり、個々のドメインに限らず広い範囲にベースラインの保護を適用できるようになった。また Microsoft Foundry の Claude モデルが Azure Cost Management に統合され (GA)、これまで SaaS の下に計上されていた Claude の料金が、デプロイに使った Foundry リソースの下で他の Foundry の支出と並べて管理・タグ付けできるようになった。
+"topics":
+  - "セキュリティ・ネットワーク: Azure Front Door Premium の WAF でプロファイル単位・ルート単位のポリシーが一般提供。ドメイン単位に限らずベースライン保護を広く適用可能に"
+  - "AI・コスト管理: Microsoft Foundry の Claude モデルのコスト管理とタグ付けが一般提供。Claude の料金が SaaS ではなくデプロイ元の Foundry リソースの下で Azure Cost Management に表示される"
