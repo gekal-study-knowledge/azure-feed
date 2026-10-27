@@ -13,4 +13,11 @@
     "published": "2026-10-28 01:58:04"
     "fetched": "2026-10-28 03:25:45"
     "summary": "Announcing the general availability of profile and route\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\nPremium. WAF policies are no longer limited to individual domains: you can now\napply broad baseline protection across an e"
-"last_updated": "2026-10-28 03:25:45 JST"
+  "bf004cae65a5a6d26fcd1f5ec016868e":
+    "id": "bf004cae65a5a6d26fcd1f5ec016868e"
+    "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription"
+    "link": "https://azure.microsoft.com/updates?id=578358"
+    "published": "2026-10-28 06:16:52"
+    "fetched": "2026-10-28 07:41:53"
+    "summary": "Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, per subscription, up from the default of 250. Manage more accounts in a single subscription, reducing the"
+"last_updated": "2026-10-28 07:41:53 JST"
