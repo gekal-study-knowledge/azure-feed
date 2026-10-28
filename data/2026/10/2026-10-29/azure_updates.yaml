@@ -1,0 +1,23 @@
+"entries":
+  "6190781e46e2f20be6487012c863042e":
+    "id": "6190781e46e2f20be6487012c863042e"
+    "title": "Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor"
+    "link": "https://azure.microsoft.com/updates?id=577689"
+    "published": "2026-10-29 02:52:51"
+    "fetched": "2026-10-29 04:56:24"
+    "summary": "The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics logging destination will continue to function normally. However, we recommend planning a migration to th"
+  "ef10060fa73f43478023deda422f5568":
+    "id": "ef10060fa73f43478023deda422f5568"
+    "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup"
+    "link": "https://azure.microsoft.com/updates?id=577117"
+    "published": "2026-10-29 02:09:30"
+    "fetched": "2026-10-29 04:56:24"
+    "summary": "Cross-Tenant Restore (CTR) helps organizations establish an independent recovery path by enabling Azure VM backups to be restored into a separate Azure tenant. It strengthens cyber resilience while using the existing backup copy, without requiring custome"
+  "71623a486adc10916e84a78fe5547e63":
+    "id": "71623a486adc10916e84a78fe5547e63"
+    "title": "[Launched] Generally Available: Marketplace private offer enhancements"
+    "link": "https://azure.microsoft.com/updates?id=576547"
+    "published": "2026-10-29 01:23:43"
+    "fetched": "2026-10-29 04:56:24"
+    "summary": "Private offers through Microsoft Marketplace help you optimize your spending power with pricing and terms aligned to your organization’s needs, including flexible billing, custom contract lengths, and more. For eligible private offers, we are simplifying"
+"last_updated": "2026-10-29 04:56:24 JST"

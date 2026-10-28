@@ -1,0 +1,9 @@
+"entries":
+  "fa2d9b72539baf7927e518c8cfdf253e":
+    "id": "fa2d9b72539baf7927e518c8cfdf253e"
+    "title": "Azure SDK Release (October 2026)"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2026/"
+    "published": "2026-10-29 00:00:44"
+    "fetched": "2026-10-29 04:56:27"
+    "summary": "<p>October's Azure SDK highlights include Azure Core authentication updates, managed identity improvements for Python and Java, and the first stable Cosmos DB libraries for Rust.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-october-2026/\">Azure SDK Release (October 2026)</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-29 04:56:27 JST"
