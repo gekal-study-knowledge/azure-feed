@@ -1,0 +1,18 @@
+"date": "2026-10-29"
+"generated_at": "2026-10-29 06:01:38 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 6
+"sources":
+  - "azure_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 4 ソースから 6 本。Azure Blog では Foundry Agent Service の Microsoft Copilot harness がパブリックプレビューとして発表された。Azure Updates では、Azure Container Apps のログ送信先 Log Analytics がレガシー扱いになったことが告知され、既存の環境は引き続き正常に動作するものの Azure Monitor への移行計画が推奨されている。ほかに Azure Backup のテナント間復元 (Cross Tenant Restore) が Azure VM バックアップを別の Azure テナントへ復元できる独立した復旧経路としてパブリックプレビューに、Microsoft Marketplace のプライベートオファーの機能強化が一般提供になった。Azure SDK Blog の 2026 年 10 月リリースでは Azure Core の認証の更新、Python と Java のマネージド ID の改善、Rust 向け Cosmos DB ライブラリの初の安定版。Microsoft Security Blog ではエージェント時代の CISO の役割 (ID とデータのガードレールでイノベーションを支えることと、AI を使った脅威に追随する防御の近代化) が論じられた。
+"topics":
+  - "生成AI: Foundry Agent Service で Microsoft Copilot harness がパブリックプレビュー"
+  - "コンテナ・監視: Azure Container Apps のログ送信先 Log Analytics がレガシーに。既存環境は引き続き動作するが Azure Monitor への移行を計画するよう推奨"
+  - "バックアップ: Azure Backup の Cross Tenant Restore (CTR) がパブリックプレビュー。既存のバックアップコピーを使い Azure VM バックアップを別テナントへ復元し、独立した復旧経路でサイバーレジリエンスを強化"
+  - "Marketplace: Microsoft Marketplace のプライベートオファーの機能強化が一般提供。柔軟な請求、独自の契約期間など、対象オファーの手続きを簡素化"
+  - "SDK: Azure SDK 2026 年 10 月リリース。Azure Core の認証更新、Python・Java のマネージド ID 改善、Rust 向け Cosmos DB ライブラリ初の安定版"
+  - "セキュリティ: エージェント時代の CISO の役割。ID・データのガードレールでイノベーションを支えつつ、AI を使った脅威に合わせて防御を近代化 (Aarti Borkar)"
