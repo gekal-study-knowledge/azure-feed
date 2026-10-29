@@ -1,0 +1,23 @@
+"entries":
+  "617462e2fb4a04f1770e7b7835d22730":
+    "id": "617462e2fb4a04f1770e7b7835d22730"
+    "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations"
+    "link": "https://azure.microsoft.com/updates?id=578850"
+    "published": "2026-10-30 06:19:52"
+    "fetched": "2026-10-30 07:05:51"
+    "summary": "Large OS Disk Encryption (LOSDE) is now generally available for Azure Confidential VM migration scenarios. Organizations can move larger, production-scale workloads into confidential computing with the OS disk fully protected, instead of being held back b"
+  "e4b6c7021fb808eba72e6230036b90a2":
+    "id": "e4b6c7021fb808eba72e6230036b90a2"
+    "title": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF"
+    "link": "https://azure.microsoft.com/updates?id=578681"
+    "published": "2026-10-30 02:09:49"
+    "fetched": "2026-10-30 07:05:51"
+    "summary": "Announcing the general\navailability of the HTTP DDoS ruleset for Azure Web Application Firewall (WAF)\non Azure Front Door Premium. HTTP-layer DDoS attacks remain a leading cause of\napplication downtime, and static controls such as IP filters and fixed rat"
+  "39e05bc844ddad211e9bdd8382ad9834":
+    "id": "39e05bc844ddad211e9bdd8382ad9834"
+    "title": "[Launched] Generally Available: Azure MCP Server 3.0"
+    "link": "https://azure.microsoft.com/updates?id=578662"
+    "published": "2026-10-30 02:04:58"
+    "fetched": "2026-10-30 07:05:51"
+    "summary": "Azure MCP Server 3.0 is now generally available, expanding how AI agents and developer tools interact with Azure through the open Model Context Protocol (MCP).This release introduces new and expanded capabilities:Infrastructure as code: Azure Terraform to"
+"last_updated": "2026-10-30 07:05:51 JST"
