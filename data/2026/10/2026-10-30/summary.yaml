@@ -1,11 +1,15 @@
 "date": "2026-10-30"
-"generated_at": "2026-10-30 06:01:12 JST"
+"generated_at": "2026-10-30 08:09:45 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 2
+"article_count": 5
 "sources":
+  - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は Microsoft Security Blog から 2 本。Microsoft Threat Intelligence が、北朝鮮の脅威アクターが攻撃の速度と効率を高めるために AI の利用を拡大しており、その導入度合いにはばらつきがあることを分析し、作戦全体での AI 活用の実態を解説した。また、IDC MarketScape の 2026 Worldwide Modern Endpoint Security for Enterprises ベンダー評価で Microsoft がリーダーに選ばれた。
+  この日は 2 ソースから 5 本。Microsoft Threat Intelligence が、北朝鮮の脅威アクターが攻撃の速度と効率を高めるために AI の利用を拡大しており、その導入度合いにはばらつきがあることを分析し、作戦全体での AI 活用の実態を解説した。また、IDC MarketScape の 2026 Worldwide Modern Endpoint Security for Enterprises ベンダー評価で Microsoft がリーダーに選ばれた。Azure Updates では 3 件の一般提供。Azure Confidential VM への移行シナリオで Large OS Disk Encryption (LOSDE) が GA となり、OS ディスクを完全に保護したまま、より大きく本番規模のワークロードをコンフィデンシャルコンピューティングへ移せるようになった。Azure Front Door Premium の Web Application Firewall では HTTP DDoS ルールセットが GA となった。HTTP レイヤーの DDoS 攻撃はアプリケーション停止の主要な原因であり続けており、IP フィルターや固定のレート制限といった静的な制御では追いつかないという背景がある。Azure MCP Server 3.0 も GA となり、オープンな Model Context Protocol を通じて AI エージェントや開発ツールが Azure を扱える範囲が広がった。Azure Terraform の Infrastructure as Code 対応など、新規・拡張の機能が加わっている。
 "topics":
   - "脅威インテリジェンス: Microsoft Threat Intelligence が北朝鮮の脅威アクターによる AI 活用の拡大を分析。導入度合いはアクターごとに異なり、攻撃者が AI を作戦に取り込む広い傾向の一部として、作戦全体での利用方法を解説"
   - "エンドポイントセキュリティ: IDC MarketScape の 2026 Worldwide Modern Endpoint Security for Enterprises ベンダー評価で Microsoft がリーダーに選出"
+  - "セキュリティ: Azure Confidential VM への移行で Large OS Disk Encryption (LOSDE) が GA、OS ディスクを保護したまま本番規模のワークロードを移行できる"
+  - "WAF: Azure Front Door Premium の WAF で HTTP DDoS ルールセットが GA。静的な IP フィルターや固定レート制限では追いつかない HTTP レイヤーの DDoS に対応"
+  - "開発ツール: Azure MCP Server 3.0 が GA。Azure Terraform の Infrastructure as Code 対応などを追加し、AI エージェントや開発ツールから Azure を扱える範囲が拡大"
