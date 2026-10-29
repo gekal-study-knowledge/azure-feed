@@ -1,0 +1,11 @@
+"date": "2026-10-30"
+"generated_at": "2026-10-30 06:01:12 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "microsoft_security_blog"
+"overview": |
+  この日は Microsoft Security Blog から 2 本。Microsoft Threat Intelligence が、北朝鮮の脅威アクターが攻撃の速度と効率を高めるために AI の利用を拡大しており、その導入度合いにはばらつきがあることを分析し、作戦全体での AI 活用の実態を解説した。また、IDC MarketScape の 2026 Worldwide Modern Endpoint Security for Enterprises ベンダー評価で Microsoft がリーダーに選ばれた。
+"topics":
+  - "脅威インテリジェンス: Microsoft Threat Intelligence が北朝鮮の脅威アクターによる AI 活用の拡大を分析。導入度合いはアクターごとに異なり、攻撃者が AI を作戦に取り込む広い傾向の一部として、作戦全体での利用方法を解説"
+  - "エンドポイントセキュリティ: IDC MarketScape の 2026 Worldwide Modern Endpoint Security for Enterprises ベンダー評価で Microsoft がリーダーに選出"
