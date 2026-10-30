@@ -1,0 +1,14 @@
+"date": "2026-10-31"
+"generated_at": "2026-10-31 08:09:23 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_sdk_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 3 ソースから 3 本。セキュリティブログでは、ヘルプデスクへのなりすましから Active Directory 証明書サービス (AD CS) の悪用に至る侵入経路の調査が公開された。Teams のサポートを装ったなりすましがリモートアクセスにつながり、悪意のあるランタイムの実行を経て、認証のリレーと Kerberos を使って証明書サービスを悪用する ESC1 と ESC8 の経路をたどる内容である。データベースでは、Azure SQL Database のデータベースレベルのマネージド ID (フェデレーテッド ID 資格情報 (FIC) を含む) を CREATE DATABASE SCOPED CREDENTIAL の T-SQL で使えるようにする機能がパブリックプレビューとなった。データベースごとにユーザー割り当てのマネージド ID を使い、外部テーブルや OPENROWSET を通じて Azure Blob Storage と Azure Data Lake Storage Gen2 のファイルを照会できる。開発ツールでは、Azure Developer CLI (azd) の 2026 年 10 月のまとめが公開された。変更を加える前にサービスのデプロイをプレビューできるようになり、Container Apps への express デプロイ、保存済みの環境値の削除、生成されるパイプラインでの拡張機能が定義するインフラプロバイダーの利用に対応した。拡張機能の API は安定した契約を持つようになり、プロビジョニングの検証・キャンセル・アップグレードからの復旧も改善された。
+"topics":
+  - "セキュリティ: ヘルプデスクへのなりすましから AD CS 悪用に至る侵入経路の調査。Teams のサポートを装った接触からリモートアクセスと悪意あるランタイム実行を経て、認証リレーと Kerberos で ESC1 / ESC8 を悪用する流れを解説"
+  - "データベース: Azure SQL Database のデータベースレベルのマネージド ID (FIC を含む) を CREATE DATABASE SCOPED CREDENTIAL で利用する機能がパブリックプレビュー。データベースごとの ID で Blob Storage と ADLS Gen2 のファイルを外部テーブルや OPENROWSET から照会できる"
+  - "開発ツール: Azure Developer CLI (azd) の 10 月まとめ。デプロイのプレビュー、Container Apps への express デプロイ、環境値の削除、拡張機能が定義するインフラプロバイダーに対応し、拡張 API の契約が安定化"
