@@ -1,0 +1,9 @@
+"entries":
+  "4844d781618b2a59502232fc2cb508a6":
+    "id": "4844d781618b2a59502232fc2cb508a6"
+    "title": "Everything released in October 2026 for Azure Developer CLI"
+    "link": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/"
+    "published": "2026-10-31 04:02:14"
+    "fetched": "2026-10-31 06:10:16"
+    "summary": "<p>The October recap for the Azure Developer CLI (`azd`). Preview service deployments before making changes, deploy to Container Apps express, remove stored environment values, and use extension-defined infrastructure providers in generated pipelines. Extension APIs gain stable contracts, and provisioning validation, cancellation, and upgrade recovery improve.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/\">Everything released in October 2026 for Azure Developer CLI</a> appeared first on <a href=\"https://devblogs.microsoft.com/azure-sdk\">Azure SDK Blog</a>.</p>"
+"last_updated": "2026-10-31 06:10:16 JST"

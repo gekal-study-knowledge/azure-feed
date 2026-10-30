@@ -1,0 +1,9 @@
+"entries":
+  "12089f840d5a7710c50b03bc70f9d834":
+    "id": "12089f840d5a7710c50b03bc70f9d834"
+    "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL"
+    "link": "https://azure.microsoft.com/updates?id=577491"
+    "published": "2026-10-31 02:16:27"
+    "fetched": "2026-10-31 06:10:14"
+    "summary": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blob Storage and Azure Data Lake Storage Gen2 through external tables and OPENROWSET. You can authenticate t"
+"last_updated": "2026-10-31 06:10:14 JST"

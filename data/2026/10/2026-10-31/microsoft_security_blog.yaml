@@ -1,0 +1,9 @@
+"entries":
+  "5ae4551e63525ee2b5b168c881b3cdaf":
+    "id": "5ae4551e63525ee2b5b168c881b3cdaf"
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/"
+    "published": "2026-10-31 01:11:44"
+    "fetched": "2026-10-31 06:10:14"
+    "summary": "<p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/\">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-10-31 06:10:14 JST"
