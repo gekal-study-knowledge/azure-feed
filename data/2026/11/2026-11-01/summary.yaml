@@ -1,0 +1,10 @@
+"date": "2026-11-01"
+"generated_at": "2026-11-02 06:00:53 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_infrastructure_blog"
+"overview": |
+  この日は Azure Infrastructure Blog の 1 本のみで、Azure Container Apps 上にセキュアで使い捨ての GitHub Actions ランナーを構築する実装ガイドが公開されました。KEDA によるイベント駆動のオートスケーリング、GitHub App 認証、プライベートな Key Vault アクセス、Microsoft Container Registry、GitHub OIDC を組み合わせたアーキテクチャについて、セキュアで再現性があり実際のインフラワークフローで役立つものにするための実装上の判断と現場で得た知見をまとめています。
+"topics":
+  - "CI/CD・コンテナ: Azure Container Apps 上の使い捨て GitHub Actions ランナーの実装ガイド。KEDA のオートスケーリング、GitHub App 認証、プライベート Key Vault アクセス、Microsoft Container Registry、GitHub OIDC を組み合わせる"
