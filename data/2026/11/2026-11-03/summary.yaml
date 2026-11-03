@@ -1,15 +1,19 @@
 "date": "2026-11-03"
-"generated_at": "2026-11-03 06:01:19 JST"
+"generated_at": "2026-11-03 22:01:08 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 6
+"article_count": 12
 "sources":
   - "azure_updates"
+  - "microsoft_security_blog"
 "overview": |
-  この日は Azure Updates に 6 件が掲載され、事業継続系の一般提供と Application Gateway for Containers のプレビューが中心でした。一般提供では、Azure Site Recovery が Azure Local に対応し、サポート対象の Windows と Linux の仮想マシンを保護できるようになりました。Azure Service Bus Premium では、パーティション分割された名前空間で Geo レプリケーションが使えるようになり、パーティション分割のスループットと、メッセージとメタデータのセカンダリリージョンへの複製を両立できます。Azure SQL Database は、単一データベース、Hyperscale、エラスティックプールのデータベースを、スクリプトやサポートへの連絡なしに Azure portal から再起動・フェイルオーバーできるようになりました。パブリックプレビューの Application Gateway for Containers には 3 件が加わりました。Azure Private Link のプライベートエンドポイント経由でのみ到達できるプライベートフロントエンド、MCPRoute カスタムリソースによる Model Context Protocol のルーティング、AuthPolicy カスタムリソースによる JWT の一元的な検証です。
+  この日は廃止告知が 2 件あり、Azure Fluid Relay が 2027 年 2 月 2 日に提供終了、Microsoft Defender for IoT の OT セキュリティが 3 年間の移行期間を経て 2029 年 10 月に完全廃止となる。一般提供では Azure Local 向け Azure Site Recovery、Service Bus Premium のパーティション分割名前空間での Geo-Replication、Azure portal からの Azure SQL DB の再起動、Storage Actions の機能強化、PostgreSQL フレキシブルサーバーの VNet 統合からプライベートエンドポイント構成への変更が並んだ。Application Gateway for Containers はプライベートイングレス・MCP ゲートウェイ・JWT 検証の 3 つをプレビュー公開し、Azure Migrate の NAS 検出・評価もプレビューとなった。セキュリティブログでは実際に悪用された脆弱性のデータ分析が出た。
 "topics":
-  - "災害対策: Azure Site Recovery for Azure Local が一般提供。Windows / Linux 仮想マシンを保護"
-  - "メッセージング: Service Bus Premium のパーティション分割名前空間で Geo レプリケーションが一般提供"
-  - "データベース: Azure SQL Database を Azure portal から再起動・フェイルオーバー可能に (一般提供、Hyperscale とエラスティックプールを含む)"
-  - "ネットワーク: Application Gateway for Containers のプライベートイングレスがパブリックプレビュー。Private Link のプライベートエンドポイント経由のみで到達"
-  - "AI・ネットワーク: Application Gateway for Containers の MCP ゲートウェイがパブリックプレビュー。MCPRoute で TLS・JWT 検証・WAF を一元化"
-  - "認証: Application Gateway for Containers の JWT 検証がパブリックプレビュー。AuthPolicy で署名、発行者、有効期間、対象者を検証"
+  - "廃止: Azure Fluid Relay を 2027 年 2 月 2 日に提供終了 (Fluid Framework はオープンソースとして継続)"
+  - "廃止: Microsoft Defender for IoT の OT セキュリティを 3 年間の移行期間を経て 2029 年 10 月に完全廃止"
+  - "災害復旧: Azure Site Recovery が Azure Local に対応 (一般提供)"
+  - "メッセージング: Service Bus Premium のパーティション分割名前空間で Geo-Replication が一般提供"
+  - "データベース: Azure portal から Azure SQL DB (単一・Hyperscale・エラスティックプール) の再起動・フェールオーバーが可能に、PostgreSQL フレキシブルサーバーが VNet 統合からプライベートエンドポイント対応構成へ変更可能に (いずれも一般提供)"
+  - "ストレージ: Azure Storage Actions がタスク定義更新の自動反映、実行制御、大文字小文字を区別するマッチングに対応 (一般提供)"
+  - "ネットワーク: Application Gateway for Containers がプライベートイングレス、MCPRoute による MCP ゲートウェイ、AuthPolicy による JWT 検証をプレビュー公開"
+  - "移行: Azure Migrate がオンプレミス NAS (Dell PowerScale・NetApp ONTAP) の検出と評価に対応 (プレビュー)"
+  - "セキュリティ: 実際に悪用された脆弱性に共通する特徴をデータで分析し、悪用可能性・露出・影響範囲に基づく優先順位付けを解説"

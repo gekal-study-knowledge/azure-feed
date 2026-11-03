@@ -1,0 +1,10 @@
+"date": "2026-11-02"
+"generated_at": "2026-11-03 22:01:08 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "apps_on_azure_blog"
+"overview": |
+  この日は AKS の flex nodes (プレビュー) が Azure portal に対応したという 1 件のみ。ガイド付きの画面で Flex ノードプールを作成し、ユーザー管理の仮想マシンやオンプレミスサーバーを既存の AKS クラスターのワーカーノードとして接続できるようになった。
+"topics":
+  - "コンテナ: AKS の flex nodes (プレビュー) が Azure portal に対応、ユーザー管理 VM やオンプレミスサーバーを既存クラスターのワーカーノードとして追加可能"
