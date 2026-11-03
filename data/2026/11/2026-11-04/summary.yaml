@@ -1,0 +1,10 @@
+"date": "2026-11-04"
+"generated_at": "2026-11-04 06:00:51 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_sdk_blog"
+"overview": |
+  この日は Azure SDK Blog の記事が 1 本。AI エージェント向けの専門的な Azure プラグイン 6 種 (AKS 運用、コスト管理、Advisor の推奨事項、Kusto によるグラフ分析、Azure Local、Foundry IQ) を、プロンプト例とインストールコマンド付きで紹介した。
+"topics":
+  - "AI エージェント: AKS 運用・コスト管理・Advisor 推奨事項・Kusto グラフ分析・Azure Local・Foundry IQ の 6 つの専門 Azure プラグインを紹介 (プロンプト例とインストールコマンド付き)"
