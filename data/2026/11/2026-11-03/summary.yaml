@@ -1,13 +1,14 @@
 "date": "2026-11-03"
-"generated_at": "2026-11-04 22:01:06 JST"
+"generated_at": "2026-11-05 06:01:11 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 13
+"article_count": 14
 "sources":
+  - "apps_on_azure_blog"
   - "azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は廃止告知が 2 件あり、Azure Fluid Relay が 2027 年 2 月 2 日に提供終了、Microsoft Defender for IoT の OT セキュリティが 3 年間の移行期間を経て 2029 年 10 月に完全廃止となる。一般提供では Azure Local 向け Azure Site Recovery、Service Bus Premium のパーティション分割名前空間での Geo-Replication、Azure portal からの Azure SQL DB の再起動、Storage Actions の機能強化、PostgreSQL フレキシブルサーバーの VNet 統合からプライベートエンドポイント構成への変更が並んだ。Application Gateway for Containers はプライベートイングレス・MCP ゲートウェイ・JWT 検証の 3 つをプレビュー公開し、Azure Migrate の NAS 検出・評価もプレビューとなった。セキュリティブログでは実際に悪用された脆弱性のデータ分析が出た。Microsoft Azure Blog では、エージェントがより長く戦略的な仕事を担うようになる AI の次のフロンティアと、それを支えるプラットフォームについての記事が出た。
+  この日は廃止告知が 2 件あり、Azure Fluid Relay が 2027 年 2 月 2 日に提供終了、Microsoft Defender for IoT の OT セキュリティが 3 年間の移行期間を経て 2029 年 10 月に完全廃止となる。一般提供では Azure Local 向け Azure Site Recovery、Service Bus Premium のパーティション分割名前空間での Geo-Replication、Azure portal からの Azure SQL DB の再起動、Storage Actions の機能強化、PostgreSQL フレキシブルサーバーの VNet 統合からプライベートエンドポイント構成への変更が並んだ。Application Gateway for Containers はプライベートイングレス・MCP ゲートウェイ・JWT 検証の 3 つをプレビュー公開し、Azure Migrate の NAS 検出・評価もプレビューとなった。セキュリティブログでは実際に悪用された脆弱性のデータ分析が出た。Microsoft Azure Blog では、エージェントがより長く戦略的な仕事を担うようになる AI の次のフロンティアと、それを支えるプラットフォームについての記事が出た。Apps on Azure Blog では、Azure SRE Agent を使って Azure の請求額の変化を調査する方法が紹介され、どのサブスクリプションが増加の原因か、既存ワークロードの値上がりか新たに課金が始まったものか、別の削減が増加を隠していないかといった問いを追いかける流れを解説した。
 "topics":
   - "廃止: Azure Fluid Relay を 2027 年 2 月 2 日に提供終了 (Fluid Framework はオープンソースとして継続)"
   - "廃止: Microsoft Defender for IoT の OT セキュリティを 3 年間の移行期間を経て 2029 年 10 月に完全廃止"
@@ -19,3 +20,4 @@
   - "移行: Azure Migrate がオンプレミス NAS (Dell PowerScale・NetApp ONTAP) の検出と評価に対応 (プレビュー)"
   - "セキュリティ: 実際に悪用された脆弱性に共通する特徴をデータで分析し、悪用可能性・露出・影響範囲に基づく優先順位付けを解説"
   - "AI: エージェントが長期的・戦略的な仕事を担う時代に向けた AI 基盤についての Azure Blog 記事 (The Platform Behind the Next AI Breakthrough)"
+  - "コスト管理: Azure SRE Agent で Azure の請求額の変化を調査、増加の原因となったサブスクリプションや新規課金の有無を切り分け"

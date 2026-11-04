@@ -1,0 +1,10 @@
+"date": "2026-11-05"
+"generated_at": "2026-11-05 06:01:11 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Updates の 1 件のみ。SCSI ディスクコントローラーを使う VM で、Premium SSD v2 と Ultra Disk のデータディスクを対象にしたマルチディスクのクラッシュ整合性 VM 復元ポイントがパブリックプレビューになり、エージェントなしでクラッシュ整合性のある復元ポイントを取得できるようになった。
+"topics":
+  - "ストレージ/バックアップ: SCSI ディスクコントローラーの VM で、Premium SSD v2・Ultra Disk のマルチディスクのクラッシュ整合性 VM 復元ポイントがパブリックプレビュー (エージェント不要)"
