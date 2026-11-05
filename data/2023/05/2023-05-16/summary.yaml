@@ -1,0 +1,10 @@
+"date": "2023-05-16"
+"generated_at": "2026-11-06 06:02:24 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Updates の 1 件のみ。Azure Monitor Application Insights のデータ照会に使う API キーが 2027 年 3 月 31 日に廃止される予定で、Microsoft Entra ID (旧 Azure AD) による認証へ移行する必要がある。廃止日は延長されて 2027 年 3 月 31 日となった。
+"topics":
+  - "廃止: Application Insights のデータ照会用 API キーを 2027 年 3 月 31 日に廃止 (延長後の日付)、Microsoft Entra ID 認証への移行が必要"

@@ -1,0 +1,17 @@
+"date": "2026-11-06"
+"generated_at": "2026-11-06 06:02:24 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 6
+"sources":
+  - "azure_networking_blog"
+  - "azure_sdk_blog"
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 4 ソースから 6 本。Azure DNS の Traffic Manager リンクレコードが一般提供となり、trafficmanager.net への CNAME を使わずに Azure Public DNS のレコードセットを Traffic Manager プロファイルに直接関連付けられるようになった。Azure Application Gateway の WAF では、WAF ポリシーにログとメトリクスを対話型ダッシュボードにまとめる WAF Insights が一般提供となった。Azure SDK Blog は、ホステッドエージェントのセットアップ・テスト・評価・デプロイをコードと同じ場所の構成で行える Azure Developer CLI 用 Microsoft Foundry 拡張機能の一般提供を発表した。Microsoft Security Blog は 3 本で、2026 年第 3 四半期 (7〜9 月) のメール脅威動向 (期末にかけてのフィッシングの急増、QR コードフィッシングの減少、CAPTCHA で保護したフィッシングの回復、業務サービスの送信元ドメインのなりすましとセキュリティ上書き設定のリスク)、AI エージェントのセキュリティ・最小権限・脅威保護・露出管理を強化する 2026 年 11 月の Microsoft Security の更新まとめ、ガイダンス・移行・製品投資をまとめたオンプレミスのセキュリティリスク低減の新しい取り組みを取り上げた。
+"topics":
+  - "ネットワーク: Azure DNS の Traffic Manager リンクレコードが一般提供、trafficmanager.net への CNAME なしで DNS レコードセットを Traffic Manager プロファイルに関連付け"
+  - "セキュリティ: Azure Application Gateway の WAF Insights が一般提供、WAF ログとメトリクスを対話型ダッシュボードで調査"
+  - "開発者ツール: Azure Developer CLI 用 Microsoft Foundry 拡張機能が一般提供、ホステッドエージェントのセットアップ・評価・デプロイ"
+  - "脅威インテリジェンス: 2026 年第 3 四半期のメール脅威動向 (フィッシング急増、QR コードフィッシング減少、CAPTCHA 付きフィッシングの回復)"
+  - "セキュリティ: Microsoft Security の 2026 年 11 月の更新 (AI エージェントのセキュリティ、最小権限、露出管理)、オンプレミスのセキュリティリスク低減に向けた新たな取り組み"

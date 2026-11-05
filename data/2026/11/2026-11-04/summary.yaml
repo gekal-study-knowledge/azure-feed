@@ -1,7 +1,7 @@
 "date": "2026-11-04"
-"generated_at": "2026-11-04 22:01:06 JST"
+"generated_at": "2026-11-06 06:02:24 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 8
+"article_count": 10
 "sources":
   - "azure_infrastructure_blog"
   - "azure_networking_blog"
@@ -9,13 +9,15 @@
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 4 ソースから 7 本。Microsoft Threat Intelligence が、トロイの木馬化した Inno インストーラーで複数の収益化ペイロードを配布する偽ダウンロードキャンペーンを報告し、インストーラーセッション全体にわたる検出と調査のガイダンスを示した。Azure SDK Blog は AI エージェント向けの専門的な Azure プラグイン 6 種 (AKS 運用、コスト管理、Advisor の推奨事項、Kusto によるグラフ分析、Azure Local、Foundry IQ) を、プロンプト例とインストールコマンド付きで紹介した。Azure Updates では、アクセスパターン・データの経過時間・ストレージ階層・オブジェクトサイズ分布などを見られる Azure Storage Discovery の高度な容量インサイトがパブリックプレビューに入り、Azure SQL Database と Azure SQL Managed Instance の PITR バックアップで既定の 7 日を超えて設定済みの PITR 保持期間まで不変性を延長できるプレビューが始まり、フレキシブルオーケストレーションの仮想マシンスケールセット (VMSS Flex) に対する Azure Site Recovery の強化サポートが一般提供になった。ブログでは、Microsoft が 2026 年の Gartner Magic Quadrant (AI エージェント管理プラットフォーム) でリーダーに位置づけられたこと、および Azure Local の導入が始まる前につまずく 10 の失敗をフィールドの事例とレビュー時に確認するコマンド・設定とともに整理した記事が出た。さらに、classic VNet インジェクションのコンピュートで同じアドレス空間 (例: 10.100.0.0/20) を使う複数の Azure Databricks ワークスペースがある場合のネットワーク設計を扱った記事が出た。
+  この日は 5 ソースから 10 本。Microsoft Threat Intelligence が、トロイの木馬化した Inno インストーラーで複数の収益化ペイロードを配布する偽ダウンロードキャンペーンを報告し、インストーラーセッション全体にわたる検出と調査のガイダンスを示した。Azure SDK Blog は AI エージェント向けの専門的な Azure プラグイン 6 種 (AKS 運用、コスト管理、Advisor の推奨事項、Kusto によるグラフ分析、Azure Local、Foundry IQ) を、プロンプト例とインストールコマンド付きで紹介した。Azure Updates では、アクセスパターン・データの経過時間・ストレージ階層・オブジェクトサイズ分布などを見られる Azure Storage Discovery の高度な容量インサイトがパブリックプレビューに入り、Azure SQL Database と Azure SQL Managed Instance の PITR バックアップで既定の 7 日を超えて設定済みの PITR 保持期間まで不変性を延長できるプレビューが始まり、フレキシブルオーケストレーションの仮想マシンスケールセット (VMSS Flex) に対する Azure Site Recovery の強化サポートが一般提供になった。ブログでは、Microsoft が 2026 年の Gartner Magic Quadrant (AI エージェント管理プラットフォーム) でリーダーに位置づけられたこと、Azure Local の導入が始まる前につまずく 10 の失敗、同じアドレス空間 (例: 10.100.0.0/20) を使う複数の Azure Databricks ワークスペースがある場合のネットワーク設計を扱った記事が出た。Azure Infrastructure Blog ではさらに、Packer・Azure DevOps・Azure Compute Gallery による VM イメージパイプラインの第 2 部として、ビルド状況・検証結果の参照やパイプラインのキュー投入を制御されたツールとして公開する MCP 運用レイヤーの追加と、AKS のユーザーノードプールに Traefik をイングレスコントローラーとして Helm で導入する手順が紹介された。
 "topics":
   - "セキュリティ: トロイの木馬化した Inno インストーラーで複数の収益化ペイロードを配布する偽ダウンロードキャンペーン、インストーラーセッション全体の検出・調査ガイダンス"
-  - "AI エージェント: AKS 運用・コスト管理・Advisor 推奨事項・Kusto グラフ分析・Azure Local・Foundry IQ の 6 つの専門 Azure プラグインを紹介 (プロンプト例とインストールコマンド付き)"
+  - "AI エージェント: AKS 運用・コスト管理・Advisor 推奨事項・Kusto グラフ分析・Azure Local・Foundry IQ の 6 つの専門 Azure プラグインを紹介"
   - "ストレージ: Azure Storage Discovery の高度な容量インサイトがパブリックプレビュー (アクセスパターン・データ経過時間・ストレージ階層・オブジェクトサイズ分布)"
   - "データベース: Azure SQL Database / SQL Managed Instance の PITR バックアップで、既定の 7 日から設定済みの PITR 保持期間まで不変性を延長するプレビュー"
-  - "災害復旧: Azure Site Recovery が VMSS Flex (フレキシブルオーケストレーション) の強化サポートを一般提供、フェイルオーバーや再保護のワークフローを改善"
+  - "災害復旧: Azure Site Recovery が VMSS Flex (フレキシブルオーケストレーション) の強化サポートを一般提供"
   - "AI エージェント: Microsoft が 2026 年の Gartner Magic Quadrant (AI エージェント管理プラットフォーム) でリーダーに"
-  - "インフラ: Azure Local の導入前につまずく 10 の失敗と、レビュー時に確認するコマンド・設定"
+  - "インフラ: Azure Local の導入前につまずく 10 の失敗"
   - "ネットワーク: 複数の Azure Databricks ワークスペースの VNet で CIDR (例: 10.100.0.0/20) が重複する場合のルーティング課題と対処"
+  - "運用自動化: VM イメージパイプライン (Packer・Azure DevOps・Compute Gallery) に MCP 運用レイヤーを追加し、ビルド状況・検証結果・キュー投入をツール化 (第 2 部)"
+  - "コンテナ: AKS に Traefik をイングレスコントローラーとして Helm で導入する手順"

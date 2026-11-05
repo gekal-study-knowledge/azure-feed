@@ -1,10 +1,17 @@
 "date": "2026-11-05"
-"generated_at": "2026-11-05 06:01:11 JST"
+"generated_at": "2026-11-06 06:02:24 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 1
+"article_count": 6
 "sources":
+  - "azure_blog"
+  - "azure_networking_blog"
   - "azure_updates"
 "overview": |
-  この日は Azure Updates の 1 件のみ。SCSI ディスクコントローラーを使う VM で、Premium SSD v2 と Ultra Disk のデータディスクを対象にしたマルチディスクのクラッシュ整合性 VM 復元ポイントがパブリックプレビューになり、エージェントなしでクラッシュ整合性のある復元ポイントを取得できるようになった。
+  この日は 3 ソースから 6 本。ネットワーク関連の発表が目立ち、Azure Route Server のルートマップが Azure パブリッククラウドで一般提供となり、ハイブリッド接続で Route Server が学習・広告するルートを受信・送信の両方向できめ細かく制御できるようになった。Azure Networking Blog ではこれに関連して、ExpressRoute などのハイブリッド接続と VNet の境界でルート集約を行う方法が解説された。Azure Firewall の IPv6 では、アプリケーションルールがパブリックプレビューで使えるようになり、IPv6 とデュアルスタック環境の HTTP/HTTPS トラフィックにもレイヤー 7 のフィルタリングをかけられる。ストレージでは、SCSI ディスクコントローラーを使う VM で、Premium SSD v2 と Ultra Disk のデータディスクを対象にしたマルチディスクのクラッシュ整合性 VM 復元ポイントがパブリックプレビューになり、エージェントなしで取得できる。Azure Database for PostgreSQL フレキシブルサーバーの安定版 REST API バージョン 2026-10-01 が一般提供となり、メンテナンス管理、不変バックアップ、テナント間のカスタマーマネージドキーによる暗号化などの機能が加わった。Azure Blog では、ハードウェア障害を予測して対象のワークロードを移動し、必要に応じて顧客に通知する Azure Failure Prediction and Detection (AFPD) が、SAP on Azure などのミッションクリティカルなワークロードの中断をどう減らすかを紹介した。
 "topics":
+  - "ネットワーク: Azure Route Server のルートマップが一般提供、ハイブリッド接続の受信・送信ルートをきめ細かく制御"
+  - "ネットワーク: Azure Route Server でのルート集約の解説 (ExpressRoute などのハイブリッド接続と VNet の境界)"
+  - "セキュリティ: Azure Firewall の IPv6 でアプリケーションルールがパブリックプレビュー、IPv6/デュアルスタックの HTTP/HTTPS に L7 フィルタリング"
   - "ストレージ/バックアップ: SCSI ディスクコントローラーの VM で、Premium SSD v2・Ultra Disk のマルチディスクのクラッシュ整合性 VM 復元ポイントがパブリックプレビュー (エージェント不要)"
+  - "データベース: Azure Database for PostgreSQL フレキシブルサーバーの REST API 2026-10-01 が GA (メンテナンス管理・不変バックアップ・テナント間 CMK 暗号化)"
+  - "信頼性: Azure Failure Prediction and Detection (AFPD) がハードウェア障害を予測してワークロードを移動、SAP on Azure などへの効果"
