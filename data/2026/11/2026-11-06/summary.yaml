@@ -1,7 +1,7 @@
 "date": "2026-11-06"
-"generated_at": "2026-11-06 22:02:33 JST"
+"generated_at": "2026-11-07 22:01:45 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 11
+"article_count": 12
 "sources":
   - "apps_on_azure_blog"
   - "azure_blog"
@@ -10,7 +10,7 @@
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 6 ソースから 11 本。Azure DNS の Traffic Manager リンクレコードが一般提供となり、trafficmanager.net への CNAME を使わずに Azure Public DNS のレコードセットを Traffic Manager プロファイルに直接関連付けられるようになった。Azure Application Gateway の WAF では、WAF ポリシーにログとメトリクスを対話型ダッシュボードにまとめる WAF Insights が一般提供となり、Azure Front Door ではハイブリッドのポスト量子鍵交換を含む TLS 鍵交換ポリシーを構成できる機能が一般提供となって、暗号上の脅威への備えとクライアント互換性の要件を両立できるようになった。Azure Container Registry の Connected Registry では、Azure Arc 対応 Kubernetes 上の展開でユーザー割り当てマネージド ID を使い Microsoft Entra ID 経由で同期を認証できるプライベートプレビューが始まり、共有の同期パスワードを用意・ローテーションせずに Azure RBAC と ABAC 条件でリポジトリへのアクセスを管理できる (既存の同期トークンとスコープマップによる構成はそのまま動く)。Azure SDK Blog は、ホステッドエージェントのセットアップ・テスト・評価・デプロイをコードと同じ場所の構成で行える Azure Developer CLI 用 Microsoft Foundry 拡張機能の一般提供を発表した。Azure Blog は 2 本で、Azure Cobalt 200 VM で電子設計自動化 (EDA) のシミュレーション・検証・静的タイミング解析を高速化した初期の性能結果と、AI エージェントを単発のプロジェクトではなく継続的な業務として選定・設計・管理すべきという論考を載せた。Microsoft Security Blog は 4 本で、2026 年第 3 四半期 (7〜9 月) のメール脅威動向 (期末にかけてのフィッシングの急増、QR コードフィッシングの減少、CAPTCHA で保護したフィッシングの回復、業務サービスの送信元ドメインのなりすましとセキュリティ上書き設定のリスク)、AI エージェントのセキュリティ・最小権限・脅威保護・露出管理を強化する 2026 年 11 月の Microsoft Security の更新まとめ、ガイダンス・移行・製品投資をまとめたオンプレミスのセキュリティリスク低減の新しい取り組みに加え、脅威アクターがエージェント型の攻撃フレームワーク ARTEX を使って GitHub 上の OAuth アプリケーションのシークレットを探し、侵害した OAuth アプリでテナント内の認証済み操作を行っている事例を Microsoft Threat Intelligence が報告した。
+  この日は 6 ソースから 12 本。Azure DNS の Traffic Manager リンクレコードが一般提供となり、trafficmanager.net への CNAME を使わずに Azure Public DNS のレコードセットを Traffic Manager プロファイルに直接関連付けられるようになった。Azure Application Gateway の WAF では、WAF ポリシーにログとメトリクスを対話型ダッシュボードにまとめる WAF Insights が一般提供となり、Azure Front Door ではハイブリッドのポスト量子鍵交換を含む TLS 鍵交換ポリシーを構成できる機能が一般提供となって、暗号上の脅威への備えとクライアント互換性の要件を両立できるようになった。Azure Container Registry の Connected Registry では、Azure Arc 対応 Kubernetes 上の展開でユーザー割り当てマネージド ID を使い Microsoft Entra ID 経由で同期を認証できるプライベートプレビューが始まり、共有の同期パスワードを用意・ローテーションせずに Azure RBAC と ABAC 条件でリポジトリへのアクセスを管理できる (既存の同期トークンとスコープマップによる構成はそのまま動く)。Azure SDK Blog は、ホステッドエージェントのセットアップ・テスト・評価・デプロイをコードと同じ場所の構成で行える Azure Developer CLI 用 Microsoft Foundry 拡張機能の一般提供を発表した。Azure Blog は 2 本で、Azure Cobalt 200 VM で電子設計自動化 (EDA) のシミュレーション・検証・静的タイミング解析を高速化した初期の性能結果と、AI エージェントを単発のプロジェクトではなく継続的な業務として選定・設計・管理すべきという論考を載せた。Microsoft Security Blog は 4 本で、2026 年第 3 四半期 (7〜9 月) のメール脅威動向 (期末にかけてのフィッシングの急増、QR コードフィッシングの減少、CAPTCHA で保護したフィッシングの回復、業務サービスの送信元ドメインのなりすましとセキュリティ上書き設定のリスク)、AI エージェントのセキュリティ・最小権限・脅威保護・露出管理を強化する 2026 年 11 月の Microsoft Security の更新まとめ、ガイダンス・移行・製品投資をまとめたオンプレミスのセキュリティリスク低減の新しい取り組みに加え、脅威アクターがエージェント型の攻撃フレームワーク ARTEX を使って GitHub 上の OAuth アプリケーションのシークレットを探し、侵害した OAuth アプリでテナント内の認証済み操作を行っている事例を Microsoft Threat Intelligence が報告した。 後から追加された Apps on Azure Blog の記事は、Azure IaaS VM 上の IIS Web サーバーを Azure SRE Agent に読み取り専用で調査させるための準備ガイドで、効果的な診断はモデルよりもエージェントが参照できる証拠に左右され、IIS ログ・ディスクのメトリクス・構成変更を参照できれば根本原因を素早く特定できるとし、エージェントは収集した証拠を分析して修正を提案し、実行はチームや既存のデプロイパイプラインが担う形を扱っている。
 "topics":
   - "ネットワーク: Azure DNS の Traffic Manager リンクレコードが一般提供、trafficmanager.net への CNAME なしで DNS レコードセットを Traffic Manager プロファイルに関連付け"
   - "セキュリティ: Azure Application Gateway の WAF Insights が一般提供、WAF ログとメトリクスを対話型ダッシュボードで調査"
@@ -22,3 +22,4 @@
   - "脅威インテリジェンス: 2026 年第 3 四半期のメール脅威動向 (フィッシング急増、QR コードフィッシング減少、CAPTCHA 付きフィッシングの回復)"
   - "脅威インテリジェンス: 脅威アクターがエージェント型攻撃フレームワーク ARTEX で GitHub 上の OAuth アプリのシークレットを探索し、侵害したアプリでテナント内の操作を実行"
   - "セキュリティ: Microsoft Security の 2026 年 11 月の更新 (AI エージェントのセキュリティ、最小権限、露出管理)、オンプレミスのセキュリティリスク低減に向けた新たな取り組み"
+  - "運用: Azure SRE Agent に IIS VM を読み取り専用で調査させる準備ガイド (IIS ログ・ディスクメトリクス・構成変更を参照できるようにし、修正はチームが実行)"
