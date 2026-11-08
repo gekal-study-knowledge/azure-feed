@@ -1,10 +1,12 @@
 "date": "2026-11-07"
-"generated_at": "2026-11-08 06:00:38 JST"
+"generated_at": "2026-11-08 22:00:54 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 1
+"article_count": 2
 "sources":
+  - "azure_blog"
   - "microsoft_security_blog"
 "overview": |
-  この日は Microsoft Security Blog の 1 本のみ。金銭目的の脅威アクター Storm-3358 が 2026 年 10 月から、エージェント型 AI の攻撃フレームワーク ARTEX を使って金融セクターの組織を標的にし始めたと報告し、ARTEX の悪用がサイバー犯罪者の間で広がっていることを伝えた。
+  この日は Azure Blog と Microsoft Security Blog の 2 本。Azure Blog では Microsoft と fal の提携により Microsoft Foundry で動画生成機能を拡充し、開発者が創造的なアイデアをエンタープライズアプリケーションに組み込めるようにすると発表した。Security Blog では、金銭目的の脅威アクター Storm-3358 が 2026 年 10 月から、エージェント型 AI の攻撃フレームワーク ARTEX を使って金融セクターの組織を標的にし始めたと報告し、ARTEX の悪用がサイバー犯罪者の間で広がっていることを伝えた。
 "topics":
+  - "AI / Microsoft Foundry: Microsoft と fal が提携し、Foundry での動画生成などマルチモーダル AI 体験を拡充"
   - "脅威インテリジェンス: 金銭目的の脅威アクター Storm-3358 が 2026 年 10 月からエージェント型 AI 攻撃フレームワーク ARTEX で金融セクターを標的化、ARTEX の悪用が拡大"
