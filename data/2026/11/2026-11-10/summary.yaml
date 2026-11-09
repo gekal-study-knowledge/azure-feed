@@ -1,0 +1,10 @@
+"date": "2026-11-10"
+"generated_at": "2026-11-10 06:01:00 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は Azure Updates の 1 件のみの更新だった。Azure Arc 対応 Windows Server を Azure File Sync でモダナイズする機能がパブリックプレビューとなり、Azure portal 上のガイド付きエクスペリエンスで設定できるようになった。Azure File Sync は Windows Server から Azure Files へのハイブリッドアクセスやシームレスな移行を提供し、ユーザーやアプリケーションにとって使い慣れたローカルファイルサーバーの体験を維持する。
+"topics":
+  - "ストレージ: Arc 対応 Windows Server を Azure File Sync でモダナイズする機能がパブリックプレビュー、Azure portal のガイド付き設定に対応"
