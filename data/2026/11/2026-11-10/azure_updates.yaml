@@ -6,4 +6,11 @@
     "published": "2026-11-10 02:20:57"
     "fetched": "2026-11-10 02:53:12"
     "summary": "Azure File Sync provides hybrid access or seamless migration of data from Windows Server to Azure Files while preserving the familiar local file server experience for users and applications. Now in preview, users have a guided Azure portal experience to s"
-"last_updated": "2026-11-10 02:53:12 JST"
+  "91295fd546330d50a083531f7990dc2d":
+    "id": "91295fd546330d50a083531f7990dc2d"
+    "title": "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026"
+    "link": "https://azure.microsoft.com/updates?id=575106"
+    "published": "2026-11-10 07:50:01"
+    "fetched": "2026-11-10 09:54:57"
+    "summary": "Support for .NET\n8 and .NET 9 will end on November 10, 2026. Please transition your managed Functions APIs to .NET 10 by that date. Your apps will continue to operate, but security updates\nwill no longer be provided and support for .NET 8 and .NET 9 on Az"
+"last_updated": "2026-11-10 09:54:57 JST"

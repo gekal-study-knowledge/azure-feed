@@ -1,0 +1,9 @@
+"entries":
+  "655afb79c574a1d9ffd2b3f2b6deba69":
+    "id": "655afb79c574a1d9ffd2b3f2b6deba69"
+    "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/"
+    "published": "2026-11-10 05:17:31"
+    "fetched": "2026-11-10 09:54:57"
+    "summary": "<p>Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/\">FORGE Lab uses agentic tools to identify memory safety issues in Rust</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-11-10 09:54:57 JST"
