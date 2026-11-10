@@ -1,10 +1,15 @@
 "date": "2026-11-10"
-"generated_at": "2026-11-10 06:01:00 JST"
+"generated_at": "2026-11-10 22:01:32 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 1
+"article_count": 4
 "sources":
+  - "apps_on_azure_blog"
   - "azure_updates"
+  - "microsoft_security_blog"
 "overview": |
-  この日は Azure Updates の 1 件のみの更新だった。Azure Arc 対応 Windows Server を Azure File Sync でモダナイズする機能がパブリックプレビューとなり、Azure portal 上のガイド付きエクスペリエンスで設定できるようになった。Azure File Sync は Windows Server から Azure Files へのハイブリッドアクセスやシームレスな移行を提供し、ユーザーやアプリケーションにとって使い慣れたローカルファイルサーバーの体験を維持する。
+  この日は .NET のサポート終了告知とハイブリッド環境、AI エージェントの信頼性に関する発表がありました。Static Web Apps での .NET 8 と .NET 9 のサポートが 2026 年 11 月 10 日で終了し、マネージド Functions API は .NET 10 への移行が求められます。アプリは動作を続けますが、セキュリティ更新は提供されなくなります。ハイブリッドでは、Arc 対応の Windows Server を Azure File Sync でモダナイズするポータルのガイド付き体験がパブリックプレビューになりました。Microsoft Agent Framework 向けの Durable Task 拡張は一般提供となり、エージェントやエージェント型ワークフローが障害や中断から進捗を失わずに復旧できます。セキュリティでは、Microsoft FORGE Lab がエージェント型ツール Hyenas を使い、Rust の core / std ライブラリで safe な Rust コードから未定義動作を起こしうるメモリ安全性のバグを見つけた研究を紹介しました。
 "topics":
-  - "ストレージ: Arc 対応 Windows Server を Azure File Sync でモダナイズする機能がパブリックプレビュー、Azure portal のガイド付き設定に対応"
+  - "廃止: Static Web Apps の .NET 8 / .NET 9 サポートが 2026-11-10 に終了、.NET 10 へ移行"
+  - "ハイブリッド: Arc 対応 Windows Server を Azure File Sync でモダナイズ (パブリックプレビュー)"
+  - "AI エージェント: Microsoft Agent Framework 向け Durable Task 拡張が一般提供"
+  - "セキュリティ: FORGE Lab が Rust の core / std でメモリ安全性のバグを発見"
