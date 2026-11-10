@@ -1,0 +1,16 @@
+"date": "2026-11-11"
+"generated_at": "2026-11-11 08:10:38 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 7
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_updates"
+"overview": |
+  この日は 2 ソースから 7 本で、.NET 11 対応とネットワーク関連の発表が中心でした。Azure Functions が isolated worker モデルで .NET 11 に対応して一般提供となり、.NET 11 の関数アプリでは新しいプロジェクト SDK である Azure.Functions.Sdk が必須になります。これまでの Microsoft.NET.Sdk をプロジェクト SDK にして Microsoft.Azure.Functions.Worker.Sdk をパッケージ参照する形に代えて、ビルド統合がプロジェクト SDK の宣言にまとまるため、プロジェクトファイルが簡潔になります。現時点では C# のみの対応で、F# のサポートは一時的に利用できません。App Service では Premium v4 (Pv4) と Premium メモリ最適化 v4 (Pmv4) のプランで、プラン単位でのアプリの開始・停止がパブリックプレビューになりました。プランがホストするアプリとデプロイスロットをまとめて扱えるため、アプリごとにコマンドを発行する必要がなくなります。操作は非同期で、停止後の終了処理や開始後にアプリが要求を受けられるようになるまでには数分かかることがあります。ネットワークでは、Azure Front Door Standard / Premium がネイティブの gRPC に対応してパブリックプレビューとなり、特定のサービスやメソッドへの呼び出しのルーティングとトラフィックの分散ができるようになりました。あわせて Azure Front Door のエッジアクション (エッジでのサーバーレスコンピューティング) が一般提供となり、クライアントのリクエスト/レスポンス処理中に軽量な JavaScript 関数を実行してリアルタイムの判断ができます。Azure Route Server は IPv4/IPv6 デュアルスタックモードがパブリックプレビューとなり、対応するハイブリッドネットワーク接続で両方のアドレスファミリーの経路交換ができるようになりました (既存の IPv4 接続は変わりません)。AKS では、AI ワークロード向けの分散リードスルーキャッシュ Distributed accelerator for cloud storage (DACS) がパブリックプレビューになり、クラスター内で動作してノードのローカル NVMe ディスクを使います。
+"topics":
+  - "サーバーレス: Azure Functions が isolated worker モデルで .NET 11 に対応して一般提供、新しいプロジェクト SDK (Azure.Functions.Sdk) が必須に、現時点では C# のみ (F# は一時的に未対応)"
+  - "アプリサービス: App Service のプラン単位でのアプリ・デプロイスロットの開始/停止がパブリックプレビュー (Premium v4・Premium メモリ最適化 v4、操作は非同期)"
+  - "ネットワーク: Azure Front Door Standard / Premium がネイティブ gRPC に対応してパブリックプレビュー、サービスやメソッド単位のルーティングとトラフィック分散が可能"
+  - "ネットワーク: Azure Front Door のエッジアクション (エッジでのサーバーレスコンピューティング) が一般提供、リクエスト/レスポンス処理中に軽量な JavaScript 関数を実行"
+  - "ネットワーク: Azure Route Server の IPv4/IPv6 デュアルスタック対応がパブリックプレビュー (既存の IPv4 接続は変更なし)"
+  - "コンテナ: AKS の AI ワークロード向け分散リードスルーキャッシュ DACS がパブリックプレビュー、クラスター内で動作しノードのローカル NVMe ディスクを利用"
