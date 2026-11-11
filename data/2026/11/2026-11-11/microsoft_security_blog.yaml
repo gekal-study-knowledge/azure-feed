@@ -1,0 +1,9 @@
+"entries":
+  "f3b6601a5f34a34acfa427087f488251":
+    "id": "f3b6601a5f34a34acfa427087f488251"
+    "title": "Detecting sleeper agents hiding in AI model neurons"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/"
+    "published": "2026-11-11 08:00:00"
+    "fetched": "2026-11-11 10:32:19"
+    "summary": "<p>Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/\">Detecting sleeper agents hiding in AI model neurons</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-11-11 10:32:19 JST"
