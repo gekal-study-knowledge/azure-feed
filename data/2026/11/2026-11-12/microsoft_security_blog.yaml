@@ -1,0 +1,16 @@
+"entries":
+  "51840df85a179bb6f94348d3333d45fc":
+    "id": "51840df85a179bb6f94348d3333d45fc"
+    "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/"
+    "published": "2026-11-12 04:49:57"
+    "fetched": "2026-11-12 08:10:18"
+    "summary": "<p>Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/\">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+  "5784cf0428b561f5726442e79f29e3fb":
+    "id": "5784cf0428b561f5726442e79f29e3fb"
+    "title": "Lessons from 59 Linux Kernel Bug Reports"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/"
+    "published": "2026-11-12 01:55:00"
+    "fetched": "2026-11-12 08:10:18"
+    "summary": "<p>Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/\">Lessons from 59 Linux Kernel Bug Reports</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-11-12 08:10:18 JST"
