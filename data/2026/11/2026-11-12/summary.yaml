@@ -1,15 +1,20 @@
 "date": "2026-11-12"
-"generated_at": "2026-11-12 22:01:36 JST"
+"generated_at": "2026-11-13 06:01:12 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 4
+"article_count": 7
 "sources":
   - "apps_on_azure_blog"
+  - "azure_infrastructure_blog"
+  - "azure_networking_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 3 ソースから 4 本で、Azure Front Door WAF の新機能と、Microsoft Security Blog の Linux を狙う脅威の研究が中心でした。Azure Front Door Premium の Web Application Firewall (WAF) でレート制限のグループ化がパブリックプレビューとなりました。既定ではレート制限ルールはクライアント IP アドレスごとに要求を数えるため、多数の IP に分散させた攻撃はこれをすり抜けられますが、グループ化によってこうした分散攻撃に対処しやすくなります。Microsoft Security Blog では、Microsoft FORGE Lab の研究者がコードネーム MDASH を使って Linux カーネルの脆弱性を調査し、59 件のバグ報告をアップストリームに送り、33 件に CVE が割り当てられ、38 件の修正がマージされた成果が報告されました。8 件のローカル root 権限昇格のエクスプロイトを実証したほか、AI が生成した発見を検証済みの脆弱性とアップストリームの修正につなげるうえでの課題も検討しています。同ブログではまた、侵害された Linux サーバーに攻撃者が GSocket を展開し、元の脆弱性が修正されたあとも暗号化されたリモートアクセス (C2) を維持している手口と、その検出・調査・修復の方法が解説されました。Apps on Azure Blog では、VS Code で Azure アプリを作るガイド付き Copilot エクスペリエンスが JavaScript / TypeScript に続いて Python に正式対応したことが発表されています。
+  この日は 5 ソースから 7 本で、Azure Front Door WAF と Application Gateway のネットワーク機能、Azure Container Apps 関連の発表、Microsoft Security Blog の Linux を狙う脅威の研究が中心でした。Azure Front Door Premium の Web Application Firewall (WAF) でレート制限のグループ化がパブリックプレビューとなりました。既定ではレート制限ルールはクライアント IP アドレスごとに要求を数えるため、多数の IP に分散させた攻撃はこれをすり抜けられますが、グループ化によってこうした分散攻撃に対処しやすくなります。Azure Networking Blog では、Azure Application Gateway で A/B テストや API のバージョン管理、クライアントやテナントごとの振り分け、予約容量と従量課金の容量にまたがる AI モデルの提供などに向けて、各要求の転送先とトラフィックの分散をより細かく制御できるようになったことが紹介されました。Azure Migrate では評価対象のワークロードとして Azure Container Apps が追加され、既存の Web アプリについて移行の準備状況、移行要件、サイズの推奨、コスト見積もりを得られるようになりました。Azure Infrastructure Blog では、ローカルで動く Streamlit の AI アプリをインフラ担当者の視点で Azure Container Apps にデプロイする手順が解説されています。Microsoft Security Blog では、Microsoft FORGE Lab の研究者がコードネーム MDASH を使って Linux カーネルの脆弱性を調査し、59 件のバグ報告をアップストリームに送り、33 件に CVE が割り当てられ、38 件の修正がマージされた成果が報告されました。8 件のローカル root 権限昇格のエクスプロイトを実証したほか、AI が生成した発見を検証済みの脆弱性とアップストリームの修正につなげるうえでの課題も検討しています。同ブログではまた、侵害された Linux サーバーに攻撃者が GSocket を展開し、元の脆弱性が修正されたあとも暗号化されたリモートアクセス (C2) を維持している手口と、その検出・調査・修復の方法が解説されました。Apps on Azure Blog では、VS Code で Azure アプリを作るガイド付き Copilot エクスペリエンスが JavaScript / TypeScript に続いて Python に正式対応したことが発表されています。
 "topics":
   - "ネットワーク・セキュリティ: Azure Front Door Premium の WAF でレート制限のグループ化がパブリックプレビュー (クライアント IP ごとの計数をすり抜ける分散攻撃への対策)"
+  - "ネットワーク: Azure Application Gateway で要求ごとの転送先とトラフィック分散をより細かく制御 (A/B テスト、API バージョン、テナント別、AI モデルの容量振り分け)"
+  - "移行: Azure Migrate の評価対象ワークロードに Azure Container Apps を追加 (準備状況・移行要件・サイズ推奨・見積もり)"
+  - "コンテナ: Streamlit の AI アプリを Azure Container Apps にデプロイする手順"
   - "脅威研究: Microsoft FORGE Lab が MDASH で Linux カーネルを調査し、59 件のバグ報告・33 件の CVE・38 件の修正マージ、8 件のローカル root 権限昇格を実証"
   - "脅威研究: 侵害された Linux サーバーで GSocket を悪用した暗号化 C2 の手口と検出・調査・修復"
   - "開発ツール: VS Code のガイド付き Copilot エクスペリエンスが Python に対応"
