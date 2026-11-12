@@ -1,0 +1,13 @@
+"date": "2026-11-13"
+"generated_at": "2026-11-13 08:09:17 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 ソースから 3 本で、Azure Monitor と Azure SQL Managed Instance の監視機能、コーディングエージェントを狙うサプライチェーン攻撃の研究が中心でした。Azure Monitor ワークスペースでは、観測された利用パターンに基づいて取り込み上限 (クォータの上限) を動的に調整し、健全な取り込みを保つワークスペース単位の自動スケーリングがパブリックプレビューになりました。Azure SQL Managed Instance では、Microsoft が運用するパフォーマンス監視のパブリックプレビューが始まりました。ビジネスクリティカルな SQL Managed Instance のワークロードを監視するために、独自スクリプトや別建ての監視ツールに頼る必要がなくなります。Microsoft Security Blog では、Microsoft Defender Research と AI Red Team が、汚染されたデータセットや汚染されたモデルチェックポイントによってコーディングエージェントが乗っ取られ、リモートコード実行などの悪意ある動作につながりうる学習後 (post-training) のサプライチェーン攻撃を解説しました。
+"topics":
+  - "オブザーバビリティ: Azure Monitor ワークスペースの取り込み上限の自動スケーリングがパブリックプレビュー、利用パターンに応じてクォータ上限を動的に調整"
+  - "データベース: Azure SQL Managed Instance で Microsoft 運用のパフォーマンス監視がパブリックプレビュー、独自スクリプトや別建ての監視ツールが不要に"
+  - "セキュリティ: 汚染されたデータセットやモデルチェックポイントでコーディングエージェントを乗っ取る学習後 (post-training) サプライチェーン攻撃の研究 (Microsoft Defender Research と AI Red Team)"
