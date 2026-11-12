@@ -1,0 +1,16 @@
+"entries":
+  "570ce4ed10b3bceeb7d42f0499fbc40f":
+    "id": "570ce4ed10b3bceeb7d42f0499fbc40f"
+    "title": "[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace"
+    "link": "https://azure.microsoft.com/updates?id=578207"
+    "published": "2026-11-13 03:23:52"
+    "fetched": "2026-11-13 06:11:43"
+    "summary": "Auto scaling introduces a\nper-workspace capability in Azure Monitor Workspace (AMW) to automatically\nscale ingestion limits based on observed usage patterns. When enabled, the\nsystem dynamically adjusts ingestion limits (quota ceiling) to maintain healthy"
+  "9f7a4dbf8d8a244fcc810149cd63bff7":
+    "id": "9f7a4dbf8d8a244fcc810149cd63bff7"
+    "title": "[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance"
+    "link": "https://azure.microsoft.com/updates?id=574158"
+    "published": "2026-11-13 01:59:40"
+    "fetched": "2026-11-13 06:11:43"
+    "summary": "The public preview of Microsoft-managed performance\nmonitoring for Azure SQL Managed Instance is now available. Customers monitoring business-critical SQL Managed Instance\nworkloads often rely on custom scripts and disconnected monitoring tools. This\nrequ"
+"last_updated": "2026-11-13 06:11:43 JST"

@@ -1,0 +1,9 @@
+"entries":
+  "b39adab8c8a5117056f7b9b9b9d48c0e":
+    "id": "b39adab8c8a5117056f7b9b9b9d48c0e"
+    "title": "Trained to betray: How post-training supply chain attacks hijack coding agents"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/"
+    "published": "2026-11-13 02:00:00"
+    "fetched": "2026-11-13 06:11:44"
+    "summary": "<p>Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/\">Trained to betray: How post-training supply chain attacks hijack coding agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-11-13 06:11:44 JST"
