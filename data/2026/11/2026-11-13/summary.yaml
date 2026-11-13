@@ -1,13 +1,17 @@
 "date": "2026-11-13"
-"generated_at": "2026-11-13 08:09:17 JST"
+"generated_at": "2026-11-14 08:09:59 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 3
+"article_count": 8
 "sources":
+  - "azure_infrastructure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 2 ソースから 3 本で、Azure Monitor と Azure SQL Managed Instance の監視機能、コーディングエージェントを狙うサプライチェーン攻撃の研究が中心でした。Azure Monitor ワークスペースでは、観測された利用パターンに基づいて取り込み上限 (クォータの上限) を動的に調整し、健全な取り込みを保つワークスペース単位の自動スケーリングがパブリックプレビューになりました。Azure SQL Managed Instance では、Microsoft が運用するパフォーマンス監視のパブリックプレビューが始まりました。ビジネスクリティカルな SQL Managed Instance のワークロードを監視するために、独自スクリプトや別建ての監視ツールに頼る必要がなくなります。Microsoft Security Blog では、Microsoft Defender Research と AI Red Team が、汚染されたデータセットや汚染されたモデルチェックポイントによってコーディングエージェントが乗っ取られ、リモートコード実行などの悪意ある動作につながりうる学習後 (post-training) のサプライチェーン攻撃を解説しました。
+  この日は 3 ソースから 8 本で、Azure Monitor と Azure SQL Managed Instance の監視機能、コーディングエージェントを狙うサプライチェーン攻撃の研究が中心でした。Azure Monitor ワークスペースでは、観測された利用パターンに基づいて取り込み上限 (クォータの上限) を動的に調整し、健全な取り込みを保つワークスペース単位の自動スケーリングがパブリックプレビューになりました。Azure SQL Managed Instance では、Microsoft が運用するパフォーマンス監視のパブリックプレビューが始まりました。ビジネスクリティカルな SQL Managed Instance のワークロードを監視するために、独自スクリプトや別建ての監視ツールに頼る必要がなくなります。Microsoft Security Blog では、Microsoft Defender Research と AI Red Team が、汚染されたデータセットや汚染されたモデルチェックポイントによってコーディングエージェントが乗っ取られ、リモートコード実行などの悪意ある動作につながりうる学習後 (post-training) のサプライチェーン攻撃を解説しました。あわせて Azure Front Door の認証機能が強化されました。Azure Front Door Premium で Auth Policy による JSON Web Token (JWT) の検証がパブリックプレビューとなり、Microsoft Entra ID が発行したベアラートークンを、リクエストが API やウェブアプリケーションに届く前にエッジで検証できます。同じ Premium で相互 TLS (mTLS、クライアント証明書認証) が一般提供となり、X.509 クライアント証明書を使って B2B や IoT、金融などの機密性の高いアプリケーションと API を保護できるようになりました。Azure Infrastructure Blog では、11 月 17〜20 日にサンフランシスコの Moscone Center とオンラインで開催される Microsoft Ignite 2026 に向けて、AMD・NVIDIA・Intel との共同セッションの案内が 3 本出ました。AMD の記事では AI トレーニング前のデータ準備向け Azure HDv2 シリーズ、推論とエージェント向けの AMD Instinct MI300X (Microsoft Foundry のマネージドエンドポイントまたは Azure ND MI300X v5 VM として一般提供)、MI455X アクセラレーターという 3 種類の専用 VM が紹介され、NVIDIA の記事では Microsoft が 3 月に NVIDIA Vera Rubin NVL72 システムを検証用に立ち上げた最初のクラウドとなり、8 月に最初の本番システムを提供したことが振り返られています。Intel の記事ではシリコン、セキュリティ、コンフィデンシャルコンピューティング、エッジ AI のセッションが案内されました。
 "topics":
   - "オブザーバビリティ: Azure Monitor ワークスペースの取り込み上限の自動スケーリングがパブリックプレビュー、利用パターンに応じてクォータ上限を動的に調整"
   - "データベース: Azure SQL Managed Instance で Microsoft 運用のパフォーマンス監視がパブリックプレビュー、独自スクリプトや別建ての監視ツールが不要に"
   - "セキュリティ: 汚染されたデータセットやモデルチェックポイントでコーディングエージェントを乗っ取る学習後 (post-training) サプライチェーン攻撃の研究 (Microsoft Defender Research と AI Red Team)"
+  - "ネットワーク: Azure Front Door Premium の Auth Policy による JWT 検証がパブリックプレビュー、Microsoft Entra ID 発行のベアラートークンをエッジで検証"
+  - "ネットワーク: Azure Front Door Premium の相互 TLS (mTLS / クライアント証明書認証) が一般提供、X.509 証明書で B2B・IoT・金融向けアプリと API を保護"
+  - "イベント: Microsoft Ignite 2026 (11 月 17〜20 日、サンフランシスコとオンライン) に向けた AMD・NVIDIA・Intel との共同セッション案内、AMD Instinct MI300X / MI455X や NVIDIA Vera Rubin NVL72 の状況も紹介"
