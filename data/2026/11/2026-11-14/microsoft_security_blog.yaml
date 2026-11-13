@@ -1,0 +1,9 @@
+"entries":
+  "a329b647a513d98c3e7b785f1461336f":
+    "id": "a329b647a513d98c3e7b785f1461336f"
+    "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions"
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/"
+    "published": "2026-11-14 06:31:44"
+    "fetched": "2026-11-14 08:58:42"
+    "summary": "<p>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/\">SCKit abuses ScreenConnect to deploy remote access and target technician sessions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>"
+"last_updated": "2026-11-14 08:58:42 JST"

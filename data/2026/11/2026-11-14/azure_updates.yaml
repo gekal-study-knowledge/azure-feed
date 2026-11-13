@@ -1,0 +1,9 @@
+"entries":
+  "53d026c5129ff277d613209eeaecb95a":
+    "id": "53d026c5129ff277d613209eeaecb95a"
+    "title": "Retirement: Azure Data Share will be retired on November 12, 2029"
+    "link": "https://azure.microsoft.com/updates?id=578818"
+    "published": "2026-11-14 04:54:45"
+    "fetched": "2026-11-14 08:58:42"
+    "summary": "Azure Data Share will retire on November 12, 2029. Before that date, transition your data sharing workloads to Microsoft Fabric, which offers External data sharing, Cross tenant delegated shortcuts and IQ share or an appropriate data-source-specific shari"
+"last_updated": "2026-11-14 08:58:42 JST"
