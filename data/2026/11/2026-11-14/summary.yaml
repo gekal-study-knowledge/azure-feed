@@ -1,0 +1,12 @@
+"date": "2026-11-14"
+"generated_at": "2026-11-14 10:35:20 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 ソースから 2 本で、Azure Data Share の廃止告知とリモート管理ツールを悪用する攻撃の解説でした。Azure Data Share は 2029 年 11 月 12 日に廃止され、それまでにデータ共有のワークロードを、外部データ共有・テナント間の委任ショートカット・IQ share を備える Microsoft Fabric か、データソースごとの適切な共有手段へ移行するよう案内されています。Microsoft Security Blog では、SCKit が ScreenConnect を悪用して不正なリモートアクセスを展開し技術者のセッションを狙う攻撃チェーンを取り上げ、緩和策と Microsoft Defender XDR でのハンティング方法を紹介しました。
+"topics":
+  - "廃止: Azure Data Share は 2029-11-12 に廃止、Microsoft Fabric (外部データ共有・テナント間の委任ショートカット・IQ share) などへの移行を案内"
+  - "セキュリティ: SCKit が ScreenConnect を悪用して不正なリモートアクセスを展開し技術者のセッションを標的に、緩和策と Defender XDR でのハンティングを解説"
