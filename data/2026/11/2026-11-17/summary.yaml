@@ -1,15 +1,15 @@
 "date": "2026-11-17"
-"generated_at": "2026-11-17 22:01:52 JST"
+"generated_at": "2026-11-18 06:02:03 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 6
+"article_count": 7
 "sources":
   - "azure_architecture_blog"
   - "azure_infrastructure_blog"
   - "microsoft_security_blog"
 "overview": |
-  この日は 3 ソースから 6 本で、ソブリンクラウドと Microsoft Ignite 関連の記事、AI のアーキテクチャ事例、フィッシングキャンペーンの脅威情報が並びました。Microsoft Threat Intelligence は、Microsoft 365 の障害を装ったおとりを使う大規模なフィッシングキャンペーンが世界の複数業種の組織を狙っていることを報告しています。Infrastructure Blog では、ソブリンクラウドで運用者による本番アクセスのイベントを改ざん検知可能な検証用記録に変える Production Touch Ledger (PTL) が解説され、2026 年 10 月時点で段階的に展開中であり、現在は EU と EFTA の Data Guardian ワークフローに関わるシステムの本番アクセスイベントを対象としています。また Microsoft Ignite 2026 に合わせて、Kubernetes Center にマルチクラスターの更新と分析、Fleet によるリソース配置、ノードと Pod の詳細な監視、AI Manager といった新しい体験が追加されたことが発表され、Ignite でソブリン関連のセッションやデモを探すためのガイドも公開されました。Architecture Blog では、美術館・図書館・アーカイブや銀行、土地登記などを対象に記録と来歴をエージェント型 AI で扱う Lantern のホワイトペーパーと、ポルトガルの Decree-Law 82/2021 などの山火事予防の義務を背景に、林業の計画担当者が AI で燃料削減作業の優先順位を付ける方法が紹介されました。
+  この日は 3 ソースから 7 本で、ソブリンクラウドと Microsoft Ignite 関連の記事、AI のアーキテクチャ事例、フィッシングキャンペーンの脅威情報が並びました。Microsoft Threat Intelligence は、Microsoft 365 の障害を装ったおとりを使う大規模なフィッシングキャンペーンが世界の複数業種の組織を狙っていることを報告しています。Infrastructure Blog では、ソブリンクラウドで運用者による本番アクセスのイベントを改ざん検知可能な検証用記録に変える Production Touch Ledger (PTL) が解説され、2026 年 10 月時点で段階的に展開中であり、現在は EU と EFTA の Data Guardian ワークフローに関わるシステムの本番アクセスイベントを対象としています。また Microsoft Ignite 2026 に合わせて、Kubernetes Center にマルチクラスターの更新と分析、Fleet によるリソース配置、ノードと Pod の詳細な監視、AI Manager といった新しい体験が追加されたことが発表され、AI エージェントを運用する一方でエージェントに運用を手伝わせるという Azure のエージェント型運用の取り組みも紹介されたほか、Ignite でソブリン関連のセッションやデモを探すためのガイドも公開されました。Architecture Blog では、美術館・図書館・アーカイブや銀行、土地登記などを対象に記録と来歴をエージェント型 AI で扱う Lantern のホワイトペーパーと、ポルトガルの Decree-Law 82/2021 などの山火事予防の義務を背景に、林業の計画担当者が AI で燃料削減作業の優先順位を付ける方法が紹介されました。
 "topics":
   - "脅威情報: Microsoft 365 の障害を装ったおとりによる大規模フィッシングキャンペーンが複数業種を標的に"
   - "ソブリンクラウド: Production Touch Ledger (PTL) で運用者の本番アクセスを改ざん検知可能な記録に (2026 年 10 月時点で段階展開中、EU / EFTA の Data Guardian ワークフローが対象)、Ignite のソブリン関連セッション案内"
-  - "Kubernetes: Ignite 2026 で Kubernetes Center にマルチクラスター更新、Fleet によるリソース配置、監視の強化、AI Manager を追加"
+  - "Ignite 2026: Kubernetes Center にマルチクラスター更新、Fleet によるリソース配置、監視の強化、AI Manager を追加、Azure のエージェント型運用の取り組み"
   - "アーキテクチャ: 記録と来歴のためのエージェント型 AI「Lantern」、林業の燃料削減作業を AI で優先順位付け"

@@ -1,0 +1,14 @@
+"date": "2026-11-18"
+"generated_at": "2026-11-18 06:02:03 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 8
+"sources":
+  - "azure_networking_blog"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 ソースから 8 本で、Azure Networking Blog の新機能発表とエージェント時代のセキュリティが中心でした。Networking Blog では、8 月にパブリックプレビューとなった AWS との Azure Multicloud Interconnect を踏まえたマルチクラウドとラストマイルの接続の取り組み、Azure Bastion が特権セッションの録画を AI で分析してリスクのある操作を見つけやすくする機能、LLM 呼び出しやエージェント間の委任、MCP ツール、SaaS などにまたがるエージェントのトラフィックを扱う Agent Grid の紹介、AI エージェントを守り AI で守るという Azure Firewall の次の段階、脆弱性の公表からパッチ適用までの時間を防御側に取り戻すネットワーク防御の考え方、A/B テストや API のバージョン、クライアントやテナント、AI モデルの予約容量と従量課金などに応じてリクエストの振り分けをより細かく制御できるようになった Azure Application Gateway の負荷分散が取り上げられました。Microsoft Security Blog では、デバイスコードフィッシングが GitHub Copilot CLI を例に AI コーディングエージェントにも及びうることを示したラボ研究と、Project Perception の更新と新しい Microsoft Security のサイバースタックによるエージェント時代のセキュリティが紹介されました。
+"topics":
+  - "ネットワーク: Azure Multicloud Interconnect (AWS、8 月からパブリックプレビュー) を軸にしたマルチクラウドとラストマイル接続、Application Gateway のきめ細かなトラフィック振り分け"
+  - "ネットワークセキュリティ: Azure Firewall の AI 対応の新章、Agent Grid によるエージェントトラフィックの管理、パッチ適用までの時間を稼ぐ防御、Azure Bastion の AI による特権セッション録画のレビュー"
+  - "セキュリティ研究: デバイスコード認証のフィッシングが AI コーディングエージェント (GitHub Copilot CLI を例示) に及ぶリスク"
+  - "製品: Project Perception の更新と Microsoft Security の新しいサイバースタック"
