@@ -1,0 +1,10 @@
+"date": "2026-11-16"
+"generated_at": "2026-11-17 22:01:52 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 1
+"sources":
+  - "apps_on_azure_blog"
+"overview": |
+  この日は Apps on Azure Blog の 1 本で、Pydantic AI のエージェントが Azure Durable Task Scheduler を使えるようになる Azure Durable Task 統合が紹介されました。ワーカーの再起動をまたいで進行状況を保持し、中断された実行を復旧し、アクティビティを動かし続けることなく人間の承認を待てるようになり、既存のエージェントに機能を追加して Durable Task のオーケストレーターから呼び出すだけで、復旧はランタイムに任せられます。
+"topics":
+  - "AI エージェント: Pydantic AI 向け Azure Durable Task 統合 (Durable Task Scheduler で進行状況の保持、中断からの復旧、人間の承認待ち)"
