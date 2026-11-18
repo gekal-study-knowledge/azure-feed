@@ -90,4 +90,11 @@
     "published": "2026-06-05 01:30:52"
     "fetched": "2026-08-27 21:13:48"
     "summary": "Azure Monitor now includes Service Level Indicators (SLIs) and Service Level Objectives (SLOs), giving teams a clearer way to measure how customers actually experience their applications. Instead of relying only on infrastructure signals like CPU or isola"
-"last_updated": "2026-08-27 21:13:48 JST"
+  "d5600c981572b348478a8ba64e9bac0d":
+    "id": "d5600c981572b348478a8ba64e9bac0d"
+    "title": "[Launched] Generally Available: Semantic chunking and AI-generated image descriptions with Azure Content Understanding in Azure AI Search"
+    "link": "https://azure.microsoft.com/updates?id=563661"
+    "published": "2026-06-05 04:00:34"
+    "fetched": "2026-11-18 10:24:32"
+    "summary": "The Azure Content Understanding skill in Azure AI Search is generally available for semantic chunking and AI-generated image descriptions, for use with Foundry IQ and Azure AI Search. The skill produces semantically coherent chunks with structured Markdow"
+"last_updated": "2026-11-18 10:24:32 JST"

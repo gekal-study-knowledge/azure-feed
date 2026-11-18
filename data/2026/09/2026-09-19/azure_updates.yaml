@@ -55,4 +55,11 @@
     "published": "2026-09-19 04:10:53"
     "fetched": "2026-09-19 06:19:35"
     "summary": "In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agents often need to run on a schedule or when a business event occurs, and today that means assembling exter"
-"last_updated": "2026-09-19 06:19:35 JST"
+  "57cec38cecde3025639d7953352edc5e":
+    "id": "57cec38cecde3025639d7953352edc5e"
+    "title": "[Launched] Generally Available: Network egress controls for hosted agents in Microsoft Foundry"
+    "link": "https://azure.microsoft.com/updates?id=571821"
+    "published": "2026-09-19 02:23:21"
+    "fetched": "2026-11-18 10:24:32"
+    "summary": "Network egress controls govern the outbound connections a Foundry hosted agent can make, is generally available. Ordered rules match on destination host (FQDN, with wildcards such as *.contoso.com) and apply an Allow, Deny, or Rewrite (redirect to another"
+"last_updated": "2026-11-18 10:24:32 JST"
