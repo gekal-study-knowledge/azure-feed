@@ -1,0 +1,23 @@
+"entries":
+  "c9c5fdca214370e958f9afb6771349d4":
+    "id": "c9c5fdca214370e958f9afb6771349d4"
+    "title": "[In preview] Public Preview: PostgreSQL 19 on Azure Database for PostgreSQL"
+    "link": "https://azure.microsoft.com/updates?id=574587"
+    "published": "2026-11-20 08:25:49"
+    "fetched": "2026-11-20 08:58:11"
+    "summary": "You can now try PostgreSQL 19 in public preview on Azure Database for PostgreSQL – Flexible Server in the East Asia region. With this preview, you can provision new PostgreSQL 19 servers through the Azure portal and Azure CLI, enabling you to test major v"
+  "e489644ff97af14b06530a8b1bd36105":
+    "id": "e489644ff97af14b06530a8b1bd36105"
+    "title": "[In preview] Public Preview: Zone resilience for Azure VMs"
+    "link": "https://azure.microsoft.com/updates?id=581254"
+    "published": "2026-11-20 05:34:19"
+    "fetched": "2026-11-20 08:58:11"
+    "summary": "Zone resilience for Azure VMs, now in public preview, lets you recover an eligible zonal VM in another availability zone in the same region, retaining the existing VM resource and configuration.ZRS managed disks replicate data synchronously across zones b"
+  "67782d2858bd4ef716b908cf1b23a85b":
+    "id": "67782d2858bd4ef716b908cf1b23a85b"
+    "title": "[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL"
+    "link": "https://azure.microsoft.com/updates?id=579579"
+    "published": "2026-11-20 02:25:28"
+    "fetched": "2026-11-20 08:58:11"
+    "summary": "Database Agent helps you detect, understand, and respond to database health and performance issues more quickly in Azure Database for PostgreSQL. It proactively monitors database health to identify issues, brings together database metrics, configuration,"
+"last_updated": "2026-11-20 08:58:11 JST"
