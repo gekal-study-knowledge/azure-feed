@@ -1,0 +1,30 @@
+"entries":
+  "00500553315bc6c9f1bce6095208926a":
+    "id": "00500553315bc6c9f1bce6095208926a"
+    "title": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF"
+    "link": "https://azure.microsoft.com/updates?id=581604"
+    "published": "2026-11-19 03:27:29"
+    "fetched": "2026-11-19 09:48:58"
+    "summary": "Announcing the public preview\nof the AI bot ruleset for Azure Web Application Firewall (WAF) on Azure Front\nDoor Premium. AI crawlers and agents visit your site for different reasons,\nand you may want to allow some but not others. Robots.txt only works wh"
+  "ff12d7ac52c6d72d9d90c2711cacf0f6":
+    "id": "ff12d7ac52c6d72d9d90c2711cacf0f6"
+    "title": "Announcing: The new Azure Databricks on Azure Government is now in Beta"
+    "link": "https://azure.microsoft.com/updates?id=581645"
+    "published": "2026-11-19 03:01:03"
+    "fetched": "2026-11-19 09:48:58"
+    "summary": "A new Azure Databricks environment is now available in Beta on\nMicrosoft Azure Government. It brings the modern data and AI platform from\nglobal Azure to U.S. public sector agencies and their partners, delivered as a\nfirst-party Azure service. The Beta in"
+  "38a55d646a1197adcd06c35d87a5b134":
+    "id": "38a55d646a1197adcd06c35d87a5b134"
+    "title": "[Launched] Generally Available: Cross-subscription backup for Azure Virtual Machines in Azure Backup"
+    "link": "https://azure.microsoft.com/updates?id=581048"
+    "published": "2026-11-19 03:00:04"
+    "fetched": "2026-11-19 09:48:58"
+    "summary": "Azure Backup now supports cross-subscription backup for Azure Virtual Machines, enabling customers to protect VMs using a Recovery Services vault located in a different Azure subscription within the same tenant.This capability allows organizations to cent"
+  "c93d32203c1798e84de3c647191abc51":
+    "id": "c93d32203c1798e84de3c647191abc51"
+    "title": "[In preview] Public Preview: AI-powered application and database modernization with Modernize CLI"
+    "link": "https://azure.microsoft.com/updates?id=579943"
+    "published": "2026-11-19 02:58:45"
+    "fetched": "2026-11-19 09:48:58"
+    "summary": "Modernize CLI brings application and database modernization\ntogether as one connected, agentic journey. It assesses application\narchitecture, dependencies, and cloud readiness while discovering the databases\nthe application relies on and invoking speciali"
+"last_updated": "2026-11-19 09:48:58 JST"
