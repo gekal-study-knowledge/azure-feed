@@ -1,0 +1,17 @@
+"date": "2026-11-19"
+"generated_at": "2026-11-19 22:02:16 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 7
+"sources":
+  - "apps_on_azure_blog"
+  - "azure_architecture_blog"
+  - "azure_updates"
+"overview": |
+  この日は 3 ソースから 7 本と少なめで、マルチクラウド運用とモダナイゼーション、バックアップ、セキュリティの更新が中心でした。Azure SRE Agent は AWS と Google Cloud にネイティブ対応し、Azure Container Apps で動く API のエラーが Amazon DynamoDB 側に起因するかどうかのように、クラウドをまたいで証拠をたどる調査ができるようになったことが解説されました。モダナイゼーションでは、アプリケーションのアーキテクチャ・依存関係・クラウド対応状況を評価しつつ、アプリが依存するデータベースも検出して移行をつなげるエージェント型の Modernize CLI がパブリックプレビューとなりました。Azure Backup は同じテナント内の別サブスクリプションにある Recovery Services コンテナーで Azure Virtual Machines を保護できるサブスクリプション間バックアップを一般提供とし、米国政府機関とそのパートナー向けに Azure Government 上の新しい Azure Databricks 環境がベータで提供されました。セキュリティでは、Azure Front Door Premium の Web Application Firewall に、AI クローラーやエージェントを目的ごとに許可・拒否できる AI ボットルールセットがパブリックプレビューで加わっています。そのほか、Azure ポータルから Gateway API ベースのイングレスを有効化・管理できるようになったことと、認可・変更検出・イベント配信を肩代わりする Azure Functions のコネクタの内部アーキテクチャが紹介されました。
+"topics":
+  - "運用: Azure SRE Agent が AWS と Google Cloud にネイティブ対応し、クラウドをまたぐ調査が可能に"
+  - "モダナイゼーション: アプリとデータベースをまとめて評価・移行するエージェント型 Modernize CLI (パブリックプレビュー)"
+  - "バックアップ: Azure Backup の Azure VM のサブスクリプション間バックアップが一般提供 (同一テナント内)"
+  - "データ: Azure Government 上の新しい Azure Databricks がベータ"
+  - "セキュリティ: Azure Front Door Premium WAF の AI ボットルールセット (パブリックプレビュー)"
+  - "アプリ基盤: Azure ポータルでの Gateway API の有効化・管理、Azure Functions のコネクタのアーキテクチャ解説"
