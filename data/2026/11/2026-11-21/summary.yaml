@@ -1,0 +1,12 @@
+"date": "2026-11-21"
+"generated_at": "2026-11-21 08:08:04 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 2
+"sources":
+  - "azure_updates"
+  - "microsoft_security_blog"
+"overview": |
+  この日は 2 ソースから 2 本で、コンテナー向けのネットワーク保護と SIEM の評価が話題でした。Azure Firewall for Containers がパブリックプレビューとなり、Azure Firewall の保護をコンテナー化されたワークロードまで広げて、コンテナー環境のネットワークトラフィックを一元的に守れるようになりました。Azure Firewall の機能をコンテナーのネットワーク構成の一部として利用できる形です。Microsoft Security Blog では、Microsoft が 2026 年の Gartner Magic Quadrant (SIEM 部門) で再びリーダーに選ばれたことが紹介されました。
+"topics":
+  - "ネットワーク: Azure Firewall for Containers がパブリックプレビュー、コンテナー環境のトラフィックを一元的に保護"
+  - "評価: Microsoft が 2026 年の Gartner Magic Quadrant (SIEM 部門) で再びリーダーに選出"

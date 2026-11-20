@@ -1,17 +1,17 @@
 "date": "2026-06-03"
-"generated_at": "2026-11-18 22:04:03 JST"
+"generated_at": "2026-11-21 08:08:04 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 35
+"article_count": 36
 "sources":
   - "azure_sdk_blog"
   - "azure_updates"
 "overview": |
-  この日は Build 2026 前後の大量アップデートで、Azure Updates 34 件と Azure SDK Blog 1 本が公開されました。AI 分野では Azure AI Translator の PDF バッチ翻訳の改善、画像ファイルの翻訳、Office 文書内の画像翻訳、統合テキスト翻訳 API がいずれも一般提供となり、Azure AI Search は OneLake カタログ統合をナレッジソースとして GA し、Foundry IQ では MCP サーバーを読み取り専用のフェデレーションナレッジソースとして登録できる機能が一般提供になりました。インフラでは Azure Linux 4.0 のパブリックプレビュー、AKS 向けの Azure Container Linux の一般提供、Cobalt 200 Arm ベース VM シリーズのプレビュー、VMSS Flex の自動 OS イメージアップグレードが登場しました。監視では Azure VM と Arc サーバー向けの OpenTelemetry メトリクスが GA、ログ検索アラートの動的しきい値も一般提供です。API Management は Premium v2 / Standard v2 でワイルドカードカスタムホスト名に対応し、複数 LLM プロバイダーを扱う統合モデル API のプレビューも始まりました。バックアップでは、Azure VM 上の SQL Server について、ディスクスナップショットとネイティブのトランザクションログバックアップを組み合わせたスナップショットベースのバックアップが一般提供となり、Cosmos DB の Vaulted バックアップもプレビューで登場しました。このほか Azure Container Apps Sandboxes が一般提供となりました。エージェント型アプリケーション、マルチテナントのプラットフォーム、開発環境、CI/CD システムを作るチームは、信頼できないコードを安全に実行し、セッションをまたいで状態を保ち、突発的な需要をさばくために独自のインフラストラクチャを継ぎ合わせる必要がありましたが、それを置き換えるものです。
+  この日は Build 2026 前後の大量アップデートで、Azure Updates 35 件と Azure SDK Blog 1 本が公開されました。AI 分野では Azure AI Translator の PDF バッチ翻訳の改善、画像ファイルの翻訳、Office 文書内の画像翻訳、統合テキスト翻訳 API がいずれも一般提供となり、Azure AI Search は OneLake カタログ統合をナレッジソースとして GA し、Foundry IQ では MCP サーバーを読み取り専用のフェデレーションナレッジソースとして登録できる機能が一般提供になりました。インフラでは Azure Linux 4.0 のパブリックプレビュー、AKS 向けの Azure Container Linux の一般提供、Cobalt 200 Arm ベース VM シリーズのプレビューと一般提供、VMSS Flex の自動 OS イメージアップグレードが登場しました。監視では Azure VM と Arc サーバー向けの OpenTelemetry メトリクスが GA、ログ検索アラートの動的しきい値も一般提供です。API Management は Premium v2 / Standard v2 でワイルドカードカスタムホスト名に対応し、複数 LLM プロバイダーを扱う統合モデル API のプレビューも始まりました。バックアップでは、Azure VM 上の SQL Server について、ディスクスナップショットとネイティブのトランザクションログバックアップを組み合わせたスナップショットベースのバックアップが一般提供となり、Cosmos DB の Vaulted バックアップもプレビューで登場しました。このほか Azure Container Apps Sandboxes が一般提供となりました。エージェント型アプリケーション、マルチテナントのプラットフォーム、開発環境、CI/CD システムを作るチームは、信頼できないコードを安全に実行し、セッションをまたいで状態を保ち、突発的な需要をさばくために独自のインフラストラクチャを継ぎ合わせる必要がありましたが、それを置き換えるものです。Cobalt 200 Arm ベースの VM は、汎用の Dpsv7 と Dplsv7、メモリ最適化の Epsv7、ハイメモリの Mpsv4、高密度ストレージの Lpsv5 の 5 シリーズで、プレビューに続いて一般提供の告知も届きました。いずれも前世代の Cobalt 100 VM から大きく強化されています。
 "topics":
   - "翻訳: AI Translator の PDF バッチ翻訳改善、画像ファイル翻訳、Office 文書内の画像翻訳、統合テキスト翻訳 API がいずれも GA"
   - "ナレッジ: AI Search の OneLake カタログ統合が GA、Foundry IQ の MCP サーバーナレッジソースが GA"
   - "OS: Azure Linux 4.0 がパブリックプレビュー、AKS 向け Azure Container Linux が GA"
-  - "ハードウェア: Cobalt 200 Arm ベースの Dpsv7 / Epsv7 / Mpsv4 / Lpsv5 シリーズ VM がプレビュー"
+  - "ハードウェア: Cobalt 200 Arm ベースの Dpsv7 / Dplsv7 / Epsv7 / Mpsv4 / Lpsv5 シリーズ VM がプレビューを経て GA (前世代 Cobalt 100 から強化)"
   - "監視: Azure VM と Arc サーバー向け OpenTelemetry メトリクスが GA、ログ検索アラートの動的しきい値も GA"
   - "API 管理: API Management Premium v2 / Standard v2 がワイルドカードカスタムホスト名に対応、統合モデル API はプレビュー"
   - "バックアップ: Azure VM 上の SQL Server のスナップショットバックアップが GA、Cosmos DB の Vaulted バックアップがプレビュー"

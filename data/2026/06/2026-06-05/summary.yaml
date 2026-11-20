@@ -1,16 +1,16 @@
 "date": "2026-06-05"
-"generated_at": "2026-11-18 22:04:03 JST"
+"generated_at": "2026-11-21 08:08:04 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 15
+"article_count": 16
 "sources":
   - "azure_networking_blog"
   - "azure_updates"
 "overview": |
-  この日は Microsoft Foundry IQ の一般提供が中心でした。プロジェクトごとに検索パイプラインを作り直すことなく、エージェントをエンタープライズデータに接地させるマネージドなナレッジ層を提供します。あわせて Fabric のオントロジーを連携ナレッジソースとして扱う機能、Azure SQL Database を第一級のナレッジソースとする機能がいずれもプレビューで追加されました。Azure AI Search と Foundry ナレッジベースの間のプライベートなエンドツーエンド接続も GA しています。Azure AI Search の Azure Content Understanding スキルは、構造化 Markdown による意味的なチャンク分割と AI 生成の画像説明が一般提供となり (Content Understanding のチャンク分割と画像の言語化はプレビューでも発表)、Foundry IQ と組み合わせて使えます。監視では Azure Monitor に Service Level Indicators / Objectives が加わり、OpenTelemetry Collector 経由での OTLP シグナル取り込みも一般提供となりました。AKS では Azure CNI Overlay の Pod CIDR 拡張が GA しています。
+  この日は Microsoft Foundry IQ の一般提供が中心でした。プロジェクトごとに検索パイプラインを作り直すことなく、エージェントをエンタープライズデータに接地させるマネージドなナレッジ層を提供します。あわせて Fabric のオントロジーを連携ナレッジソースとして扱う機能、Azure SQL Database を第一級のナレッジソースとする機能がいずれもプレビューで追加されました。Azure AI Search と Foundry ナレッジベースの間のプライベートなエンドツーエンド接続も GA しています。Azure AI Search の Azure Content Understanding スキルは、構造化 Markdown による意味的なチャンク分割と AI 生成の画像説明が一般提供となり (Content Understanding のチャンク分割と画像の言語化はプレビューでも発表)、Foundry IQ と組み合わせて使えます。監視では Azure Monitor に Service Level Indicators / Objectives が加わり、OpenTelemetry Collector 経由での OTLP シグナル取り込みも一般提供となりました。AKS では Azure CNI Overlay の Pod CIDR 拡張が GA しています。同じ機能は Foundry IQ (旧 Azure AI Search) 側からも一般提供として告知されており、ドキュメントの構造を使って Markdown と位置のメタデータを備えたチャンクを作る点が説明されています。
 "topics":
   - "ナレッジ層: Microsoft Foundry IQ が GA、検索パイプラインを作り直さずにエージェントをエンタープライズデータへ接地"
   - "ナレッジソース: Fabric オントロジーと Azure SQL Database をナレッジソースとして扱う機能がプレビュー"
-  - "検索: AI Search の Content Understanding スキルによる意味的チャンク分割と AI 生成の画像説明が GA"
+  - "検索: Content Understanding スキルによる意味的チャンク分割と AI 生成の画像説明が GA (Azure AI Search と Foundry IQ の両方から告知)"
   - "ネットワーク: Azure AI Search と Foundry ナレッジベース間のプライベートなエンドツーエンド接続が GA"
   - "監視: Azure Monitor に SLI / SLO が追加、OpenTelemetry Collector 経由の OTLP 取り込みが GA"
   - "AKS: Azure CNI Overlay の Pod CIDR 拡張が一般提供、IP アドレス設計の自由度が向上"
