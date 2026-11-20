@@ -237,4 +237,11 @@
     "published": "2026-06-03 00:15:36"
     "fetched": "2026-11-18 10:24:32"
     "summary": "Azure Backup now supports snapshot-based backup for SQL Server running on Azure Virtual Machines. This new capability uses Azure disk snapshots combined with native SQL transaction log backups to deliver near-instant, low-impact full backups for large SQL"
-"last_updated": "2026-11-18 10:24:32 JST"
+  "e584079568edf6abc1812fd45378e34c":
+    "id": "e584079568edf6abc1812fd45378e34c"
+    "title": "[Launched] Generally Available: Azure Cobalt 200 Arm-based Dpsv7, Dplsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines"
+    "link": "https://azure.microsoft.com/updates?id=564451"
+    "published": "2026-06-03 06:00:30"
+    "fetched": "2026-11-21 07:00:45"
+    "summary": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now generally available. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improve"
+"last_updated": "2026-11-21 07:00:45 JST"

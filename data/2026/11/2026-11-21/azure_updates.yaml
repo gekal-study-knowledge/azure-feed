@@ -1,0 +1,9 @@
+"entries":
+  "ac302a875e0ffebc7dca122af20bf7fe":
+    "id": "ac302a875e0ffebc7dca122af20bf7fe"
+    "title": "[In preview] Public Preview: Azure Firewall for Containers"
+    "link": "https://azure.microsoft.com/updates?id=581963"
+    "published": "2026-11-21 05:05:17"
+    "fetched": "2026-11-21 07:00:45"
+    "summary": "Azure Firewall for Containers\nextends Azure Firewall protection to containerized workloads, providing a\ncentralized approach to securing network traffic for container environments.\nCustomers can use Azure Firewall capabilities as part of their container n"
+"last_updated": "2026-11-21 07:00:45 JST"

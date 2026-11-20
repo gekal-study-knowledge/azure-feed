@@ -97,4 +97,11 @@
     "published": "2026-06-05 04:00:34"
     "fetched": "2026-11-18 10:24:32"
     "summary": "The Azure Content Understanding skill in Azure AI Search is generally available for semantic chunking and AI-generated image descriptions, for use with Foundry IQ and Azure AI Search. The skill produces semantically coherent chunks with structured Markdow"
-"last_updated": "2026-11-18 10:24:32 JST"
+  "0b5ab3f0d1d3ea8a20a6a3429f8c5b64":
+    "id": "0b5ab3f0d1d3ea8a20a6a3429f8c5b64"
+    "title": "[Launched] Generally Available: Semantic chunking and image descriptions with Azure Content Understanding in Foundry IQ"
+    "link": "https://azure.microsoft.com/updates?id=563661"
+    "published": "2026-06-05 04:00:34"
+    "fetched": "2026-11-21 07:00:45"
+    "summary": "Foundry IQ—formerly Azure AI Search—now offers generally available semantic chunking and optional AI-generated image descriptions through the Azure Content Understanding skill.The skill uses document structure to create chunks with Markdown and location m"
+"last_updated": "2026-11-21 07:00:45 JST"
