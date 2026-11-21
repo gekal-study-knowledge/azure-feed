@@ -1,15 +1,17 @@
 "date": "2026-11-20"
-"generated_at": "2026-11-20 22:02:47 JST"
+"generated_at": "2026-11-21 22:02:04 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 6
+"article_count": 7
 "sources":
+  - "apps_on_azure_blog"
   - "azure_networking_blog"
   - "azure_updates"
 "overview": |
-  この日は 2 ソースから 6 本で、データベースの運用支援と可用性・復旧まわりのプレビューが中心でした。Azure Database for PostgreSQL では、データベースの正常性を先回りして監視し、メトリクスや構成をまとめて正常性やパフォーマンスの問題の検出・理解・対応を早める Database Agent がパブリックプレビューとなり、PostgreSQL 19 も Flexible Server の東アジアリージョンでパブリックプレビューとして Azure ポータルと Azure CLI から新規サーバーを作成して試せるようになりました。可用性では、対象のゾーン VM を既存の VM リソースと構成を保ったまま同じリージョンの別の可用性ゾーンで復旧できる Azure VM のゾーン回復性 (ZRS マネージドディスクのゾーン間同期レプリケーションを利用) がパブリックプレビューとなり、Azure Compute Gallery の論理的な削除が一般提供となって、誤って削除したイメージバージョンを 7〜365 日の保持期間内に復旧でき、保持期間中も論理削除済みイメージからデプロイできます。Azure DDoS Protection では、攻撃中に使っていた DDoS トラフィックメトリクスを平常時にも表示する peacetime telemetry がパブリックプレビューとなり、平常時のトラフィックを把握してアラートや監視を事前に試せるようになりました。そのほか、Microsoft Marketplace のマルチパーティプライベートオファーがマレーシアとサウジアラビアに拡大されました。
+  この日は 3 ソースから 7 本で、データベースの運用支援と可用性・復旧まわりのプレビューが中心でした。Azure Database for PostgreSQL では、データベースの正常性を先回りして監視し、メトリクスや構成をまとめて正常性やパフォーマンスの問題の検出・理解・対応を早める Database Agent がパブリックプレビューとなり、PostgreSQL 19 も Flexible Server の東アジアリージョンでパブリックプレビューとして Azure ポータルと Azure CLI から新規サーバーを作成して試せるようになりました。可用性では、対象のゾーン VM を既存の VM リソースと構成を保ったまま同じリージョンの別の可用性ゾーンで復旧できる Azure VM のゾーン回復性 (ZRS マネージドディスクのゾーン間同期レプリケーションを利用) がパブリックプレビューとなり、Azure Compute Gallery の論理的な削除が一般提供となって、誤って削除したイメージバージョンを 7〜365 日の保持期間内に復旧でき、保持期間中も論理削除済みイメージからデプロイできます。Azure DDoS Protection では、攻撃中に使っていた DDoS トラフィックメトリクスを平常時にも表示する peacetime telemetry がパブリックプレビューとなり、平常時のトラフィックを把握してアラートや監視を事前に試せるようになりました。そのほか、Microsoft Marketplace のマルチパーティプライベートオファーがマレーシアとサウジアラビアに拡大されました。後から追加された分では、Azure Managed Grafana への Azure SRE Agent の統合がプレビューとなり、Grafana ワークスペースと SRE Agent を組み合わせると、ダッシュボードのツールバーからエージェントを横のペインで開き、表示中のダッシュボードと同じデータソースを使ってクエリを書かずに調査を依頼できるようになりました。
 "topics":
   - "データベース: Azure Database for PostgreSQL の Database Agent と PostgreSQL 19 (東アジア) がパブリックプレビュー"
   - "可用性: Azure VM のゾーン回復性 (別ゾーンで既存の VM リソースのまま復旧) がパブリックプレビュー"
   - "復旧: Azure Compute Gallery の論理的な削除が一般提供 (保持期間 7〜365 日)"
   - "ネットワーク: Azure DDoS Protection の peacetime telemetry がパブリックプレビュー"
   - "マーケットプレイス: マルチパーティプライベートオファーがマレーシアとサウジアラビアに拡大"
+  - "運用: Azure Managed Grafana の Azure SRE Agent 統合がプレビュー、ダッシュボードから直接エージェントで調査"
