@@ -1,15 +1,16 @@
 "date": "2026-11-21"
-"generated_at": "2026-11-21 22:02:04 JST"
+"generated_at": "2026-11-22 22:01:07 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 7
+"article_count": 8
 "sources":
+  - "azure_infrastructure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 2 ソースから 7 本で、Microsoft Foundry のエージェント開発まわりの更新、コンテナー向けのネットワーク保護、Azure Functions の拡張機能の廃止告知が話題でした。廃止では、Azure Functions OpenAI 拡張機能のサポートが 2027 年 4 月 20 日に終了することが告知され、それまでにシナリオに応じて OpenAI、Microsoft Foundry、Azure AI Search の各 SDK を直接使う形へ移行するよう求められています。Microsoft Foundry では、個々の応答だけでなくエージェントとの会話全体を品質基準で評価できる Multi-turn evaluation と、オープンウェイトモデル向けに独自の事後学習ループを組める API である Programmed Training (プレビューのサインアップフォームによる申請制) がパブリックプレビューとなり、Foundry Toolkit for VS Code の Agent Builder が Microsoft Copilot harness を使うプロンプトエージェント (ツールとスキルの構成、ローカルの YAML 定義の編集、Foundry へのデプロイ) にパブリックプレビューで対応しました。エージェントの種類・モデル・ツールボックス・ガードレールに関係するポリシーを開発中に警告付きで示すガバナンスポリシーのガイダンスも、Foundry Canvas と Foundry Toolkit for VS Code で一般提供となっています。ネットワークでは、Azure Firewall の保護をコンテナー化されたワークロードまで広げ、コンテナー環境のネットワークトラフィックを一元的に守る Azure Firewall for Containers がパブリックプレビューとなりました。Microsoft Security Blog では、Microsoft が 2026 年の Gartner Magic Quadrant (SIEM 部門) で再びリーダーに選ばれたことが紹介されました。
+  この日は 3 ソースから 8 本で、Microsoft Foundry のエージェント開発まわりの更新、コンテナー向けのネットワーク保護、Azure Functions の拡張機能の廃止告知が話題でした。廃止では、Azure Functions OpenAI 拡張機能のサポートが 2027 年 4 月 20 日に終了することが告知され、それまでにシナリオに応じて OpenAI、Microsoft Foundry、Azure AI Search の各 SDK を直接使う形へ移行するよう求められています。Microsoft Foundry では、個々の応答だけでなくエージェントとの会話全体を品質基準で評価できる Multi-turn evaluation と、オープンウェイトモデル向けに独自の事後学習ループを組める API である Programmed Training (プレビューのサインアップフォームによる申請制) がパブリックプレビューとなり、Foundry Toolkit for VS Code の Agent Builder が Microsoft Copilot harness を使うプロンプトエージェント (ツールとスキルの構成、ローカルの YAML 定義の編集、Foundry へのデプロイ) にパブリックプレビューで対応しました。エージェントの種類・モデル・ツールボックス・ガードレールに関係するポリシーを開発中に警告付きで示すガバナンスポリシーのガイダンスも、Foundry Canvas と Foundry Toolkit for VS Code で一般提供となっています。ネットワークでは、Azure Firewall の保護をコンテナー化されたワークロードまで広げ、コンテナー環境のネットワークトラフィックを一元的に守る Azure Firewall for Containers がパブリックプレビューとなりました。Azure Infrastructure Blog では、Virtual WAN の Virtual Hub に Azure Firewall を構成する Secure Hub で、Firewall に顧客所有のパブリック IP を使う構成を AVM で実装する手順が解説されています。Microsoft Security Blog では、Microsoft が 2026 年の Gartner Magic Quadrant (SIEM 部門) で再びリーダーに選ばれたことが紹介されました。
 "topics":
   - "廃止: Azure Functions OpenAI 拡張機能のサポートが 2027 年 4 月 20 日に終了、OpenAI・Microsoft Foundry・Azure AI Search の SDK へ移行"
   - "AI・エージェント: Microsoft Foundry の Multi-turn evaluation と Programmed Training がパブリックプレビュー"
   - "開発ツール: Foundry Toolkit for VS Code の Microsoft Copilot harness 対応 (プレビュー)、Foundry Canvas と VS Code のガバナンスポリシーのガイダンス (GA)"
-  - "ネットワーク: Azure Firewall for Containers がパブリックプレビュー、コンテナー環境のトラフィックを一元的に保護"
+  - "ネットワーク: Azure Firewall for Containers がパブリックプレビュー、コンテナー環境のトラフィックを一元的に保護、Virtual WAN Secure Hub の Firewall に顧客所有のパブリック IP を使う構成を AVM で実装する解説"
   - "評価: Microsoft が 2026 年の Gartner Magic Quadrant (SIEM 部門) で再びリーダーに選出"
