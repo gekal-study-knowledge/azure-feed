@@ -111,4 +111,11 @@
     "published": "2026-11-24 03:01:19"
     "fetched": "2026-11-24 06:46:54"
     "summary": "WAF Insights is now generally available for Azure Front Door Web Application Firewall (WAF). WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate blocked reques"
-"last_updated": "2026-11-24 06:46:54 JST"
+  "7eb5e313fbf7193393c5e593dbf67bfb":
+    "id": "7eb5e313fbf7193393c5e593dbf67bfb"
+    "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ"
+    "link": "https://azure.microsoft.com/updates?id=581333"
+    "published": "2026-11-24 06:16:32"
+    "fetched": "2026-11-24 14:38:32"
+    "summary": "Foundry IQ adds Enterprise Knowledge Graph as a knowledge source for questions that depend on relationships across your content.During indexing, it extracts entities and relationships from unstructured content, guided by an ontology you provide. Agents ca"
+"last_updated": "2026-11-24 14:38:32 JST"
