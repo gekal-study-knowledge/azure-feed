@@ -1,0 +1,13 @@
+"date": "2026-11-23"
+"generated_at": "2026-11-25 06:02:14 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 3
+"sources":
+  - "azure_infrastructure_blog"
+  - "azure_networking_blog"
+"overview": |
+  この日は 2 ソースから 3 本で、セキュリティ運用のマルチエージェント化とハイブリッドネットワークの経路制御を扱う技術ブログが並びました。インフラブログの 2 回連載では、レッド・ブルー・グリーンの各チームのエージェント、Microsoft が公開するプレイブック、すべての手順を記録するセッションで構成されるマルチエージェント型の防御システム Microsoft Perception を Azure のプラットフォームチーム向けに解説しています。第 1 回は、スキャナーの検出からアラートの確認、露出の評価、パッチの優先順位付けまでの人の引き継ぎが遅さの原因であり、Perception は専門のエージェントが文脈を共有して作業を引き継ぎつつ重要な判断は人が行う仕組みだと説明します。第 2 回は、Posture Prioritization Agent が実際のリスク・露出・悪用可能性・資産の重要度で優先度を付けた CVE を人が承認し、Defender の高度なハンティングで影響を受けるデバイスを洗い出し、Azure Compute Gallery のゴールデンイメージに対応付けて、Packer と Azure DevOps の既存のイメージパイプラインで再ビルドさせる流れを示しています (VM を 1 台ずつ直すと次のスケールアウトや再構築で脆弱性が戻るため)。ネットワークブログでは、ExpressRoute ゲートウェイ・VPN ゲートウェイ・NVA の 3 経路が同じオンプレミスのプレフィックスを広告するハイブリッド構成で、Azure Route Server のルートマップを使って受信・送信するルートのフィルタリングや AS パスなどの BGP 属性の変更を行い、どの経路を優先しどうフェイルオーバーさせるかを制御する方法を解説しています。
+"topics":
+  - "セキュリティ運用: Microsoft Perception のマルチエージェント防御 (レッド・ブルー・グリーンのエージェント、プレイブック、セッション記録) の仕組み"
+  - "脆弱性対応: Perception で承認した CVE から Defender で影響デバイスを特定し、Azure Compute Gallery のゴールデンイメージを Packer と Azure DevOps で再ビルド"
+  - "ネットワーク: Azure Route Server のルートマップで ExpressRoute・VPN・NVA の経路の優先順位とフェイルオーバーを制御"
