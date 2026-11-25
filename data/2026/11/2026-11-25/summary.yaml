@@ -1,0 +1,13 @@
+"date": "2026-11-25"
+"generated_at": "2026-11-25 22:02:24 JST"
+"generated_by": "AI (Claude Opus 5)"
+"article_count": 8
+"sources":
+  - "azure_updates"
+"overview": |
+  この日は 1 ソースから 8 本で、Microsoft Foundry の AI エージェント運用を統制する機能のプレビューが中心でした。Foundry Agent Service では、ホストされたエージェントの送信先ドメインを Azure Policy で一元管理し、エージェントのバージョン作成前に準拠した送信ポリシーを付ける機能、既存の Agent2Agent (A2A) エージェントを Responses プロトコルへの変換なしにそのまま受け渡すネイティブ A2A パススルー、組織が管理する AI Gateway や Azure API Management のエンドポイントを経由して MCP ツールのトラフィックを流す機能、プロンプトエージェントのトレースのインサイトから指示や関数呼び出しツールの説明の変更候補を生成・評価する最適化機能がいずれもパブリックプレビューとなりました。Microsoft Foundry ではさらに、リソースやプロジェクト単位で支出やトークンの予算を設定し、しきい値に達すると Azure Event Grid で通知するか新しいリクエストを止めるコスト制御と、azd ai cu コマンドで Azure Document Intelligence と Content Understanding による文書分析を行い結果を Markdown や JSON で保存できる Azure Developer CLI 拡張もプレビューで登場しています。一般提供では、Azure AI Search と Foundry IQ が Azure Storage の権限に基づいてユーザーごとに検索結果を出し分けられるようになり、Azure Site Recovery が Ultra ディスクのゾーン間ディザスターリカバリー (Zonal DR) に対応しました。
+"topics":
+  - "エージェント統制 (プレビュー): Foundry Agent Service の送信先ドメインの Azure Policy による一元管理、自前ゲートウェイ経由の MCP ツール制御"
+  - "エージェント開発 (プレビュー): ネイティブ A2A パススルー、トレースのインサイトからのエージェント最適化"
+  - "コスト・ツール (プレビュー): Microsoft Foundry のモデル・エージェント支出のコスト制御、Document Intelligence・Content Understanding 向け azd 拡張"
+  - "一般提供: Azure AI Search と Foundry IQ で Azure Storage の権限による検索結果の制御、Azure Site Recovery の Ultra ディスク向けゾーン間 DR"
