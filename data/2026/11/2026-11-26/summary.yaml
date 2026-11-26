@@ -1,14 +1,16 @@
 "date": "2026-11-26"
-"generated_at": "2026-11-26 22:02:18 JST"
+"generated_at": "2026-11-27 06:01:06 JST"
 "generated_by": "AI (Claude Opus 5)"
-"article_count": 4
+"article_count": 5
 "sources":
+  - "apps_on_azure_blog"
   - "azure_updates"
   - "microsoft_security_blog"
 "overview": |
-  この日は 2 ソースから 4 本です。脅威インテリジェンスとして、AI を使ったペネトレーションテストフレームワーク ARTEX が、Storm-0940、Storm-3358、Onyx Sleet、Pearl Sleet、Crystal Typhoon、Salt Typhoon といった脅威アクターに悪用され、ネットワークの偵察、認証情報への攻撃、Web アプリケーションの脆弱性悪用といった既存の作業の高速化に使われていることと、防御側が知っておくべき点が解説されました。あわせて、Microsoft が 2026 年の Gartner Magic Quadrant for Email Security で 2 年連続のリーダーに選ばれたことが報告されています。 後から Azure Updates に 2 件が加わりました。Azure Functions での Java 8・11・17 のサポートが 2027 年 9 月 1 日に終了し、それ以降もアプリは動き続けますが、セキュリティ更新とカスタマーサービスは提供されなくなります。また Azure Virtual Network の等コストマルチパス (ECMP) ルーティングがパブリックプレビューとなり、1 つのユーザー定義ルート (UDR) で 2〜16 のネクストホップを指定して、複数のネットワークアプライアンスにトラフィックを分散できるようになりました。
+  この日は 3 ソースから 5 本です。脅威インテリジェンスとして、AI を使ったペネトレーションテストフレームワーク ARTEX が、Storm-0940、Storm-3358、Onyx Sleet、Pearl Sleet、Crystal Typhoon、Salt Typhoon といった脅威アクターに悪用され、ネットワークの偵察、認証情報への攻撃、Web アプリケーションの脆弱性悪用といった既存の作業の高速化に使われていることと、防御側が知っておくべき点が解説されました。あわせて、Microsoft が 2026 年の Gartner Magic Quadrant for Email Security で 2 年連続のリーダーに選ばれたことが報告されています。 後から Azure Updates に 2 件が加わりました。Azure Functions での Java 8・11・17 のサポートが 2027 年 9 月 1 日に終了し、それ以降もアプリは動き続けますが、セキュリティ更新とカスタマーサービスは提供されなくなります。また Azure Virtual Network の等コストマルチパス (ECMP) ルーティングがパブリックプレビューとなり、1 つのユーザー定義ルート (UDR) で 2〜16 のネクストホップを指定して、複数のネットワークアプライアンスにトラフィックを分散できるようになりました。 さらに Apps on Azure ブログで、ゴールデンイメージを管理する Brewlet が紹介されました。2026 年 10 月に PHP プロジェクトが認証なしのリモートコード実行につながる重大な脆弱性のセキュリティ更新を出した例を挙げ、Kubernetes で PHP を動かすチームにとってランタイムの修正はアプリケーションイメージの再ビルドやパイプライン・承認待ち、サービス間のデプロイ調整を伴いうるという課題に対し、ゴールデンイメージをプラットフォームの速さで管理する考え方を説明しています。
 "topics":
   - "脅威インテリジェンス: エージェンティック AI のペネトレーションテストフレームワーク ARTEX を Storm-0940・Storm-3358・Onyx Sleet・Pearl Sleet・Crystal Typhoon・Salt Typhoon が偵察・認証情報攻撃・Web アプリ攻撃に悪用"
   - "評価: 2026 年 Gartner Magic Quadrant for Email Security で 2 年連続リーダー"
   - "廃止 (追加分): Azure Functions の Java 8・11・17 サポートが 2027-09-01 に終了 (以降はセキュリティ更新なし)"
   - "ネットワーク (追加分): Azure Virtual Network の ECMP ネクストホップがパブリックプレビュー (1 つの UDR で 2〜16 のネクストホップに分散)"
+  - "コンテナ (追加分): ゴールデンイメージ管理の Brewlet を紹介 (2026 年 10 月の PHP の認証なし RCE 修正を例に、アプリのイメージ再ビルドに頼らないランタイム更新)"
