@@ -1,0 +1,16 @@
+"entries":
+  "8af1603ef671c59523637884af3fd6c5":
+    "id": "8af1603ef671c59523637884af3fd6c5"
+    "title": "[In preview] Public Preview: ECMP Nexthop"
+    "link": "https://azure.microsoft.com/updates?id=582326"
+    "published": "2026-11-26 08:14:20"
+    "fetched": "2026-11-26 12:16:22"
+    "summary": "Equal-Cost Multi-Path (ECMP)\nrouting for Azure Virtual Network is now available in public preview, enabling\ncustomers to distribute traffic across multiple network appliances using a\nsingle user-defined route (UDR). \nCustomers can configure 2 to 16 next-h"
+  "afd6c883d57e678dae4d53da6cba43c5":
+    "id": "afd6c883d57e678dae4d53da6cba43c5"
+    "title": "Retirement: Support for Java 8, 11 and 17 in Azure Functions ends on September 1, 2027"
+    "link": "https://azure.microsoft.com/updates?id=568586"
+    "published": "2026-11-26 06:53:30"
+    "fetched": "2026-11-26 12:16:22"
+    "summary": "Support for Java 8, 11 and 17 on Azure Functions is ending on September\n1, 2027. Your apps that are hosted on Azure Functions will continue to run, but\nsecurity updates will no longer be available, and we’ll no longer provide\ncustomer service for Java 8,"
+"last_updated": "2026-11-26 12:16:22 JST"
